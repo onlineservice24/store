@@ -1,4357 +1,4291 @@
 [
   {
-    "image": "https://logo.clearbit.com/app1.com?size=512",
-    "title": "AppName1",
-    "companyName": "Company1",
+    "image": "https://picsum.photos/seed/app1000/512/512",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1000,
+    "description": "Spotify by Spotify AB — easy intuitive. This app helps you track fitness and offers features like offline mode.",
+    "size": 339,
+    "reviews": 938912,
+    "ratingAvg": 4.42,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2201
+      },
+      {
+        "name": "2 star",
+        "count": 27944
+      },
+      {
+        "name": "3 star",
+        "count": 21946
+      },
+      {
+        "name": "4 star",
+        "count": 412731
+      },
+      {
+        "name": "5 star",
+        "count": 474090
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1001/512/512",
+    "title": "Instagram",
+    "companyName": "Instagram",
     "id": 1001,
-    "description": "This is a long description for AppName1. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 51,
-    "reviews": 1000,
-    "ratingAvg": 4.1,
-    "downloads": 10000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 10
-      },
-      {
-        "name": "2 star",
-        "count": 5
-      },
-      {
-        "name": "3 star",
-        "count": 15
-      },
-      {
-        "name": "4 star",
-        "count": 20
-      },
-      {
-        "name": "5 star",
-        "count": 50
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app2.com?size=512",
-    "title": "AppName2",
-    "companyName": "Company2",
-    "id": 1002,
-    "description": "This is a long description for AppName2. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 52,
-    "reviews": 2000,
-    "ratingAvg": 3.2,
-    "downloads": 20000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 20
-      },
-      {
-        "name": "2 star",
-        "count": 10
-      },
-      {
-        "name": "3 star",
-        "count": 30
-      },
-      {
-        "name": "4 star",
-        "count": 40
-      },
-      {
-        "name": "5 star",
-        "count": 100
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app3.com?size=512",
-    "title": "AppName3",
-    "companyName": "Company3",
-    "id": 1003,
-    "description": "This is a long description for AppName3. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 53,
-    "reviews": 3000,
-    "ratingAvg": 4.3,
-    "downloads": 30000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 30
-      },
-      {
-        "name": "2 star",
-        "count": 15
-      },
-      {
-        "name": "3 star",
-        "count": 45
-      },
-      {
-        "name": "4 star",
-        "count": 60
-      },
-      {
-        "name": "5 star",
-        "count": 150
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app4.com?size=512",
-    "title": "AppName4",
-    "companyName": "Company4",
-    "id": 1004,
-    "description": "This is a long description for AppName4. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 54,
-    "reviews": 4000,
-    "ratingAvg": 3.4,
-    "downloads": 40000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 40
-      },
-      {
-        "name": "2 star",
-        "count": 20
-      },
-      {
-        "name": "3 star",
-        "count": 60
-      },
-      {
-        "name": "4 star",
-        "count": 80
-      },
-      {
-        "name": "5 star",
-        "count": 200
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app5.com?size=512",
-    "title": "AppName5",
-    "companyName": "Company5",
-    "id": 1005,
-    "description": "This is a long description for AppName5. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 55,
-    "reviews": 5000,
-    "ratingAvg": 4.5,
-    "downloads": 50000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 50
-      },
-      {
-        "name": "2 star",
-        "count": 25
-      },
-      {
-        "name": "3 star",
-        "count": 75
-      },
-      {
-        "name": "4 star",
-        "count": 100
-      },
-      {
-        "name": "5 star",
-        "count": 250
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app6.com?size=512",
-    "title": "AppName6",
-    "companyName": "Company6",
-    "id": 1006,
-    "description": "This is a long description for AppName6. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 56,
-    "reviews": 6000,
-    "ratingAvg": 3.6,
-    "downloads": 60000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 60
-      },
-      {
-        "name": "2 star",
-        "count": 30
-      },
-      {
-        "name": "3 star",
-        "count": 90
-      },
-      {
-        "name": "4 star",
-        "count": 120
-      },
-      {
-        "name": "5 star",
-        "count": 300
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app7.com?size=512",
-    "title": "AppName7",
-    "companyName": "Company7",
-    "id": 1007,
-    "description": "This is a long description for AppName7. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 57,
-    "reviews": 7000,
-    "ratingAvg": 4.7,
-    "downloads": 70000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 70
-      },
-      {
-        "name": "2 star",
-        "count": 35
-      },
-      {
-        "name": "3 star",
-        "count": 105
-      },
-      {
-        "name": "4 star",
-        "count": 140
-      },
-      {
-        "name": "5 star",
-        "count": 350
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app8.com?size=512",
-    "title": "AppName8",
-    "companyName": "Company8",
-    "id": 1008,
-    "description": "This is a long description for AppName8. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 58,
-    "reviews": 8000,
-    "ratingAvg": 3.8,
-    "downloads": 80000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 80
-      },
-      {
-        "name": "2 star",
-        "count": 40
-      },
-      {
-        "name": "3 star",
-        "count": 120
-      },
-      {
-        "name": "4 star",
-        "count": 160
-      },
-      {
-        "name": "5 star",
-        "count": 400
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app9.com?size=512",
-    "title": "AppName9",
-    "companyName": "Company9",
-    "id": 1009,
-    "description": "This is a long description for AppName9. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 59,
-    "reviews": 9000,
-    "ratingAvg": 4.9,
-    "downloads": 90000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 90
-      },
-      {
-        "name": "2 star",
-        "count": 45
-      },
-      {
-        "name": "3 star",
-        "count": 135
-      },
-      {
-        "name": "4 star",
-        "count": 180
-      },
-      {
-        "name": "5 star",
-        "count": 450
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app10.com?size=512",
-    "title": "AppName10",
-    "companyName": "Company10",
-    "id": 1010,
-    "description": "This is a long description for AppName10. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 60,
-    "reviews": 10000,
-    "ratingAvg": 3.0,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 100
-      },
-      {
-        "name": "2 star",
-        "count": 50
-      },
-      {
-        "name": "3 star",
-        "count": 150
-      },
-      {
-        "name": "4 star",
-        "count": 200
-      },
-      {
-        "name": "5 star",
-        "count": 500
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app11.com?size=512",
-    "title": "AppName11",
-    "companyName": "Company11",
-    "id": 1011,
-    "description": "This is a long description for AppName11. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 61,
-    "reviews": 11000,
-    "ratingAvg": 4.1,
-    "downloads": 110000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 110
-      },
-      {
-        "name": "2 star",
-        "count": 55
-      },
-      {
-        "name": "3 star",
-        "count": 165
-      },
-      {
-        "name": "4 star",
-        "count": 220
-      },
-      {
-        "name": "5 star",
-        "count": 550
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app12.com?size=512",
-    "title": "AppName12",
-    "companyName": "Company12",
-    "id": 1012,
-    "description": "This is a long description for AppName12. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 62,
-    "reviews": 12000,
-    "ratingAvg": 3.2,
-    "downloads": 120000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 120
-      },
-      {
-        "name": "2 star",
-        "count": 60
-      },
-      {
-        "name": "3 star",
-        "count": 180
-      },
-      {
-        "name": "4 star",
-        "count": 240
-      },
-      {
-        "name": "5 star",
-        "count": 600
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app13.com?size=512",
-    "title": "AppName13",
-    "companyName": "Company13",
-    "id": 1013,
-    "description": "This is a long description for AppName13. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 63,
-    "reviews": 13000,
-    "ratingAvg": 4.3,
-    "downloads": 130000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 130
-      },
-      {
-        "name": "2 star",
-        "count": 65
-      },
-      {
-        "name": "3 star",
-        "count": 195
-      },
-      {
-        "name": "4 star",
-        "count": 260
-      },
-      {
-        "name": "5 star",
-        "count": 650
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app14.com?size=512",
-    "title": "AppName14",
-    "companyName": "Company14",
-    "id": 1014,
-    "description": "This is a long description for AppName14. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 64,
-    "reviews": 14000,
-    "ratingAvg": 3.4,
-    "downloads": 140000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 140
-      },
-      {
-        "name": "2 star",
-        "count": 70
-      },
-      {
-        "name": "3 star",
-        "count": 210
-      },
-      {
-        "name": "4 star",
-        "count": 280
-      },
-      {
-        "name": "5 star",
-        "count": 700
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app15.com?size=512",
-    "title": "AppName15",
-    "companyName": "Company15",
-    "id": 1015,
-    "description": "This is a long description for AppName15. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 65,
-    "reviews": 15000,
-    "ratingAvg": 4.5,
-    "downloads": 150000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 150
-      },
-      {
-        "name": "2 star",
-        "count": 75
-      },
-      {
-        "name": "3 star",
-        "count": 225
-      },
-      {
-        "name": "4 star",
-        "count": 300
-      },
-      {
-        "name": "5 star",
-        "count": 750
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app16.com?size=512",
-    "title": "AppName16",
-    "companyName": "Company16",
-    "id": 1016,
-    "description": "This is a long description for AppName16. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 66,
-    "reviews": 16000,
-    "ratingAvg": 3.6,
-    "downloads": 160000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 160
-      },
-      {
-        "name": "2 star",
-        "count": 80
-      },
-      {
-        "name": "3 star",
-        "count": 240
-      },
-      {
-        "name": "4 star",
-        "count": 320
-      },
-      {
-        "name": "5 star",
-        "count": 800
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app17.com?size=512",
-    "title": "AppName17",
-    "companyName": "Company17",
-    "id": 1017,
-    "description": "This is a long description for AppName17. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 67,
-    "reviews": 17000,
-    "ratingAvg": 4.7,
-    "downloads": 170000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 170
-      },
-      {
-        "name": "2 star",
-        "count": 85
-      },
-      {
-        "name": "3 star",
-        "count": 255
-      },
-      {
-        "name": "4 star",
-        "count": 340
-      },
-      {
-        "name": "5 star",
-        "count": 850
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app18.com?size=512",
-    "title": "AppName18",
-    "companyName": "Company18",
-    "id": 1018,
-    "description": "This is a long description for AppName18. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 68,
-    "reviews": 18000,
-    "ratingAvg": 3.8,
-    "downloads": 180000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 180
-      },
-      {
-        "name": "2 star",
-        "count": 90
-      },
-      {
-        "name": "3 star",
-        "count": 270
-      },
-      {
-        "name": "4 star",
-        "count": 360
-      },
-      {
-        "name": "5 star",
-        "count": 900
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app19.com?size=512",
-    "title": "AppName19",
-    "companyName": "Company19",
-    "id": 1019,
-    "description": "This is a long description for AppName19. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 69,
-    "reviews": 19000,
-    "ratingAvg": 4.9,
-    "downloads": 190000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 190
-      },
-      {
-        "name": "2 star",
-        "count": 95
-      },
-      {
-        "name": "3 star",
-        "count": 285
-      },
-      {
-        "name": "4 star",
-        "count": 380
-      },
-      {
-        "name": "5 star",
-        "count": 950
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app20.com?size=512",
-    "title": "AppName20",
-    "companyName": "Company20",
-    "id": 1020,
-    "description": "This is a long description for AppName20. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 70,
-    "reviews": 20000,
-    "ratingAvg": 3.0,
-    "downloads": 200000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 200
-      },
-      {
-        "name": "2 star",
-        "count": 100
-      },
-      {
-        "name": "3 star",
-        "count": 300
-      },
-      {
-        "name": "4 star",
-        "count": 400
-      },
-      {
-        "name": "5 star",
-        "count": 1000
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app21.com?size=512",
-    "title": "AppName21",
-    "companyName": "Company21",
-    "id": 1021,
-    "description": "This is a long description for AppName21. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 71,
-    "reviews": 21000,
-    "ratingAvg": 4.1,
-    "downloads": 210000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 210
-      },
-      {
-        "name": "2 star",
-        "count": 105
-      },
-      {
-        "name": "3 star",
-        "count": 315
-      },
-      {
-        "name": "4 star",
-        "count": 420
-      },
-      {
-        "name": "5 star",
-        "count": 1050
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app22.com?size=512",
-    "title": "AppName22",
-    "companyName": "Company22",
-    "id": 1022,
-    "description": "This is a long description for AppName22. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 72,
-    "reviews": 22000,
-    "ratingAvg": 3.2,
-    "downloads": 220000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 220
-      },
-      {
-        "name": "2 star",
-        "count": 110
-      },
-      {
-        "name": "3 star",
-        "count": 330
-      },
-      {
-        "name": "4 star",
-        "count": 440
-      },
-      {
-        "name": "5 star",
-        "count": 1100
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app23.com?size=512",
-    "title": "AppName23",
-    "companyName": "Company23",
-    "id": 1023,
-    "description": "This is a long description for AppName23. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 73,
-    "reviews": 23000,
-    "ratingAvg": 4.3,
-    "downloads": 230000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 230
-      },
-      {
-        "name": "2 star",
-        "count": 115
-      },
-      {
-        "name": "3 star",
-        "count": 345
-      },
-      {
-        "name": "4 star",
-        "count": 460
-      },
-      {
-        "name": "5 star",
-        "count": 1150
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app24.com?size=512",
-    "title": "AppName24",
-    "companyName": "Company24",
-    "id": 1024,
-    "description": "This is a long description for AppName24. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 74,
-    "reviews": 24000,
-    "ratingAvg": 3.4,
-    "downloads": 240000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 240
-      },
-      {
-        "name": "2 star",
-        "count": 120
-      },
-      {
-        "name": "3 star",
-        "count": 360
-      },
-      {
-        "name": "4 star",
-        "count": 480
-      },
-      {
-        "name": "5 star",
-        "count": 1200
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app25.com?size=512",
-    "title": "AppName25",
-    "companyName": "Company25",
-    "id": 1025,
-    "description": "This is a long description for AppName25. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 75,
-    "reviews": 25000,
-    "ratingAvg": 4.5,
-    "downloads": 250000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 250
-      },
-      {
-        "name": "2 star",
-        "count": 125
-      },
-      {
-        "name": "3 star",
-        "count": 375
-      },
-      {
-        "name": "4 star",
-        "count": 500
-      },
-      {
-        "name": "5 star",
-        "count": 1250
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app26.com?size=512",
-    "title": "AppName26",
-    "companyName": "Company26",
-    "id": 1026,
-    "description": "This is a long description for AppName26. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 76,
-    "reviews": 26000,
-    "ratingAvg": 3.6,
-    "downloads": 260000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 260
-      },
-      {
-        "name": "2 star",
-        "count": 130
-      },
-      {
-        "name": "3 star",
-        "count": 390
-      },
-      {
-        "name": "4 star",
-        "count": 520
-      },
-      {
-        "name": "5 star",
-        "count": 1300
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app27.com?size=512",
-    "title": "AppName27",
-    "companyName": "Company27",
-    "id": 1027,
-    "description": "This is a long description for AppName27. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 77,
-    "reviews": 27000,
-    "ratingAvg": 4.7,
-    "downloads": 270000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 270
-      },
-      {
-        "name": "2 star",
-        "count": 135
-      },
-      {
-        "name": "3 star",
-        "count": 405
-      },
-      {
-        "name": "4 star",
-        "count": 540
-      },
-      {
-        "name": "5 star",
-        "count": 1350
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app28.com?size=512",
-    "title": "AppName28",
-    "companyName": "Company28",
-    "id": 1028,
-    "description": "This is a long description for AppName28. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 78,
-    "reviews": 28000,
-    "ratingAvg": 3.8,
-    "downloads": 280000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 280
-      },
-      {
-        "name": "2 star",
-        "count": 140
-      },
-      {
-        "name": "3 star",
-        "count": 420
-      },
-      {
-        "name": "4 star",
-        "count": 560
-      },
-      {
-        "name": "5 star",
-        "count": 1400
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app29.com?size=512",
-    "title": "AppName29",
-    "companyName": "Company29",
-    "id": 1029,
-    "description": "This is a long description for AppName29. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 79,
-    "reviews": 29000,
-    "ratingAvg": 4.9,
-    "downloads": 290000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 290
-      },
-      {
-        "name": "2 star",
-        "count": 145
-      },
-      {
-        "name": "3 star",
-        "count": 435
-      },
-      {
-        "name": "4 star",
-        "count": 580
-      },
-      {
-        "name": "5 star",
-        "count": 1450
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app30.com?size=512",
-    "title": "AppName30",
-    "companyName": "Company30",
-    "id": 1030,
-    "description": "This is a long description for AppName30. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 80,
-    "reviews": 30000,
-    "ratingAvg": 3.0,
-    "downloads": 300000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 300
-      },
-      {
-        "name": "2 star",
-        "count": 150
-      },
-      {
-        "name": "3 star",
-        "count": 450
-      },
-      {
-        "name": "4 star",
-        "count": 600
-      },
-      {
-        "name": "5 star",
-        "count": 1500
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app31.com?size=512",
-    "title": "AppName31",
-    "companyName": "Company31",
-    "id": 1031,
-    "description": "This is a long description for AppName31. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 81,
-    "reviews": 31000,
-    "ratingAvg": 4.1,
-    "downloads": 310000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 310
-      },
-      {
-        "name": "2 star",
-        "count": 155
-      },
-      {
-        "name": "3 star",
-        "count": 465
-      },
-      {
-        "name": "4 star",
-        "count": 620
-      },
-      {
-        "name": "5 star",
-        "count": 1550
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app32.com?size=512",
-    "title": "AppName32",
-    "companyName": "Company32",
-    "id": 1032,
-    "description": "This is a long description for AppName32. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 82,
-    "reviews": 32000,
-    "ratingAvg": 3.2,
-    "downloads": 320000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 320
-      },
-      {
-        "name": "2 star",
-        "count": 160
-      },
-      {
-        "name": "3 star",
-        "count": 480
-      },
-      {
-        "name": "4 star",
-        "count": 640
-      },
-      {
-        "name": "5 star",
-        "count": 1600
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app33.com?size=512",
-    "title": "AppName33",
-    "companyName": "Company33",
-    "id": 1033,
-    "description": "This is a long description for AppName33. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 83,
-    "reviews": 33000,
-    "ratingAvg": 4.3,
-    "downloads": 330000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 330
-      },
-      {
-        "name": "2 star",
-        "count": 165
-      },
-      {
-        "name": "3 star",
-        "count": 495
-      },
-      {
-        "name": "4 star",
-        "count": 660
-      },
-      {
-        "name": "5 star",
-        "count": 1650
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app34.com?size=512",
-    "title": "AppName34",
-    "companyName": "Company34",
-    "id": 1034,
-    "description": "This is a long description for AppName34. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 84,
-    "reviews": 34000,
-    "ratingAvg": 3.4,
-    "downloads": 340000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 340
-      },
-      {
-        "name": "2 star",
-        "count": 170
-      },
-      {
-        "name": "3 star",
-        "count": 510
-      },
-      {
-        "name": "4 star",
-        "count": 680
-      },
-      {
-        "name": "5 star",
-        "count": 1700
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app35.com?size=512",
-    "title": "AppName35",
-    "companyName": "Company35",
-    "id": 1035,
-    "description": "This is a long description for AppName35. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 85,
-    "reviews": 35000,
-    "ratingAvg": 4.5,
-    "downloads": 350000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 350
-      },
-      {
-        "name": "2 star",
-        "count": 175
-      },
-      {
-        "name": "3 star",
-        "count": 525
-      },
-      {
-        "name": "4 star",
-        "count": 700
-      },
-      {
-        "name": "5 star",
-        "count": 1750
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app36.com?size=512",
-    "title": "AppName36",
-    "companyName": "Company36",
-    "id": 1036,
-    "description": "This is a long description for AppName36. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 86,
-    "reviews": 36000,
-    "ratingAvg": 3.6,
-    "downloads": 360000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 360
-      },
-      {
-        "name": "2 star",
-        "count": 180
-      },
-      {
-        "name": "3 star",
-        "count": 540
-      },
-      {
-        "name": "4 star",
-        "count": 720
-      },
-      {
-        "name": "5 star",
-        "count": 1800
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app37.com?size=512",
-    "title": "AppName37",
-    "companyName": "Company37",
-    "id": 1037,
-    "description": "This is a long description for AppName37. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 87,
-    "reviews": 37000,
-    "ratingAvg": 4.7,
-    "downloads": 370000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 370
-      },
-      {
-        "name": "2 star",
-        "count": 185
-      },
-      {
-        "name": "3 star",
-        "count": 555
-      },
-      {
-        "name": "4 star",
-        "count": 740
-      },
-      {
-        "name": "5 star",
-        "count": 1850
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app38.com?size=512",
-    "title": "AppName38",
-    "companyName": "Company38",
-    "id": 1038,
-    "description": "This is a long description for AppName38. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 88,
-    "reviews": 38000,
-    "ratingAvg": 3.8,
-    "downloads": 380000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 380
-      },
-      {
-        "name": "2 star",
-        "count": 190
-      },
-      {
-        "name": "3 star",
-        "count": 570
-      },
-      {
-        "name": "4 star",
-        "count": 760
-      },
-      {
-        "name": "5 star",
-        "count": 1900
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app39.com?size=512",
-    "title": "AppName39",
-    "companyName": "Company39",
-    "id": 1039,
-    "description": "This is a long description for AppName39. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 89,
-    "reviews": 39000,
-    "ratingAvg": 4.9,
-    "downloads": 390000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 390
-      },
-      {
-        "name": "2 star",
-        "count": 195
-      },
-      {
-        "name": "3 star",
-        "count": 585
-      },
-      {
-        "name": "4 star",
-        "count": 780
-      },
-      {
-        "name": "5 star",
-        "count": 1950
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app40.com?size=512",
-    "title": "AppName40",
-    "companyName": "Company40",
-    "id": 1040,
-    "description": "This is a long description for AppName40. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 90,
-    "reviews": 40000,
-    "ratingAvg": 3.0,
-    "downloads": 400000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 400
-      },
-      {
-        "name": "2 star",
-        "count": 200
-      },
-      {
-        "name": "3 star",
-        "count": 600
-      },
-      {
-        "name": "4 star",
-        "count": 800
-      },
-      {
-        "name": "5 star",
-        "count": 2000
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app41.com?size=512",
-    "title": "AppName41",
-    "companyName": "Company41",
-    "id": 1041,
-    "description": "This is a long description for AppName41. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 91,
-    "reviews": 41000,
-    "ratingAvg": 4.1,
-    "downloads": 410000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 410
-      },
-      {
-        "name": "2 star",
-        "count": 205
-      },
-      {
-        "name": "3 star",
-        "count": 615
-      },
-      {
-        "name": "4 star",
-        "count": 820
-      },
-      {
-        "name": "5 star",
-        "count": 2050
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app42.com?size=512",
-    "title": "AppName42",
-    "companyName": "Company42",
-    "id": 1042,
-    "description": "This is a long description for AppName42. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 92,
-    "reviews": 42000,
-    "ratingAvg": 3.2,
-    "downloads": 420000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 420
-      },
-      {
-        "name": "2 star",
-        "count": 210
-      },
-      {
-        "name": "3 star",
-        "count": 630
-      },
-      {
-        "name": "4 star",
-        "count": 840
-      },
-      {
-        "name": "5 star",
-        "count": 2100
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app43.com?size=512",
-    "title": "AppName43",
-    "companyName": "Company43",
-    "id": 1043,
-    "description": "This is a long description for AppName43. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 93,
-    "reviews": 43000,
-    "ratingAvg": 4.3,
-    "downloads": 430000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 430
-      },
-      {
-        "name": "2 star",
-        "count": 215
-      },
-      {
-        "name": "3 star",
-        "count": 645
-      },
-      {
-        "name": "4 star",
-        "count": 860
-      },
-      {
-        "name": "5 star",
-        "count": 2150
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app44.com?size=512",
-    "title": "AppName44",
-    "companyName": "Company44",
-    "id": 1044,
-    "description": "This is a long description for AppName44. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 94,
-    "reviews": 44000,
-    "ratingAvg": 3.4,
-    "downloads": 440000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 440
-      },
-      {
-        "name": "2 star",
-        "count": 220
-      },
-      {
-        "name": "3 star",
-        "count": 660
-      },
-      {
-        "name": "4 star",
-        "count": 880
-      },
-      {
-        "name": "5 star",
-        "count": 2200
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app45.com?size=512",
-    "title": "AppName45",
-    "companyName": "Company45",
-    "id": 1045,
-    "description": "This is a long description for AppName45. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 95,
-    "reviews": 45000,
-    "ratingAvg": 4.5,
-    "downloads": 450000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 450
-      },
-      {
-        "name": "2 star",
-        "count": 225
-      },
-      {
-        "name": "3 star",
-        "count": 675
-      },
-      {
-        "name": "4 star",
-        "count": 900
-      },
-      {
-        "name": "5 star",
-        "count": 2250
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app46.com?size=512",
-    "title": "AppName46",
-    "companyName": "Company46",
-    "id": 1046,
-    "description": "This is a long description for AppName46. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 96,
-    "reviews": 46000,
-    "ratingAvg": 3.6,
-    "downloads": 460000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 460
-      },
-      {
-        "name": "2 star",
-        "count": 230
-      },
-      {
-        "name": "3 star",
-        "count": 690
-      },
-      {
-        "name": "4 star",
-        "count": 920
-      },
-      {
-        "name": "5 star",
-        "count": 2300
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app47.com?size=512",
-    "title": "AppName47",
-    "companyName": "Company47",
-    "id": 1047,
-    "description": "This is a long description for AppName47. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 97,
-    "reviews": 47000,
-    "ratingAvg": 4.7,
-    "downloads": 470000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 470
-      },
-      {
-        "name": "2 star",
-        "count": 235
-      },
-      {
-        "name": "3 star",
-        "count": 705
-      },
-      {
-        "name": "4 star",
-        "count": 940
-      },
-      {
-        "name": "5 star",
-        "count": 2350
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app48.com?size=512",
-    "title": "AppName48",
-    "companyName": "Company48",
-    "id": 1048,
-    "description": "This is a long description for AppName48. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 98,
-    "reviews": 48000,
-    "ratingAvg": 3.8,
-    "downloads": 480000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 480
-      },
-      {
-        "name": "2 star",
-        "count": 240
-      },
-      {
-        "name": "3 star",
-        "count": 720
-      },
-      {
-        "name": "4 star",
-        "count": 960
-      },
-      {
-        "name": "5 star",
-        "count": 2400
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app49.com?size=512",
-    "title": "AppName49",
-    "companyName": "Company49",
-    "id": 1049,
-    "description": "This is a long description for AppName49. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 99,
-    "reviews": 49000,
-    "ratingAvg": 4.9,
-    "downloads": 490000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 490
-      },
-      {
-        "name": "2 star",
-        "count": 245
-      },
-      {
-        "name": "3 star",
-        "count": 735
-      },
-      {
-        "name": "4 star",
-        "count": 980
-      },
-      {
-        "name": "5 star",
-        "count": 2450
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app50.com?size=512",
-    "title": "AppName50",
-    "companyName": "Company50",
-    "id": 1050,
-    "description": "This is a long description for AppName50. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 100,
-    "reviews": 50000,
-    "ratingAvg": 3.0,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 500
-      },
-      {
-        "name": "2 star",
-        "count": 250
-      },
-      {
-        "name": "3 star",
-        "count": 750
-      },
-      {
-        "name": "4 star",
-        "count": 1000
-      },
-      {
-        "name": "5 star",
-        "count": 2500
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app51.com?size=512",
-    "title": "AppName51",
-    "companyName": "Company51",
-    "id": 1051,
-    "description": "This is a long description for AppName51. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 101,
-    "reviews": 51000,
-    "ratingAvg": 4.1,
-    "downloads": 510000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 510
-      },
-      {
-        "name": "2 star",
-        "count": 255
-      },
-      {
-        "name": "3 star",
-        "count": 765
-      },
-      {
-        "name": "4 star",
-        "count": 1020
-      },
-      {
-        "name": "5 star",
-        "count": 2550
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app52.com?size=512",
-    "title": "AppName52",
-    "companyName": "Company52",
-    "id": 1052,
-    "description": "This is a long description for AppName52. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 102,
-    "reviews": 52000,
-    "ratingAvg": 3.2,
-    "downloads": 520000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 520
-      },
-      {
-        "name": "2 star",
-        "count": 260
-      },
-      {
-        "name": "3 star",
-        "count": 780
-      },
-      {
-        "name": "4 star",
-        "count": 1040
-      },
-      {
-        "name": "5 star",
-        "count": 2600
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app53.com?size=512",
-    "title": "AppName53",
-    "companyName": "Company53",
-    "id": 1053,
-    "description": "This is a long description for AppName53. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 103,
-    "reviews": 53000,
-    "ratingAvg": 4.3,
-    "downloads": 530000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 530
-      },
-      {
-        "name": "2 star",
-        "count": 265
-      },
-      {
-        "name": "3 star",
-        "count": 795
-      },
-      {
-        "name": "4 star",
-        "count": 1060
-      },
-      {
-        "name": "5 star",
-        "count": 2650
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app54.com?size=512",
-    "title": "AppName54",
-    "companyName": "Company54",
-    "id": 1054,
-    "description": "This is a long description for AppName54. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 104,
-    "reviews": 54000,
-    "ratingAvg": 3.4,
-    "downloads": 540000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 540
-      },
-      {
-        "name": "2 star",
-        "count": 270
-      },
-      {
-        "name": "3 star",
-        "count": 810
-      },
-      {
-        "name": "4 star",
-        "count": 1080
-      },
-      {
-        "name": "5 star",
-        "count": 2700
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app55.com?size=512",
-    "title": "AppName55",
-    "companyName": "Company55",
-    "id": 1055,
-    "description": "This is a long description for AppName55. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 105,
-    "reviews": 55000,
-    "ratingAvg": 4.5,
-    "downloads": 550000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 550
-      },
-      {
-        "name": "2 star",
-        "count": 275
-      },
-      {
-        "name": "3 star",
-        "count": 825
-      },
-      {
-        "name": "4 star",
-        "count": 1100
-      },
-      {
-        "name": "5 star",
-        "count": 2750
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app56.com?size=512",
-    "title": "AppName56",
-    "companyName": "Company56",
-    "id": 1056,
-    "description": "This is a long description for AppName56. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 106,
-    "reviews": 56000,
-    "ratingAvg": 3.6,
-    "downloads": 560000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 560
-      },
-      {
-        "name": "2 star",
-        "count": 280
-      },
-      {
-        "name": "3 star",
-        "count": 840
-      },
-      {
-        "name": "4 star",
-        "count": 1120
-      },
-      {
-        "name": "5 star",
-        "count": 2800
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app57.com?size=512",
-    "title": "AppName57",
-    "companyName": "Company57",
-    "id": 1057,
-    "description": "This is a long description for AppName57. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 107,
-    "reviews": 57000,
-    "ratingAvg": 4.7,
-    "downloads": 570000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 570
-      },
-      {
-        "name": "2 star",
-        "count": 285
-      },
-      {
-        "name": "3 star",
-        "count": 855
-      },
-      {
-        "name": "4 star",
-        "count": 1140
-      },
-      {
-        "name": "5 star",
-        "count": 2850
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app58.com?size=512",
-    "title": "AppName58",
-    "companyName": "Company58",
-    "id": 1058,
-    "description": "This is a long description for AppName58. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 108,
-    "reviews": 58000,
-    "ratingAvg": 3.8,
-    "downloads": 580000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 580
-      },
-      {
-        "name": "2 star",
-        "count": 290
-      },
-      {
-        "name": "3 star",
-        "count": 870
-      },
-      {
-        "name": "4 star",
-        "count": 1160
-      },
-      {
-        "name": "5 star",
-        "count": 2900
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app59.com?size=512",
-    "title": "AppName59",
-    "companyName": "Company59",
-    "id": 1059,
-    "description": "This is a long description for AppName59. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 109,
-    "reviews": 59000,
-    "ratingAvg": 4.9,
-    "downloads": 590000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 590
-      },
-      {
-        "name": "2 star",
-        "count": 295
-      },
-      {
-        "name": "3 star",
-        "count": 885
-      },
-      {
-        "name": "4 star",
-        "count": 1180
-      },
-      {
-        "name": "5 star",
-        "count": 2950
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app60.com?size=512",
-    "title": "AppName60",
-    "companyName": "Company60",
-    "id": 1060,
-    "description": "This is a long description for AppName60. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 110,
-    "reviews": 60000,
-    "ratingAvg": 3.0,
-    "downloads": 600000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 600
-      },
-      {
-        "name": "2 star",
-        "count": 300
-      },
-      {
-        "name": "3 star",
-        "count": 900
-      },
-      {
-        "name": "4 star",
-        "count": 1200
-      },
-      {
-        "name": "5 star",
-        "count": 3000
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app61.com?size=512",
-    "title": "AppName61",
-    "companyName": "Company61",
-    "id": 1061,
-    "description": "This is a long description for AppName61. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 111,
-    "reviews": 61000,
-    "ratingAvg": 4.1,
-    "downloads": 610000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 610
-      },
-      {
-        "name": "2 star",
-        "count": 305
-      },
-      {
-        "name": "3 star",
-        "count": 915
-      },
-      {
-        "name": "4 star",
-        "count": 1220
-      },
-      {
-        "name": "5 star",
-        "count": 3050
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app62.com?size=512",
-    "title": "AppName62",
-    "companyName": "Company62",
-    "id": 1062,
-    "description": "This is a long description for AppName62. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 112,
-    "reviews": 62000,
-    "ratingAvg": 3.2,
-    "downloads": 620000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 620
-      },
-      {
-        "name": "2 star",
-        "count": 310
-      },
-      {
-        "name": "3 star",
-        "count": 930
-      },
-      {
-        "name": "4 star",
-        "count": 1240
-      },
-      {
-        "name": "5 star",
-        "count": 3100
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app63.com?size=512",
-    "title": "AppName63",
-    "companyName": "Company63",
-    "id": 1063,
-    "description": "This is a long description for AppName63. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 113,
-    "reviews": 63000,
-    "ratingAvg": 4.3,
-    "downloads": 630000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 630
-      },
-      {
-        "name": "2 star",
-        "count": 315
-      },
-      {
-        "name": "3 star",
-        "count": 945
-      },
-      {
-        "name": "4 star",
-        "count": 1260
-      },
-      {
-        "name": "5 star",
-        "count": 3150
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app64.com?size=512",
-    "title": "AppName64",
-    "companyName": "Company64",
-    "id": 1064,
-    "description": "This is a long description for AppName64. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 114,
-    "reviews": 64000,
-    "ratingAvg": 3.4,
-    "downloads": 640000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 640
-      },
-      {
-        "name": "2 star",
-        "count": 320
-      },
-      {
-        "name": "3 star",
-        "count": 960
-      },
-      {
-        "name": "4 star",
-        "count": 1280
-      },
-      {
-        "name": "5 star",
-        "count": 3200
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app65.com?size=512",
-    "title": "AppName65",
-    "companyName": "Company65",
-    "id": 1065,
-    "description": "This is a long description for AppName65. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 115,
-    "reviews": 65000,
-    "ratingAvg": 4.5,
-    "downloads": 650000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 650
-      },
-      {
-        "name": "2 star",
-        "count": 325
-      },
-      {
-        "name": "3 star",
-        "count": 975
-      },
-      {
-        "name": "4 star",
-        "count": 1300
-      },
-      {
-        "name": "5 star",
-        "count": 3250
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app66.com?size=512",
-    "title": "AppName66",
-    "companyName": "Company66",
-    "id": 1066,
-    "description": "This is a long description for AppName66. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 116,
-    "reviews": 66000,
-    "ratingAvg": 3.6,
-    "downloads": 660000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 660
-      },
-      {
-        "name": "2 star",
-        "count": 330
-      },
-      {
-        "name": "3 star",
-        "count": 990
-      },
-      {
-        "name": "4 star",
-        "count": 1320
-      },
-      {
-        "name": "5 star",
-        "count": 3300
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app67.com?size=512",
-    "title": "AppName67",
-    "companyName": "Company67",
-    "id": 1067,
-    "description": "This is a long description for AppName67. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 117,
-    "reviews": 67000,
-    "ratingAvg": 4.7,
-    "downloads": 670000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 670
-      },
-      {
-        "name": "2 star",
-        "count": 335
-      },
-      {
-        "name": "3 star",
-        "count": 1005
-      },
-      {
-        "name": "4 star",
-        "count": 1340
-      },
-      {
-        "name": "5 star",
-        "count": 3350
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app68.com?size=512",
-    "title": "AppName68",
-    "companyName": "Company68",
-    "id": 1068,
-    "description": "This is a long description for AppName68. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 118,
-    "reviews": 68000,
-    "ratingAvg": 3.8,
-    "downloads": 680000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 680
-      },
-      {
-        "name": "2 star",
-        "count": 340
-      },
-      {
-        "name": "3 star",
-        "count": 1020
-      },
-      {
-        "name": "4 star",
-        "count": 1360
-      },
-      {
-        "name": "5 star",
-        "count": 3400
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app69.com?size=512",
-    "title": "AppName69",
-    "companyName": "Company69",
-    "id": 1069,
-    "description": "This is a long description for AppName69. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 119,
-    "reviews": 69000,
-    "ratingAvg": 4.9,
-    "downloads": 690000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 690
-      },
-      {
-        "name": "2 star",
-        "count": 345
-      },
-      {
-        "name": "3 star",
-        "count": 1035
-      },
-      {
-        "name": "4 star",
-        "count": 1380
-      },
-      {
-        "name": "5 star",
-        "count": 3450
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app70.com?size=512",
-    "title": "AppName70",
-    "companyName": "Company70",
-    "id": 1070,
-    "description": "This is a long description for AppName70. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 120,
-    "reviews": 70000,
-    "ratingAvg": 3.0,
-    "downloads": 700000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 700
-      },
-      {
-        "name": "2 star",
-        "count": 350
-      },
-      {
-        "name": "3 star",
-        "count": 1050
-      },
-      {
-        "name": "4 star",
-        "count": 1400
-      },
-      {
-        "name": "5 star",
-        "count": 3500
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app71.com?size=512",
-    "title": "AppName71",
-    "companyName": "Company71",
-    "id": 1071,
-    "description": "This is a long description for AppName71. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 121,
-    "reviews": 71000,
-    "ratingAvg": 4.1,
-    "downloads": 710000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 710
-      },
-      {
-        "name": "2 star",
-        "count": 355
-      },
-      {
-        "name": "3 star",
-        "count": 1065
-      },
-      {
-        "name": "4 star",
-        "count": 1420
-      },
-      {
-        "name": "5 star",
-        "count": 3550
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app72.com?size=512",
-    "title": "AppName72",
-    "companyName": "Company72",
-    "id": 1072,
-    "description": "This is a long description for AppName72. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 122,
-    "reviews": 72000,
-    "ratingAvg": 3.2,
-    "downloads": 720000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 720
-      },
-      {
-        "name": "2 star",
-        "count": 360
-      },
-      {
-        "name": "3 star",
-        "count": 1080
-      },
-      {
-        "name": "4 star",
-        "count": 1440
-      },
-      {
-        "name": "5 star",
-        "count": 3600
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app73.com?size=512",
-    "title": "AppName73",
-    "companyName": "Company73",
-    "id": 1073,
-    "description": "This is a long description for AppName73. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 123,
-    "reviews": 73000,
-    "ratingAvg": 4.3,
-    "downloads": 730000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 730
-      },
-      {
-        "name": "2 star",
-        "count": 365
-      },
-      {
-        "name": "3 star",
-        "count": 1095
-      },
-      {
-        "name": "4 star",
-        "count": 1460
-      },
-      {
-        "name": "5 star",
-        "count": 3650
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app74.com?size=512",
-    "title": "AppName74",
-    "companyName": "Company74",
-    "id": 1074,
-    "description": "This is a long description for AppName74. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 124,
-    "reviews": 74000,
-    "ratingAvg": 3.4,
-    "downloads": 740000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 740
-      },
-      {
-        "name": "2 star",
-        "count": 370
-      },
-      {
-        "name": "3 star",
-        "count": 1110
-      },
-      {
-        "name": "4 star",
-        "count": 1480
-      },
-      {
-        "name": "5 star",
-        "count": 3700
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app75.com?size=512",
-    "title": "AppName75",
-    "companyName": "Company75",
-    "id": 1075,
-    "description": "This is a long description for AppName75. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 125,
-    "reviews": 75000,
-    "ratingAvg": 4.5,
-    "downloads": 750000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 750
-      },
-      {
-        "name": "2 star",
-        "count": 375
-      },
-      {
-        "name": "3 star",
-        "count": 1125
-      },
-      {
-        "name": "4 star",
-        "count": 1500
-      },
-      {
-        "name": "5 star",
-        "count": 3750
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app76.com?size=512",
-    "title": "AppName76",
-    "companyName": "Company76",
-    "id": 1076,
-    "description": "This is a long description for AppName76. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 126,
-    "reviews": 76000,
-    "ratingAvg": 3.6,
-    "downloads": 760000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 760
-      },
-      {
-        "name": "2 star",
-        "count": 380
-      },
-      {
-        "name": "3 star",
-        "count": 1140
-      },
-      {
-        "name": "4 star",
-        "count": 1520
-      },
-      {
-        "name": "5 star",
-        "count": 3800
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app77.com?size=512",
-    "title": "AppName77",
-    "companyName": "Company77",
-    "id": 1077,
-    "description": "This is a long description for AppName77. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 127,
-    "reviews": 77000,
-    "ratingAvg": 4.7,
-    "downloads": 770000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 770
-      },
-      {
-        "name": "2 star",
-        "count": 385
-      },
-      {
-        "name": "3 star",
-        "count": 1155
-      },
-      {
-        "name": "4 star",
-        "count": 1540
-      },
-      {
-        "name": "5 star",
-        "count": 3850
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app78.com?size=512",
-    "title": "AppName78",
-    "companyName": "Company78",
-    "id": 1078,
-    "description": "This is a long description for AppName78. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 128,
-    "reviews": 78000,
-    "ratingAvg": 3.8,
-    "downloads": 780000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 780
-      },
-      {
-        "name": "2 star",
-        "count": 390
-      },
-      {
-        "name": "3 star",
-        "count": 1170
-      },
-      {
-        "name": "4 star",
-        "count": 1560
-      },
-      {
-        "name": "5 star",
-        "count": 3900
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app79.com?size=512",
-    "title": "AppName79",
-    "companyName": "Company79",
-    "id": 1079,
-    "description": "This is a long description for AppName79. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 129,
-    "reviews": 79000,
-    "ratingAvg": 4.9,
-    "downloads": 790000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 790
-      },
-      {
-        "name": "2 star",
-        "count": 395
-      },
-      {
-        "name": "3 star",
-        "count": 1185
-      },
-      {
-        "name": "4 star",
-        "count": 1580
-      },
-      {
-        "name": "5 star",
-        "count": 3950
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app80.com?size=512",
-    "title": "AppName80",
-    "companyName": "Company80",
-    "id": 1080,
-    "description": "This is a long description for AppName80. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 130,
-    "reviews": 80000,
-    "ratingAvg": 3.0,
-    "downloads": 800000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 800
-      },
-      {
-        "name": "2 star",
-        "count": 400
-      },
-      {
-        "name": "3 star",
-        "count": 1200
-      },
-      {
-        "name": "4 star",
-        "count": 1600
-      },
-      {
-        "name": "5 star",
-        "count": 4000
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app81.com?size=512",
-    "title": "AppName81",
-    "companyName": "Company81",
-    "id": 1081,
-    "description": "This is a long description for AppName81. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 131,
-    "reviews": 81000,
-    "ratingAvg": 4.1,
-    "downloads": 810000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 810
-      },
-      {
-        "name": "2 star",
-        "count": 405
-      },
-      {
-        "name": "3 star",
-        "count": 1215
-      },
-      {
-        "name": "4 star",
-        "count": 1620
-      },
-      {
-        "name": "5 star",
-        "count": 4050
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app82.com?size=512",
-    "title": "AppName82",
-    "companyName": "Company82",
-    "id": 1082,
-    "description": "This is a long description for AppName82. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 132,
-    "reviews": 82000,
-    "ratingAvg": 3.2,
-    "downloads": 820000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 820
-      },
-      {
-        "name": "2 star",
-        "count": 410
-      },
-      {
-        "name": "3 star",
-        "count": 1230
-      },
-      {
-        "name": "4 star",
-        "count": 1640
-      },
-      {
-        "name": "5 star",
-        "count": 4100
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app83.com?size=512",
-    "title": "AppName83",
-    "companyName": "Company83",
-    "id": 1083,
-    "description": "This is a long description for AppName83. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 133,
-    "reviews": 83000,
-    "ratingAvg": 4.3,
-    "downloads": 830000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 830
-      },
-      {
-        "name": "2 star",
-        "count": 415
-      },
-      {
-        "name": "3 star",
-        "count": 1245
-      },
-      {
-        "name": "4 star",
-        "count": 1660
-      },
-      {
-        "name": "5 star",
-        "count": 4150
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app84.com?size=512",
-    "title": "AppName84",
-    "companyName": "Company84",
-    "id": 1084,
-    "description": "This is a long description for AppName84. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 134,
-    "reviews": 84000,
-    "ratingAvg": 3.4,
-    "downloads": 840000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 840
-      },
-      {
-        "name": "2 star",
-        "count": 420
-      },
-      {
-        "name": "3 star",
-        "count": 1260
-      },
-      {
-        "name": "4 star",
-        "count": 1680
-      },
-      {
-        "name": "5 star",
-        "count": 4200
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app85.com?size=512",
-    "title": "AppName85",
-    "companyName": "Company85",
-    "id": 1085,
-    "description": "This is a long description for AppName85. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 135,
-    "reviews": 85000,
-    "ratingAvg": 4.5,
-    "downloads": 850000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 850
-      },
-      {
-        "name": "2 star",
-        "count": 425
-      },
-      {
-        "name": "3 star",
-        "count": 1275
-      },
-      {
-        "name": "4 star",
-        "count": 1700
-      },
-      {
-        "name": "5 star",
-        "count": 4250
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app86.com?size=512",
-    "title": "AppName86",
-    "companyName": "Company86",
-    "id": 1086,
-    "description": "This is a long description for AppName86. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 136,
-    "reviews": 86000,
-    "ratingAvg": 3.6,
-    "downloads": 860000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 860
-      },
-      {
-        "name": "2 star",
-        "count": 430
-      },
-      {
-        "name": "3 star",
-        "count": 1290
-      },
-      {
-        "name": "4 star",
-        "count": 1720
-      },
-      {
-        "name": "5 star",
-        "count": 4300
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app87.com?size=512",
-    "title": "AppName87",
-    "companyName": "Company87",
-    "id": 1087,
-    "description": "This is a long description for AppName87. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 137,
-    "reviews": 87000,
-    "ratingAvg": 4.7,
-    "downloads": 870000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 870
-      },
-      {
-        "name": "2 star",
-        "count": 435
-      },
-      {
-        "name": "3 star",
-        "count": 1305
-      },
-      {
-        "name": "4 star",
-        "count": 1740
-      },
-      {
-        "name": "5 star",
-        "count": 4350
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app88.com?size=512",
-    "title": "AppName88",
-    "companyName": "Company88",
-    "id": 1088,
-    "description": "This is a long description for AppName88. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 138,
-    "reviews": 88000,
-    "ratingAvg": 3.8,
-    "downloads": 880000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 880
-      },
-      {
-        "name": "2 star",
-        "count": 440
-      },
-      {
-        "name": "3 star",
-        "count": 1320
-      },
-      {
-        "name": "4 star",
-        "count": 1760
-      },
-      {
-        "name": "5 star",
-        "count": 4400
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app89.com?size=512",
-    "title": "AppName89",
-    "companyName": "Company89",
-    "id": 1089,
-    "description": "This is a long description for AppName89. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 139,
-    "reviews": 89000,
-    "ratingAvg": 4.9,
-    "downloads": 890000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 890
-      },
-      {
-        "name": "2 star",
-        "count": 445
-      },
-      {
-        "name": "3 star",
-        "count": 1335
-      },
-      {
-        "name": "4 star",
-        "count": 1780
-      },
-      {
-        "name": "5 star",
-        "count": 4450
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app90.com?size=512",
-    "title": "AppName90",
-    "companyName": "Company90",
-    "id": 1090,
-    "description": "This is a long description for AppName90. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 140,
-    "reviews": 90000,
-    "ratingAvg": 3.0,
-    "downloads": 900000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 900
-      },
-      {
-        "name": "2 star",
-        "count": 450
-      },
-      {
-        "name": "3 star",
-        "count": 1350
-      },
-      {
-        "name": "4 star",
-        "count": 1800
-      },
-      {
-        "name": "5 star",
-        "count": 4500
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app91.com?size=512",
-    "title": "AppName91",
-    "companyName": "Company91",
-    "id": 1091,
-    "description": "This is a long description for AppName91. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 141,
-    "reviews": 91000,
-    "ratingAvg": 4.1,
-    "downloads": 910000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 910
-      },
-      {
-        "name": "2 star",
-        "count": 455
-      },
-      {
-        "name": "3 star",
-        "count": 1365
-      },
-      {
-        "name": "4 star",
-        "count": 1820
-      },
-      {
-        "name": "5 star",
-        "count": 4550
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app92.com?size=512",
-    "title": "AppName92",
-    "companyName": "Company92",
-    "id": 1092,
-    "description": "This is a long description for AppName92. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 142,
-    "reviews": 92000,
-    "ratingAvg": 3.2,
-    "downloads": 920000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 920
-      },
-      {
-        "name": "2 star",
-        "count": 460
-      },
-      {
-        "name": "3 star",
-        "count": 1380
-      },
-      {
-        "name": "4 star",
-        "count": 1840
-      },
-      {
-        "name": "5 star",
-        "count": 4600
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app93.com?size=512",
-    "title": "AppName93",
-    "companyName": "Company93",
-    "id": 1093,
-    "description": "This is a long description for AppName93. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 143,
-    "reviews": 93000,
-    "ratingAvg": 4.3,
-    "downloads": 930000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 930
-      },
-      {
-        "name": "2 star",
-        "count": 465
-      },
-      {
-        "name": "3 star",
-        "count": 1395
-      },
-      {
-        "name": "4 star",
-        "count": 1860
-      },
-      {
-        "name": "5 star",
-        "count": 4650
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app94.com?size=512",
-    "title": "AppName94",
-    "companyName": "Company94",
-    "id": 1094,
-    "description": "This is a long description for AppName94. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 144,
-    "reviews": 94000,
-    "ratingAvg": 3.4,
-    "downloads": 940000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 940
-      },
-      {
-        "name": "2 star",
-        "count": 470
-      },
-      {
-        "name": "3 star",
-        "count": 1410
-      },
-      {
-        "name": "4 star",
-        "count": 1880
-      },
-      {
-        "name": "5 star",
-        "count": 4700
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app95.com?size=512",
-    "title": "AppName95",
-    "companyName": "Company95",
-    "id": 1095,
-    "description": "This is a long description for AppName95. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 145,
-    "reviews": 95000,
-    "ratingAvg": 4.5,
-    "downloads": 950000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 950
-      },
-      {
-        "name": "2 star",
-        "count": 475
-      },
-      {
-        "name": "3 star",
-        "count": 1425
-      },
-      {
-        "name": "4 star",
-        "count": 1900
-      },
-      {
-        "name": "5 star",
-        "count": 4750
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app96.com?size=512",
-    "title": "AppName96",
-    "companyName": "Company96",
-    "id": 1096,
-    "description": "This is a long description for AppName96. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 146,
-    "reviews": 96000,
-    "ratingAvg": 3.6,
-    "downloads": 960000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 960
-      },
-      {
-        "name": "2 star",
-        "count": 480
-      },
-      {
-        "name": "3 star",
-        "count": 1440
-      },
-      {
-        "name": "4 star",
-        "count": 1920
-      },
-      {
-        "name": "5 star",
-        "count": 4800
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app97.com?size=512",
-    "title": "AppName97",
-    "companyName": "Company97",
-    "id": 1097,
-    "description": "This is a long description for AppName97. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 147,
-    "reviews": 97000,
-    "ratingAvg": 4.7,
-    "downloads": 970000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 970
-      },
-      {
-        "name": "2 star",
-        "count": 485
-      },
-      {
-        "name": "3 star",
-        "count": 1455
-      },
-      {
-        "name": "4 star",
-        "count": 1940
-      },
-      {
-        "name": "5 star",
-        "count": 4850
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app98.com?size=512",
-    "title": "AppName98",
-    "companyName": "Company98",
-    "id": 1098,
-    "description": "This is a long description for AppName98. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 148,
-    "reviews": 98000,
-    "ratingAvg": 3.8,
-    "downloads": 980000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 980
-      },
-      {
-        "name": "2 star",
-        "count": 490
-      },
-      {
-        "name": "3 star",
-        "count": 1470
-      },
-      {
-        "name": "4 star",
-        "count": 1960
-      },
-      {
-        "name": "5 star",
-        "count": 4900
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app99.com?size=512",
-    "title": "AppName99",
-    "companyName": "Company99",
-    "id": 1099,
-    "description": "This is a long description for AppName99. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 149,
-    "reviews": 99000,
-    "ratingAvg": 4.9,
-    "downloads": 990000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 990
-      },
-      {
-        "name": "2 star",
-        "count": 495
-      },
-      {
-        "name": "3 star",
-        "count": 1485
-      },
-      {
-        "name": "4 star",
-        "count": 1980
-      },
-      {
-        "name": "5 star",
-        "count": 4950
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app100.com?size=512",
-    "title": "AppName100",
-    "companyName": "Company100",
-    "id": 1100,
-    "description": "This is a long description for AppName100. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 50,
-    "reviews": 100000,
-    "ratingAvg": 3.0,
+    "description": "Instagram by Instagram — powerful fun. This app helps you shop online and offers features like privacy controls.",
+    "size": 299,
+    "reviews": 1672971,
+    "ratingAvg": 4.24,
     "downloads": 1000000,
     "ratings": [
       {
         "name": "1 star",
-        "count": 1000
+        "count": 128627
       },
       {
         "name": "2 star",
-        "count": 500
+        "count": 123472
       },
       {
         "name": "3 star",
-        "count": 1500
+        "count": 55574
       },
       {
         "name": "4 star",
-        "count": 2000
+        "count": 279822
       },
       {
         "name": "5 star",
-        "count": 5000
+        "count": 1085476
       }
     ]
   },
   {
-    "image": "https://logo.clearbit.com/app101.com?size=512",
-    "title": "AppName101",
-    "companyName": "Company101",
-    "id": 1101,
-    "description": "This is a long description for AppName101. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 51,
-    "reviews": 101000,
-    "ratingAvg": 4.1,
-    "downloads": 1010000,
+    "image": "https://picsum.photos/seed/app1002/512/512",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 1002,
+    "description": "TikTok by ByteDance — intuitive fast. This app helps you navigate places and offers features like customizable settings.",
+    "size": 91,
+    "reviews": 1811182,
+    "ratingAvg": 3.69,
+    "downloads": 500000000,
     "ratings": [
       {
         "name": "1 star",
-        "count": 1010
+        "count": 493094
       },
       {
         "name": "2 star",
-        "count": 505
+        "count": 64207
       },
       {
         "name": "3 star",
-        "count": 1515
+        "count": 15229
       },
       {
         "name": "4 star",
-        "count": 2020
+        "count": 172818
       },
       {
         "name": "5 star",
-        "count": 5050
+        "count": 1065834
       }
     ]
   },
   {
-    "image": "https://logo.clearbit.com/app102.com?size=512",
-    "title": "AppName102",
-    "companyName": "Company102",
-    "id": 1102,
-    "description": "This is a long description for AppName102. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 52,
-    "reviews": 102000,
-    "ratingAvg": 3.2,
-    "downloads": 1020000,
+    "image": "https://picsum.photos/seed/app1003/512/512",
+    "title": "WhatsApp",
+    "companyName": "WhatsApp LLC",
+    "id": 1003,
+    "description": "WhatsApp by WhatsApp LLC — fast easy. This app helps you discover content and offers features like in-app purchases.",
+    "size": 294,
+    "reviews": 2464357,
+    "ratingAvg": 3.36,
+    "downloads": 10000000,
     "ratings": [
       {
         "name": "1 star",
-        "count": 1020
+        "count": 412632
       },
       {
         "name": "2 star",
-        "count": 510
+        "count": 224858
       },
       {
         "name": "3 star",
-        "count": 1530
+        "count": 461612
       },
       {
         "name": "4 star",
-        "count": 2040
+        "count": 804766
       },
       {
         "name": "5 star",
-        "count": 5100
+        "count": 560489
       }
     ]
   },
   {
-    "image": "https://logo.clearbit.com/app103.com?size=512",
-    "title": "AppName103",
-    "companyName": "Company103",
-    "id": 1103,
-    "description": "This is a long description for AppName103. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 53,
-    "reviews": 103000,
-    "ratingAvg": 4.3,
-    "downloads": 1030000,
+    "image": "https://picsum.photos/seed/app1004/512/512",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "id": 1004,
+    "description": "Facebook by Meta Platforms — easy fun. This app helps you navigate places and offers features like privacy controls.",
+    "size": 154,
+    "reviews": 3808481,
+    "ratingAvg": 4.24,
+    "downloads": 5000000,
     "ratings": [
       {
         "name": "1 star",
-        "count": 1030
+        "count": 368303
       },
       {
         "name": "2 star",
-        "count": 515
+        "count": 165549
       },
       {
         "name": "3 star",
-        "count": 1545
+        "count": 168633
       },
       {
         "name": "4 star",
-        "count": 2060
+        "count": 604243
       },
       {
         "name": "5 star",
-        "count": 5150
+        "count": 2501753
       }
     ]
   },
   {
-    "image": "https://logo.clearbit.com/app104.com?size=512",
-    "title": "AppName104",
-    "companyName": "Company104",
-    "id": 1104,
-    "description": "This is a long description for AppName104. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 54,
-    "reviews": 104000,
-    "ratingAvg": 3.4,
-    "downloads": 1040000,
+    "image": "https://picsum.photos/seed/app1005/512/512",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 1005,
+    "description": "YouTube by Google LLC — easy intuitive. This app helps you shop online and offers features like smart recommendations.",
+    "size": 339,
+    "reviews": 4677033,
+    "ratingAvg": 4.51,
+    "downloads": 500000,
     "ratings": [
       {
         "name": "1 star",
-        "count": 1040
+        "count": 95443
       },
       {
         "name": "2 star",
-        "count": 520
+        "count": 150873
       },
       {
         "name": "3 star",
-        "count": 1560
+        "count": 562864
       },
       {
         "name": "4 star",
-        "count": 2080
+        "count": 326291
       },
       {
         "name": "5 star",
-        "count": 5200
+        "count": 3541562
       }
     ]
   },
   {
-    "image": "https://logo.clearbit.com/app105.com?size=512",
-    "title": "AppName105",
-    "companyName": "Company105",
-    "id": 1105,
-    "description": "This is a long description for AppName105. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 55,
-    "reviews": 105000,
-    "ratingAvg": 4.5,
-    "downloads": 1050000,
+    "image": "https://picsum.photos/seed/app1006/512/512",
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "id": 1006,
+    "description": "Snapchat by Snap Inc — intuitive fun. This app helps you shop online and offers features like smart recommendations.",
+    "size": 347,
+    "reviews": 4192855,
+    "ratingAvg": 3.95,
+    "downloads": 100000000,
     "ratings": [
       {
         "name": "1 star",
-        "count": 1050
+        "count": 176816
       },
       {
         "name": "2 star",
-        "count": 525
+        "count": 863691
       },
       {
         "name": "3 star",
-        "count": 1575
+        "count": 215611
       },
       {
         "name": "4 star",
-        "count": 2100
+        "count": 667309
       },
       {
         "name": "5 star",
-        "count": 5250
+        "count": 2269428
       }
     ]
   },
   {
-    "image": "https://logo.clearbit.com/app106.com?size=512",
-    "title": "AppName106",
-    "companyName": "Company106",
-    "id": 1106,
-    "description": "This is a long description for AppName106. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 56,
-    "reviews": 106000,
-    "ratingAvg": 3.6,
-    "downloads": 1060000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1060
-      },
-      {
-        "name": "2 star",
-        "count": 530
-      },
-      {
-        "name": "3 star",
-        "count": 1590
-      },
-      {
-        "name": "4 star",
-        "count": 2120
-      },
-      {
-        "name": "5 star",
-        "count": 5300
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app107.com?size=512",
-    "title": "AppName107",
-    "companyName": "Company107",
-    "id": 1107,
-    "description": "This is a long description for AppName107. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 57,
-    "reviews": 107000,
-    "ratingAvg": 4.7,
-    "downloads": 1070000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1070
-      },
-      {
-        "name": "2 star",
-        "count": 535
-      },
-      {
-        "name": "3 star",
-        "count": 1605
-      },
-      {
-        "name": "4 star",
-        "count": 2140
-      },
-      {
-        "name": "5 star",
-        "count": 5350
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app108.com?size=512",
-    "title": "AppName108",
-    "companyName": "Company108",
-    "id": 1108,
-    "description": "This is a long description for AppName108. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 58,
-    "reviews": 108000,
-    "ratingAvg": 3.8,
-    "downloads": 1080000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1080
-      },
-      {
-        "name": "2 star",
-        "count": 540
-      },
-      {
-        "name": "3 star",
-        "count": 1620
-      },
-      {
-        "name": "4 star",
-        "count": 2160
-      },
-      {
-        "name": "5 star",
-        "count": 5400
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app109.com?size=512",
-    "title": "AppName109",
-    "companyName": "Company109",
-    "id": 1109,
-    "description": "This is a long description for AppName109. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 59,
-    "reviews": 109000,
-    "ratingAvg": 4.9,
-    "downloads": 1090000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1090
-      },
-      {
-        "name": "2 star",
-        "count": 545
-      },
-      {
-        "name": "3 star",
-        "count": 1635
-      },
-      {
-        "name": "4 star",
-        "count": 2180
-      },
-      {
-        "name": "5 star",
-        "count": 5450
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app110.com?size=512",
-    "title": "AppName110",
-    "companyName": "Company110",
-    "id": 1110,
-    "description": "This is a long description for AppName110. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 60,
-    "reviews": 110000,
-    "ratingAvg": 3.0,
-    "downloads": 1100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1100
-      },
-      {
-        "name": "2 star",
-        "count": 550
-      },
-      {
-        "name": "3 star",
-        "count": 1650
-      },
-      {
-        "name": "4 star",
-        "count": 2200
-      },
-      {
-        "name": "5 star",
-        "count": 5500
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app111.com?size=512",
-    "title": "AppName111",
-    "companyName": "Company111",
-    "id": 1111,
-    "description": "This is a long description for AppName111. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 61,
-    "reviews": 111000,
-    "ratingAvg": 4.1,
-    "downloads": 1110000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1110
-      },
-      {
-        "name": "2 star",
-        "count": 555
-      },
-      {
-        "name": "3 star",
-        "count": 1665
-      },
-      {
-        "name": "4 star",
-        "count": 2220
-      },
-      {
-        "name": "5 star",
-        "count": 5550
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app112.com?size=512",
-    "title": "AppName112",
-    "companyName": "Company112",
-    "id": 1112,
-    "description": "This is a long description for AppName112. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 62,
-    "reviews": 112000,
-    "ratingAvg": 3.2,
-    "downloads": 1120000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1120
-      },
-      {
-        "name": "2 star",
-        "count": 560
-      },
-      {
-        "name": "3 star",
-        "count": 1680
-      },
-      {
-        "name": "4 star",
-        "count": 2240
-      },
-      {
-        "name": "5 star",
-        "count": 5600
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app113.com?size=512",
-    "title": "AppName113",
-    "companyName": "Company113",
-    "id": 1113,
-    "description": "This is a long description for AppName113. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 63,
-    "reviews": 113000,
-    "ratingAvg": 4.3,
-    "downloads": 1130000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1130
-      },
-      {
-        "name": "2 star",
-        "count": 565
-      },
-      {
-        "name": "3 star",
-        "count": 1695
-      },
-      {
-        "name": "4 star",
-        "count": 2260
-      },
-      {
-        "name": "5 star",
-        "count": 5650
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app114.com?size=512",
-    "title": "AppName114",
-    "companyName": "Company114",
-    "id": 1114,
-    "description": "This is a long description for AppName114. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 64,
-    "reviews": 114000,
-    "ratingAvg": 3.4,
-    "downloads": 1140000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1140
-      },
-      {
-        "name": "2 star",
-        "count": 570
-      },
-      {
-        "name": "3 star",
-        "count": 1710
-      },
-      {
-        "name": "4 star",
-        "count": 2280
-      },
-      {
-        "name": "5 star",
-        "count": 5700
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app115.com?size=512",
-    "title": "AppName115",
-    "companyName": "Company115",
-    "id": 1115,
-    "description": "This is a long description for AppName115. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 65,
-    "reviews": 115000,
-    "ratingAvg": 4.5,
-    "downloads": 1150000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1150
-      },
-      {
-        "name": "2 star",
-        "count": 575
-      },
-      {
-        "name": "3 star",
-        "count": 1725
-      },
-      {
-        "name": "4 star",
-        "count": 2300
-      },
-      {
-        "name": "5 star",
-        "count": 5750
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app116.com?size=512",
-    "title": "AppName116",
-    "companyName": "Company116",
-    "id": 1116,
-    "description": "This is a long description for AppName116. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 66,
-    "reviews": 116000,
-    "ratingAvg": 3.6,
-    "downloads": 1160000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1160
-      },
-      {
-        "name": "2 star",
-        "count": 580
-      },
-      {
-        "name": "3 star",
-        "count": 1740
-      },
-      {
-        "name": "4 star",
-        "count": 2320
-      },
-      {
-        "name": "5 star",
-        "count": 5800
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app117.com?size=512",
-    "title": "AppName117",
-    "companyName": "Company117",
-    "id": 1117,
-    "description": "This is a long description for AppName117. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 67,
-    "reviews": 117000,
-    "ratingAvg": 4.7,
-    "downloads": 1170000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1170
-      },
-      {
-        "name": "2 star",
-        "count": 585
-      },
-      {
-        "name": "3 star",
-        "count": 1755
-      },
-      {
-        "name": "4 star",
-        "count": 2340
-      },
-      {
-        "name": "5 star",
-        "count": 5850
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app118.com?size=512",
-    "title": "AppName118",
-    "companyName": "Company118",
-    "id": 1118,
-    "description": "This is a long description for AppName118. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 68,
-    "reviews": 118000,
-    "ratingAvg": 3.8,
-    "downloads": 1180000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1180
-      },
-      {
-        "name": "2 star",
-        "count": 590
-      },
-      {
-        "name": "3 star",
-        "count": 1770
-      },
-      {
-        "name": "4 star",
-        "count": 2360
-      },
-      {
-        "name": "5 star",
-        "count": 5900
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app119.com?size=512",
-    "title": "AppName119",
-    "companyName": "Company119",
-    "id": 1119,
-    "description": "This is a long description for AppName119. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 69,
-    "reviews": 119000,
-    "ratingAvg": 4.9,
-    "downloads": 1190000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1190
-      },
-      {
-        "name": "2 star",
-        "count": 595
-      },
-      {
-        "name": "3 star",
-        "count": 1785
-      },
-      {
-        "name": "4 star",
-        "count": 2380
-      },
-      {
-        "name": "5 star",
-        "count": 5950
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app120.com?size=512",
-    "title": "AppName120",
-    "companyName": "Company120",
-    "id": 1120,
-    "description": "This is a long description for AppName120. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 70,
-    "reviews": 120000,
-    "ratingAvg": 3.0,
-    "downloads": 1200000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1200
-      },
-      {
-        "name": "2 star",
-        "count": 600
-      },
-      {
-        "name": "3 star",
-        "count": 1800
-      },
-      {
-        "name": "4 star",
-        "count": 2400
-      },
-      {
-        "name": "5 star",
-        "count": 6000
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app121.com?size=512",
-    "title": "AppName121",
-    "companyName": "Company121",
-    "id": 1121,
-    "description": "This is a long description for AppName121. It is a Social Media application designed to help users efficiently and provide a great user experience.",
-    "size": 71,
-    "reviews": 121000,
-    "ratingAvg": 4.1,
-    "downloads": 1210000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1210
-      },
-      {
-        "name": "2 star",
-        "count": 605
-      },
-      {
-        "name": "3 star",
-        "count": 1815
-      },
-      {
-        "name": "4 star",
-        "count": 2420
-      },
-      {
-        "name": "5 star",
-        "count": 6050
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app122.com?size=512",
-    "title": "AppName122",
-    "companyName": "Company122",
-    "id": 1122,
-    "description": "This is a long description for AppName122. It is a Messaging application designed to help users efficiently and provide a great user experience.",
-    "size": 72,
-    "reviews": 122000,
-    "ratingAvg": 3.2,
-    "downloads": 1220000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1220
-      },
-      {
-        "name": "2 star",
-        "count": 610
-      },
-      {
-        "name": "3 star",
-        "count": 1830
-      },
-      {
-        "name": "4 star",
-        "count": 2440
-      },
-      {
-        "name": "5 star",
-        "count": 6100
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app123.com?size=512",
-    "title": "AppName123",
-    "companyName": "Company123",
-    "id": 1123,
-    "description": "This is a long description for AppName123. It is a Productivity application designed to help users efficiently and provide a great user experience.",
-    "size": 73,
-    "reviews": 123000,
-    "ratingAvg": 4.3,
-    "downloads": 1230000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1230
-      },
-      {
-        "name": "2 star",
-        "count": 615
-      },
-      {
-        "name": "3 star",
-        "count": 1845
-      },
-      {
-        "name": "4 star",
-        "count": 2460
-      },
-      {
-        "name": "5 star",
-        "count": 6150
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app124.com?size=512",
-    "title": "AppName124",
-    "companyName": "Company124",
-    "id": 1124,
-    "description": "This is a long description for AppName124. It is a Music application designed to help users efficiently and provide a great user experience.",
-    "size": 74,
-    "reviews": 124000,
-    "ratingAvg": 3.4,
-    "downloads": 1240000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1240
-      },
-      {
-        "name": "2 star",
-        "count": 620
-      },
-      {
-        "name": "3 star",
-        "count": 1860
-      },
-      {
-        "name": "4 star",
-        "count": 2480
-      },
-      {
-        "name": "5 star",
-        "count": 6200
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app125.com?size=512",
-    "title": "AppName125",
-    "companyName": "Company125",
-    "id": 1125,
-    "description": "This is a long description for AppName125. It is a Video application designed to help users efficiently and provide a great user experience.",
-    "size": 75,
-    "reviews": 125000,
-    "ratingAvg": 4.5,
-    "downloads": 1250000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1250
-      },
-      {
-        "name": "2 star",
-        "count": 625
-      },
-      {
-        "name": "3 star",
-        "count": 1875
-      },
-      {
-        "name": "4 star",
-        "count": 2500
-      },
-      {
-        "name": "5 star",
-        "count": 6250
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app126.com?size=512",
-    "title": "AppName126",
-    "companyName": "Company126",
-    "id": 1126,
-    "description": "This is a long description for AppName126. It is a Shopping application designed to help users efficiently and provide a great user experience.",
-    "size": 76,
-    "reviews": 126000,
-    "ratingAvg": 3.6,
-    "downloads": 1260000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1260
-      },
-      {
-        "name": "2 star",
-        "count": 630
-      },
-      {
-        "name": "3 star",
-        "count": 1890
-      },
-      {
-        "name": "4 star",
-        "count": 2520
-      },
-      {
-        "name": "5 star",
-        "count": 6300
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app127.com?size=512",
-    "title": "AppName127",
-    "companyName": "Company127",
-    "id": 1127,
-    "description": "This is a long description for AppName127. It is a Finance application designed to help users efficiently and provide a great user experience.",
-    "size": 77,
-    "reviews": 127000,
-    "ratingAvg": 4.7,
-    "downloads": 1270000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1270
-      },
-      {
-        "name": "2 star",
-        "count": 635
-      },
-      {
-        "name": "3 star",
-        "count": 1905
-      },
-      {
-        "name": "4 star",
-        "count": 2540
-      },
-      {
-        "name": "5 star",
-        "count": 6350
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app128.com?size=512",
-    "title": "AppName128",
-    "companyName": "Company128",
-    "id": 1128,
-    "description": "This is a long description for AppName128. It is a Health application designed to help users efficiently and provide a great user experience.",
-    "size": 78,
-    "reviews": 128000,
-    "ratingAvg": 3.8,
-    "downloads": 1280000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1280
-      },
-      {
-        "name": "2 star",
-        "count": 640
-      },
-      {
-        "name": "3 star",
-        "count": 1920
-      },
-      {
-        "name": "4 star",
-        "count": 2560
-      },
-      {
-        "name": "5 star",
-        "count": 6400
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app129.com?size=512",
-    "title": "AppName129",
-    "companyName": "Company129",
-    "id": 1129,
-    "description": "This is a long description for AppName129. It is a Education application designed to help users efficiently and provide a great user experience.",
-    "size": 79,
-    "reviews": 129000,
-    "ratingAvg": 4.9,
-    "downloads": 1290000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1290
-      },
-      {
-        "name": "2 star",
-        "count": 645
-      },
-      {
-        "name": "3 star",
-        "count": 1935
-      },
-      {
-        "name": "4 star",
-        "count": 2580
-      },
-      {
-        "name": "5 star",
-        "count": 6450
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app130.com?size=512",
-    "title": "AppName130",
-    "companyName": "Company130",
-    "id": 1130,
-    "description": "This is a long description for AppName130. It is a Travel application designed to help users efficiently and provide a great user experience.",
-    "size": 80,
-    "reviews": 130000,
-    "ratingAvg": 3.0,
-    "downloads": 1300000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1300
-      },
-      {
-        "name": "2 star",
-        "count": 650
-      },
-      {
-        "name": "3 star",
-        "count": 1950
-      },
-      {
-        "name": "4 star",
-        "count": 2600
-      },
-      {
-        "name": "5 star",
-        "count": 6500
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app131.com?size=512",
-    "title": "AppName131",
-    "companyName": "Company131",
-    "id": 1131,
-    "description": "This is a long description for AppName131. It is a Games application designed to help users efficiently and provide a great user experience.",
-    "size": 81,
-    "reviews": 131000,
-    "ratingAvg": 4.1,
-    "downloads": 1310000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1310
-      },
-      {
-        "name": "2 star",
-        "count": 655
-      },
-      {
-        "name": "3 star",
-        "count": 1965
-      },
-      {
-        "name": "4 star",
-        "count": 2620
-      },
-      {
-        "name": "5 star",
-        "count": 6550
-      }
-    ]
-  },
-  {
-    "image": "https://logo.clearbit.com/app132.com?size=512",
-    "title": "AppName132",
-    "companyName": "Company132",
-    "id": 1132,
-    "description": "This is a long description for AppName132. It is a Social Media application designed to help users efficiently and provide a great user experience.",
+    "image": "https://picsum.photos/seed/app1007/512/512",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 1007,
+    "description": "Telegram by Telegram FZ-LLC — fun intuitive. This app helps you learn new skills and offers features like multi-language support.",
     "size": 82,
-    "reviews": 132000,
-    "ratingAvg": 3.2,
-    "downloads": 1320000,
+    "reviews": 4279216,
+    "ratingAvg": 4.05,
+    "downloads": 100000000,
     "ratings": [
       {
         "name": "1 star",
-        "count": 1320
+        "count": 224011
       },
       {
         "name": "2 star",
-        "count": 660
+        "count": 464214
       },
       {
         "name": "3 star",
-        "count": 1980
+        "count": 650048
       },
       {
         "name": "4 star",
-        "count": 2640
+        "count": 459315
       },
       {
         "name": "5 star",
-        "count": 6600
+        "count": 2481628
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1008/512/512",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "id": 1008,
+    "description": "Twitter by Twitter, Inc. — secure fun. This app helps you manage tasks and offers features like offline maps.",
+    "size": 140,
+    "reviews": 4645795,
+    "ratingAvg": 3.77,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 769755
+      },
+      {
+        "name": "2 star",
+        "count": 4508
+      },
+      {
+        "name": "3 star",
+        "count": 497977
+      },
+      {
+        "name": "4 star",
+        "count": 1646500
+      },
+      {
+        "name": "5 star",
+        "count": 1727055
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1009/512/512",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 1009,
+    "description": "Gmail by Google LLC — easy secure. This app helps you manage tasks and offers features like multi-language support.",
+    "size": 13,
+    "reviews": 2214467,
+    "ratingAvg": 3.74,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 470691
+      },
+      {
+        "name": "2 star",
+        "count": 189159
+      },
+      {
+        "name": "3 star",
+        "count": 93389
+      },
+      {
+        "name": "4 star",
+        "count": 152653
+      },
+      {
+        "name": "5 star",
+        "count": 1308575
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1010/512/512",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 1010,
+    "description": "Google Maps by Google LLC — intuitive fast. This app helps you discover content and offers features like offline maps.",
+    "size": 283,
+    "reviews": 9797,
+    "ratingAvg": 4.38,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 675
+      },
+      {
+        "name": "2 star",
+        "count": 495
+      },
+      {
+        "name": "3 star",
+        "count": 88
+      },
+      {
+        "name": "4 star",
+        "count": 1723
+      },
+      {
+        "name": "5 star",
+        "count": 6816
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1011/512/512",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 1011,
+    "description": "Netflix by Netflix, Inc. — intuitive powerful. This app helps you listen to music and offers features like privacy controls.",
+    "size": 47,
+    "reviews": 4473663,
+    "ratingAvg": 4.34,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 400217
+      },
+      {
+        "name": "2 star",
+        "count": 37883
+      },
+      {
+        "name": "3 star",
+        "count": 177787
+      },
+      {
+        "name": "4 star",
+        "count": 904382
+      },
+      {
+        "name": "5 star",
+        "count": 2953394
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1012/512/512",
+    "title": "Disney+",
+    "companyName": "The Walt Disney Company",
+    "id": 1012,
+    "description": "Disney+ by The Walt Disney Company — fast fast. This app helps you connect with friends and offers features like smart recommendations.",
+    "size": 216,
+    "reviews": 3137478,
+    "ratingAvg": 4.34,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 183789
+      },
+      {
+        "name": "2 star",
+        "count": 232412
+      },
+      {
+        "name": "3 star",
+        "count": 41122
+      },
+      {
+        "name": "4 star",
+        "count": 549728
+      },
+      {
+        "name": "5 star",
+        "count": 2130427
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1013/512/512",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon",
+    "id": 1013,
+    "description": "Amazon Shopping by Amazon — easy fun. This app helps you navigate places and offers features like smart recommendations.",
+    "size": 46,
+    "reviews": 268510,
+    "ratingAvg": 3.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 53681
+      },
+      {
+        "name": "2 star",
+        "count": 2009
+      },
+      {
+        "name": "3 star",
+        "count": 7431
+      },
+      {
+        "name": "4 star",
+        "count": 112346
+      },
+      {
+        "name": "5 star",
+        "count": 93043
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1014/512/512",
+    "title": "Amazon Kindle",
+    "companyName": "Amazon",
+    "id": 1014,
+    "description": "Amazon Kindle by Amazon — easy easy. This app helps you listen to music and offers features like multi-language support.",
+    "size": 60,
+    "reviews": 818114,
+    "ratingAvg": 3.77,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 101722
+      },
+      {
+        "name": "2 star",
+        "count": 41359
+      },
+      {
+        "name": "3 star",
+        "count": 50066
+      },
+      {
+        "name": "4 star",
+        "count": 376688
+      },
+      {
+        "name": "5 star",
+        "count": 248279
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1015/512/512",
+    "title": "Uber",
+    "companyName": "Uber Technologies",
+    "id": 1015,
+    "description": "Uber by Uber Technologies — fast easy. This app helps you manage tasks and offers features like in-app purchases.",
+    "size": 241,
+    "reviews": 1180934,
+    "ratingAvg": 3.99,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 62041
+      },
+      {
+        "name": "2 star",
+        "count": 36964
+      },
+      {
+        "name": "3 star",
+        "count": 32542
+      },
+      {
+        "name": "4 star",
+        "count": 768765
+      },
+      {
+        "name": "5 star",
+        "count": 280622
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1016/512/512",
+    "title": "Lyft",
+    "companyName": "Lyft, Inc.",
+    "id": 1016,
+    "description": "Lyft by Lyft, Inc. — secure fun. This app helps you order food and offers features like offline maps.",
+    "size": 260,
+    "reviews": 4042927,
+    "ratingAvg": 4.34,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 127395
+      },
+      {
+        "name": "2 star",
+        "count": 271535
+      },
+      {
+        "name": "3 star",
+        "count": 32011
+      },
+      {
+        "name": "4 star",
+        "count": 1274304
+      },
+      {
+        "name": "5 star",
+        "count": 2337682
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1017/512/512",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 1017,
+    "description": "Airbnb by Airbnb, Inc. — intuitive easy. This app helps you connect with friends and offers features like multi-language support.",
+    "size": 91,
+    "reviews": 1597978,
+    "ratingAvg": 3.4,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 53594
+      },
+      {
+        "name": "2 star",
+        "count": 527508
+      },
+      {
+        "name": "3 star",
+        "count": 131792
+      },
+      {
+        "name": "4 star",
+        "count": 492694
+      },
+      {
+        "name": "5 star",
+        "count": 392390
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1018/512/512",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 1018,
+    "description": "Zoom by Zoom Video Communications — intuitive fast. This app helps you navigate places and offers features like multi-language support.",
+    "size": 53,
+    "reviews": 1563812,
+    "ratingAvg": 4.38,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9937
+      },
+      {
+        "name": "2 star",
+        "count": 9853
+      },
+      {
+        "name": "3 star",
+        "count": 277083
+      },
+      {
+        "name": "4 star",
+        "count": 352812
+      },
+      {
+        "name": "5 star",
+        "count": 914127
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1019/512/512",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 1019,
+    "description": "Slack by Slack Technologies — fast fun. This app helps you track fitness and offers features like customizable settings.",
+    "size": 173,
+    "reviews": 2192461,
+    "ratingAvg": 4.13,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 56343
+      },
+      {
+        "name": "2 star",
+        "count": 310580
+      },
+      {
+        "name": "3 star",
+        "count": 67250
+      },
+      {
+        "name": "4 star",
+        "count": 612272
+      },
+      {
+        "name": "5 star",
+        "count": 1146016
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1020/512/512",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 1020,
+    "description": "Microsoft Teams by Microsoft Corporation — powerful secure. This app helps you track fitness and offers features like multi-language support.",
+    "size": 49,
+    "reviews": 4515004,
+    "ratingAvg": 4.07,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 68931
+      },
+      {
+        "name": "2 star",
+        "count": 88608
+      },
+      {
+        "name": "3 star",
+        "count": 778360
+      },
+      {
+        "name": "4 star",
+        "count": 2110531
+      },
+      {
+        "name": "5 star",
+        "count": 1468574
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1021/512/512",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 1021,
+    "description": "Dropbox by Dropbox, Inc. — secure intuitive. This app helps you listen to music and offers features like cross-device support.",
+    "size": 16,
+    "reviews": 4657341,
+    "ratingAvg": 3.67,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 190266
+      },
+      {
+        "name": "2 star",
+        "count": 582275
+      },
+      {
+        "name": "3 star",
+        "count": 1495082
+      },
+      {
+        "name": "4 star",
+        "count": 697187
+      },
+      {
+        "name": "5 star",
+        "count": 1692531
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1022/512/512",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 1022,
+    "description": "Google Drive by Google LLC — easy powerful. This app helps you learn new skills and offers features like multi-language support.",
+    "size": 116,
+    "reviews": 2219457,
+    "ratingAvg": 3.98,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 172452
+      },
+      {
+        "name": "2 star",
+        "count": 70835
+      },
+      {
+        "name": "3 star",
+        "count": 584871
+      },
+      {
+        "name": "4 star",
+        "count": 198412
+      },
+      {
+        "name": "5 star",
+        "count": 1192887
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1023/512/512",
+    "title": "OneDrive",
+    "companyName": "Microsoft Corporation",
+    "id": 1023,
+    "description": "OneDrive by Microsoft Corporation — secure fast. This app helps you shop online and offers features like smart recommendations.",
+    "size": 230,
+    "reviews": 4710227,
+    "ratingAvg": 4.1,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3826
+      },
+      {
+        "name": "2 star",
+        "count": 30803
+      },
+      {
+        "name": "3 star",
+        "count": 845230
+      },
+      {
+        "name": "4 star",
+        "count": 2436272
+      },
+      {
+        "name": "5 star",
+        "count": 1394096
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1024/512/512",
+    "title": "Notion",
+    "companyName": "Notion Labs",
+    "id": 1024,
+    "description": "Notion by Notion Labs — powerful secure. This app helps you navigate places and offers features like smart recommendations.",
+    "size": 139,
+    "reviews": 867295,
+    "ratingAvg": 3.85,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 44270
+      },
+      {
+        "name": "2 star",
+        "count": 83245
+      },
+      {
+        "name": "3 star",
+        "count": 210685
+      },
+      {
+        "name": "4 star",
+        "count": 146156
+      },
+      {
+        "name": "5 star",
+        "count": 382939
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1025/512/512",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 1025,
+    "description": "Evernote by Evernote Corporation — easy fast. This app helps you listen to music and offers features like in-app purchases.",
+    "size": 148,
+    "reviews": 1340448,
+    "ratingAvg": 3.84,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 145618
+      },
+      {
+        "name": "2 star",
+        "count": 10760
+      },
+      {
+        "name": "3 star",
+        "count": 193474
+      },
+      {
+        "name": "4 star",
+        "count": 550240
+      },
+      {
+        "name": "5 star",
+        "count": 440356
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1026/512/512",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 1026,
+    "description": "Pinterest by Pinterest, Inc. — fun intuitive. This app helps you order food and offers features like customizable settings.",
+    "size": 180,
+    "reviews": 2342091,
+    "ratingAvg": 3.22,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 365446
+      },
+      {
+        "name": "2 star",
+        "count": 623418
+      },
+      {
+        "name": "3 star",
+        "count": 59872
+      },
+      {
+        "name": "4 star",
+        "count": 711891
+      },
+      {
+        "name": "5 star",
+        "count": 581464
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1027/512/512",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 1027,
+    "description": "Reddit by Reddit, Inc. — secure fun. This app helps you discover content and offers features like cross-device support.",
+    "size": 209,
+    "reviews": 4841771,
+    "ratingAvg": 4.55,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 88442
+      },
+      {
+        "name": "2 star",
+        "count": 19047
+      },
+      {
+        "name": "3 star",
+        "count": 240302
+      },
+      {
+        "name": "4 star",
+        "count": 1304238
+      },
+      {
+        "name": "5 star",
+        "count": 3189742
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1028/512/512",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive",
+    "id": 1028,
+    "description": "Twitch by Twitch Interactive — easy easy. This app helps you navigate places and offers features like in-app purchases.",
+    "size": 331,
+    "reviews": 2638315,
+    "ratingAvg": 3.91,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 252328
+      },
+      {
+        "name": "2 star",
+        "count": 30846
+      },
+      {
+        "name": "3 star",
+        "count": 533719
+      },
+      {
+        "name": "4 star",
+        "count": 704148
+      },
+      {
+        "name": "5 star",
+        "count": 1117274
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1029/512/512",
+    "title": "Steam",
+    "companyName": "Valve Corporation",
+    "id": 1029,
+    "description": "Steam by Valve Corporation — fun fun. This app helps you listen to music and offers features like multi-language support.",
+    "size": 101,
+    "reviews": 4779000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 175273
+      },
+      {
+        "name": "2 star",
+        "count": 388665
+      },
+      {
+        "name": "3 star",
+        "count": 199
+      },
+      {
+        "name": "4 star",
+        "count": 977436
+      },
+      {
+        "name": "5 star",
+        "count": 3237427
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1030/512/512",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 1030,
+    "description": "Discord by Discord Inc. — fast fast. This app helps you listen to music and offers features like offline maps.",
+    "size": 254,
+    "reviews": 1428474,
+    "ratingAvg": 3.98,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 140358
+      },
+      {
+        "name": "2 star",
+        "count": 43562
+      },
+      {
+        "name": "3 star",
+        "count": 142286
+      },
+      {
+        "name": "4 star",
+        "count": 486682
+      },
+      {
+        "name": "5 star",
+        "count": 615586
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1031/512/512",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 1031,
+    "description": "Canva by Canva Pty Ltd — fast fun. This app helps you listen to music and offers features like real-time sync.",
+    "size": 324,
+    "reviews": 615927,
+    "ratingAvg": 3.87,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 27717
+      },
+      {
+        "name": "2 star",
+        "count": 99094
+      },
+      {
+        "name": "3 star",
+        "count": 39097
+      },
+      {
+        "name": "4 star",
+        "count": 207970
+      },
+      {
+        "name": "5 star",
+        "count": 242049
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1032/512/512",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe Inc.",
+    "id": 1032,
+    "description": "Adobe Photoshop Express by Adobe Inc. — fun intuitive. This app helps you order food and offers features like in-app purchases.",
+    "size": 277,
+    "reviews": 3901926,
+    "ratingAvg": 4.39,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 16209
+      },
+      {
+        "name": "2 star",
+        "count": 90170
+      },
+      {
+        "name": "3 star",
+        "count": 593372
+      },
+      {
+        "name": "4 star",
+        "count": 872922
+      },
+      {
+        "name": "5 star",
+        "count": 2329253
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1033/512/512",
+    "title": "VSCO",
+    "companyName": "VSCO",
+    "id": 1033,
+    "description": "VSCO by VSCO — fun powerful. This app helps you listen to music and offers features like privacy controls.",
+    "size": 292,
+    "reviews": 3745594,
+    "ratingAvg": 3.77,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 642131
+      },
+      {
+        "name": "2 star",
+        "count": 384207
+      },
+      {
+        "name": "3 star",
+        "count": 181694
+      },
+      {
+        "name": "4 star",
+        "count": 529403
+      },
+      {
+        "name": "5 star",
+        "count": 2008159
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1034/512/512",
+    "title": "Shazam",
+    "companyName": "Shazam Entertainment Ltd.",
+    "id": 1034,
+    "description": "Shazam by Shazam Entertainment Ltd. — fun secure. This app helps you order food and offers features like offline maps.",
+    "size": 237,
+    "reviews": 654977,
+    "ratingAvg": 3.84,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 118815
+      },
+      {
+        "name": "2 star",
+        "count": 25396
+      },
+      {
+        "name": "3 star",
+        "count": 38894
+      },
+      {
+        "name": "4 star",
+        "count": 131640
+      },
+      {
+        "name": "5 star",
+        "count": 340232
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1035/512/512",
+    "title": "SoundCloud",
+    "companyName": "SoundCloud Ltd.",
+    "id": 1035,
+    "description": "SoundCloud by SoundCloud Ltd. — fun fast. This app helps you shop online and offers features like privacy controls.",
+    "size": 224,
+    "reviews": 527322,
+    "ratingAvg": 4.36,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 7227
+      },
+      {
+        "name": "2 star",
+        "count": 16996
+      },
+      {
+        "name": "3 star",
+        "count": 73355
+      },
+      {
+        "name": "4 star",
+        "count": 108900
+      },
+      {
+        "name": "5 star",
+        "count": 320844
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1036/512/512",
+    "title": "Pocket Casts",
+    "companyName": "N100 Labs",
+    "id": 1036,
+    "description": "Pocket Casts by N100 Labs — powerful easy. This app helps you learn new skills and offers features like real-time sync.",
+    "size": 211,
+    "reviews": 3520005,
+    "ratingAvg": 3.88,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 250001
+      },
+      {
+        "name": "2 star",
+        "count": 429244
+      },
+      {
+        "name": "3 star",
+        "count": 520530
+      },
+      {
+        "name": "4 star",
+        "count": 626290
+      },
+      {
+        "name": "5 star",
+        "count": 1693940
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1037/512/512",
+    "title": "Apple Music",
+    "companyName": "Apple Inc.",
+    "id": 1037,
+    "description": "Apple Music by Apple Inc. — secure fun. This app helps you shop online and offers features like smart recommendations.",
+    "size": 330,
+    "reviews": 4485553,
+    "ratingAvg": 4.28,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 22718
+      },
+      {
+        "name": "2 star",
+        "count": 416282
+      },
+      {
+        "name": "3 star",
+        "count": 690616
+      },
+      {
+        "name": "4 star",
+        "count": 502694
+      },
+      {
+        "name": "5 star",
+        "count": 2853243
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1038/512/512",
+    "title": "Pandora",
+    "companyName": "Pandora Media",
+    "id": 1038,
+    "description": "Pandora by Pandora Media — fast easy. This app helps you listen to music and offers features like offline mode.",
+    "size": 244,
+    "reviews": 2746781,
+    "ratingAvg": 3.74,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 95994
+      },
+      {
+        "name": "2 star",
+        "count": 493632
+      },
+      {
+        "name": "3 star",
+        "count": 76026
+      },
+      {
+        "name": "4 star",
+        "count": 1443951
+      },
+      {
+        "name": "5 star",
+        "count": 637178
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1039/512/512",
+    "title": "LINE",
+    "companyName": "LINE Corporation",
+    "id": 1039,
+    "description": "LINE by LINE Corporation — easy secure. This app helps you discover content and offers features like offline mode.",
+    "size": 330,
+    "reviews": 1283275,
+    "ratingAvg": 4.47,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 35946
+      },
+      {
+        "name": "2 star",
+        "count": 84630
+      },
+      {
+        "name": "3 star",
+        "count": 16023
+      },
+      {
+        "name": "4 star",
+        "count": 245701
+      },
+      {
+        "name": "5 star",
+        "count": 900975
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1040/512/512",
+    "title": "KakaoTalk",
+    "companyName": "Kakao Corp",
+    "id": 1040,
+    "description": "KakaoTalk by Kakao Corp — intuitive fast. This app helps you shop online and offers features like multi-language support.",
+    "size": 171,
+    "reviews": 4835133,
+    "ratingAvg": 3.42,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 447584
+      },
+      {
+        "name": "2 star",
+        "count": 1255970
+      },
+      {
+        "name": "3 star",
+        "count": 199923
+      },
+      {
+        "name": "4 star",
+        "count": 1699903
+      },
+      {
+        "name": "5 star",
+        "count": 1231753
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1041/512/512",
+    "title": "WeChat",
+    "companyName": "Tencent",
+    "id": 1041,
+    "description": "WeChat by Tencent — powerful easy. This app helps you navigate places and offers features like real-time sync.",
+    "size": 231,
+    "reviews": 3113573,
+    "ratingAvg": 4.35,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 24026
+      },
+      {
+        "name": "2 star",
+        "count": 350672
+      },
+      {
+        "name": "3 star",
+        "count": 4282
+      },
+      {
+        "name": "4 star",
+        "count": 873306
+      },
+      {
+        "name": "5 star",
+        "count": 1861287
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1042/512/512",
+    "title": "Signal",
+    "companyName": "Signal Foundation",
+    "id": 1042,
+    "description": "Signal by Signal Foundation — fast secure. This app helps you learn new skills and offers features like smart recommendations.",
+    "size": 279,
+    "reviews": 2270615,
+    "ratingAvg": 3.81,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 149827
+      },
+      {
+        "name": "2 star",
+        "count": 394726
+      },
+      {
+        "name": "3 star",
+        "count": 233310
+      },
+      {
+        "name": "4 star",
+        "count": 441079
+      },
+      {
+        "name": "5 star",
+        "count": 1051673
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1043/512/512",
+    "title": "Viber",
+    "companyName": "Viber Media S.à r.l.",
+    "id": 1043,
+    "description": "Viber by Viber Media S.à r.l. — intuitive fast. This app helps you order food and offers features like smart recommendations.",
+    "size": 249,
+    "reviews": 4785245,
+    "ratingAvg": 4.14,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 561567
+      },
+      {
+        "name": "2 star",
+        "count": 283869
+      },
+      {
+        "name": "3 star",
+        "count": 17351
+      },
+      {
+        "name": "4 star",
+        "count": 994038
+      },
+      {
+        "name": "5 star",
+        "count": 2928420
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1044/512/512",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 1044,
+    "description": "Duolingo by Duolingo, Inc. — secure easy. This app helps you navigate places and offers features like smart recommendations.",
+    "size": 55,
+    "reviews": 2029641,
+    "ratingAvg": 3.95,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 190108
+      },
+      {
+        "name": "2 star",
+        "count": 100122
+      },
+      {
+        "name": "3 star",
+        "count": 211947
+      },
+      {
+        "name": "4 star",
+        "count": 641459
+      },
+      {
+        "name": "5 star",
+        "count": 886005
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1045/512/512",
+    "title": "Khan Academy",
+    "companyName": "Khan Academy",
+    "id": 1045,
+    "description": "Khan Academy by Khan Academy — secure fast. This app helps you order food and offers features like real-time sync.",
+    "size": 168,
+    "reviews": 4883441,
+    "ratingAvg": 4.15,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 259609
+      },
+      {
+        "name": "2 star",
+        "count": 454547
+      },
+      {
+        "name": "3 star",
+        "count": 237476
+      },
+      {
+        "name": "4 star",
+        "count": 1286887
+      },
+      {
+        "name": "5 star",
+        "count": 2644922
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1046/512/512",
+    "title": "Coursera",
+    "companyName": "Coursera, Inc.",
+    "id": 1046,
+    "description": "Coursera by Coursera, Inc. — fast powerful. This app helps you order food and offers features like real-time sync.",
+    "size": 110,
+    "reviews": 1820165,
+    "ratingAvg": 3.92,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200108
+      },
+      {
+        "name": "2 star",
+        "count": 48271
+      },
+      {
+        "name": "3 star",
+        "count": 132825
+      },
+      {
+        "name": "4 star",
+        "count": 749586
+      },
+      {
+        "name": "5 star",
+        "count": 689375
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1047/512/512",
+    "title": "Udemy",
+    "companyName": "Udemy, Inc.",
+    "id": 1047,
+    "description": "Udemy by Udemy, Inc. — fun fun. This app helps you learn new skills and offers features like cross-device support.",
+    "size": 152,
+    "reviews": 386813,
+    "ratingAvg": 3.39,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 110121
+      },
+      {
+        "name": "2 star",
+        "count": 24244
+      },
+      {
+        "name": "3 star",
+        "count": 35956
+      },
+      {
+        "name": "4 star",
+        "count": 37993
+      },
+      {
+        "name": "5 star",
+        "count": 178499
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1048/512/512",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 1048,
+    "description": "LinkedIn by LinkedIn Corporation — easy intuitive. This app helps you watch videos and offers features like customizable settings.",
+    "size": 106,
+    "reviews": 435979,
+    "ratingAvg": 4.17,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 12825
+      },
+      {
+        "name": "2 star",
+        "count": 87196
+      },
+      {
+        "name": "3 star",
+        "count": 5339
+      },
+      {
+        "name": "4 star",
+        "count": 40230
+      },
+      {
+        "name": "5 star",
+        "count": 290389
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1049/512/512",
+    "title": "Indeed",
+    "companyName": "Indeed, Inc.",
+    "id": 1049,
+    "description": "Indeed by Indeed, Inc. — intuitive fun. This app helps you watch videos and offers features like offline mode.",
+    "size": 139,
+    "reviews": 998643,
+    "ratingAvg": 4.07,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 73050
+      },
+      {
+        "name": "2 star",
+        "count": 48141
+      },
+      {
+        "name": "3 star",
+        "count": 81105
+      },
+      {
+        "name": "4 star",
+        "count": 333047
+      },
+      {
+        "name": "5 star",
+        "count": 463300
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1050/512/512",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings",
+    "id": 1050,
+    "description": "PayPal by PayPal Holdings — fun fun. This app helps you track fitness and offers features like offline maps.",
+    "size": 324,
+    "reviews": 837431,
+    "ratingAvg": 3.48,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 220316
+      },
+      {
+        "name": "2 star",
+        "count": 17404
+      },
+      {
+        "name": "3 star",
+        "count": 17710
+      },
+      {
+        "name": "4 star",
+        "count": 301814
+      },
+      {
+        "name": "5 star",
+        "count": 280187
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1051/512/512",
+    "title": "Venmo",
+    "companyName": "Venmo",
+    "id": 1051,
+    "description": "Venmo by Venmo — fun fast. This app helps you order food and offers features like smart recommendations.",
+    "size": 161,
+    "reviews": 278802,
+    "ratingAvg": 4.45,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4032
+      },
+      {
+        "name": "2 star",
+        "count": 18798
+      },
+      {
+        "name": "3 star",
+        "count": 18592
+      },
+      {
+        "name": "4 star",
+        "count": 42308
+      },
+      {
+        "name": "5 star",
+        "count": 195072
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1052/512/512",
+    "title": "Cash App",
+    "companyName": "Block, Inc.",
+    "id": 1052,
+    "description": "Cash App by Block, Inc. — fun fast. This app helps you learn new skills and offers features like privacy controls.",
+    "size": 343,
+    "reviews": 1254813,
+    "ratingAvg": 3.83,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 214007
+      },
+      {
+        "name": "2 star",
+        "count": 156879
+      },
+      {
+        "name": "3 star",
+        "count": 6633
+      },
+      {
+        "name": "4 star",
+        "count": 130448
+      },
+      {
+        "name": "5 star",
+        "count": 746846
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1053/512/512",
+    "title": "Google Pay",
+    "companyName": "Google LLC",
+    "id": 1053,
+    "description": "Google Pay by Google LLC — easy powerful. This app helps you track fitness and offers features like offline mode.",
+    "size": 218,
+    "reviews": 2288766,
+    "ratingAvg": 4.18,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 227679
+      },
+      {
+        "name": "2 star",
+        "count": 223324
+      },
+      {
+        "name": "3 star",
+        "count": 27509
+      },
+      {
+        "name": "4 star",
+        "count": 237177
+      },
+      {
+        "name": "5 star",
+        "count": 1573077
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1054/512/512",
+    "title": "Apple Wallet",
+    "companyName": "Apple Inc.",
+    "id": 1054,
+    "description": "Apple Wallet by Apple Inc. — fast fun. This app helps you shop online and offers features like in-app purchases.",
+    "size": 149,
+    "reviews": 4838910,
+    "ratingAvg": 4.02,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20138
+      },
+      {
+        "name": "2 star",
+        "count": 692305
+      },
+      {
+        "name": "3 star",
+        "count": 311813
+      },
+      {
+        "name": "4 star",
+        "count": 1946259
+      },
+      {
+        "name": "5 star",
+        "count": 1868395
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1055/512/512",
+    "title": "Stripe",
+    "companyName": "Stripe, Inc.",
+    "id": 1055,
+    "description": "Stripe by Stripe, Inc. — fast fun. This app helps you discover content and offers features like cross-device support.",
+    "size": 182,
+    "reviews": 2698231,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 136383
+      },
+      {
+        "name": "2 star",
+        "count": 239800
+      },
+      {
+        "name": "3 star",
+        "count": 49211
+      },
+      {
+        "name": "4 star",
+        "count": 531708
+      },
+      {
+        "name": "5 star",
+        "count": 1741129
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1056/512/512",
+    "title": "Wise",
+    "companyName": "Wise Ltd",
+    "id": 1056,
+    "description": "Wise by Wise Ltd — fast easy. This app helps you watch videos and offers features like multi-language support.",
+    "size": 141,
+    "reviews": 2716817,
+    "ratingAvg": 4.14,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 29314
+      },
+      {
+        "name": "2 star",
+        "count": 352321
+      },
+      {
+        "name": "3 star",
+        "count": 476279
+      },
+      {
+        "name": "4 star",
+        "count": 198712
+      },
+      {
+        "name": "5 star",
+        "count": 1660191
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1057/512/512",
+    "title": "Revolut",
+    "companyName": "Revolut Ltd",
+    "id": 1057,
+    "description": "Revolut by Revolut Ltd — easy fast. This app helps you learn new skills and offers features like customizable settings.",
+    "size": 79,
+    "reviews": 2421163,
+    "ratingAvg": 4.21,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 138554
+      },
+      {
+        "name": "2 star",
+        "count": 287981
+      },
+      {
+        "name": "3 star",
+        "count": 31115
+      },
+      {
+        "name": "4 star",
+        "count": 429879
+      },
+      {
+        "name": "5 star",
+        "count": 1533634
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1058/512/512",
+    "title": "Shopify",
+    "companyName": "Shopify Inc.",
+    "id": 1058,
+    "description": "Shopify by Shopify Inc. — powerful easy. This app helps you discover content and offers features like privacy controls.",
+    "size": 343,
+    "reviews": 1296603,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 81442
+      },
+      {
+        "name": "2 star",
+        "count": 148847
+      },
+      {
+        "name": "3 star",
+        "count": 83938
+      },
+      {
+        "name": "4 star",
+        "count": 228751
+      },
+      {
+        "name": "5 star",
+        "count": 753625
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1059/512/512",
+    "title": "Walmart",
+    "companyName": "Walmart Inc.",
+    "id": 1059,
+    "description": "Walmart by Walmart Inc. — easy fun. This app helps you order food and offers features like offline maps.",
+    "size": 224,
+    "reviews": 2856080,
+    "ratingAvg": 3.66,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 563416
+      },
+      {
+        "name": "2 star",
+        "count": 146707
+      },
+      {
+        "name": "3 star",
+        "count": 355589
+      },
+      {
+        "name": "4 star",
+        "count": 409613
+      },
+      {
+        "name": "5 star",
+        "count": 1380755
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1060/512/512",
+    "title": "eBay",
+    "companyName": "eBay Inc.",
+    "id": 1060,
+    "description": "eBay by eBay Inc. — fun fast. This app helps you shop online and offers features like offline maps.",
+    "size": 188,
+    "reviews": 2793708,
+    "ratingAvg": 4.26,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 185926
+      },
+      {
+        "name": "2 star",
+        "count": 181581
+      },
+      {
+        "name": "3 star",
+        "count": 140723
+      },
+      {
+        "name": "4 star",
+        "count": 497797
+      },
+      {
+        "name": "5 star",
+        "count": 1787681
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1061/512/512",
+    "title": "Target",
+    "companyName": "Target Corporation",
+    "id": 1061,
+    "description": "Target by Target Corporation — fast fun. This app helps you discover content and offers features like multi-language support.",
+    "size": 207,
+    "reviews": 3243663,
+    "ratingAvg": 2.8,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1222812
+      },
+      {
+        "name": "2 star",
+        "count": 431228
+      },
+      {
+        "name": "3 star",
+        "count": 289552
+      },
+      {
+        "name": "4 star",
+        "count": 381624
+      },
+      {
+        "name": "5 star",
+        "count": 918447
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1062/512/512",
+    "title": "AliExpress",
+    "companyName": "Alibaba Group",
+    "id": 1062,
+    "description": "AliExpress by Alibaba Group — powerful intuitive. This app helps you navigate places and offers features like cross-device support.",
+    "size": 245,
+    "reviews": 133744,
+    "ratingAvg": 4.14,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 14356
+      },
+      {
+        "name": "2 star",
+        "count": 5909
+      },
+      {
+        "name": "3 star",
+        "count": 11912
+      },
+      {
+        "name": "4 star",
+        "count": 15704
+      },
+      {
+        "name": "5 star",
+        "count": 85863
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1063/512/512",
+    "title": "Wish",
+    "companyName": "ContextLogic Inc.",
+    "id": 1063,
+    "description": "Wish by ContextLogic Inc. — fun easy. This app helps you watch videos and offers features like offline mode.",
+    "size": 332,
+    "reviews": 4098200,
+    "ratingAvg": 3.93,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 732449
+      },
+      {
+        "name": "2 star",
+        "count": 13007
+      },
+      {
+        "name": "3 star",
+        "count": 25215
+      },
+      {
+        "name": "4 star",
+        "count": 1357179
+      },
+      {
+        "name": "5 star",
+        "count": 1970350
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1064/512/512",
+    "title": "Zomato",
+    "companyName": "Zomato Ltd.",
+    "id": 1064,
+    "description": "Zomato by Zomato Ltd. — easy fast. This app helps you track fitness and offers features like in-app purchases.",
+    "size": 35,
+    "reviews": 2726051,
+    "ratingAvg": 4.05,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 422283
+      },
+      {
+        "name": "2 star",
+        "count": 92204
+      },
+      {
+        "name": "3 star",
+        "count": 124733
+      },
+      {
+        "name": "4 star",
+        "count": 360998
+      },
+      {
+        "name": "5 star",
+        "count": 1725833
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1065/512/512",
+    "title": "Grubhub",
+    "companyName": "Grubhub Inc.",
+    "id": 1065,
+    "description": "Grubhub by Grubhub Inc. — secure powerful. This app helps you order food and offers features like real-time sync.",
+    "size": 329,
+    "reviews": 2025226,
+    "ratingAvg": 4.25,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 106531
+      },
+      {
+        "name": "2 star",
+        "count": 135396
+      },
+      {
+        "name": "3 star",
+        "count": 40882
+      },
+      {
+        "name": "4 star",
+        "count": 597974
+      },
+      {
+        "name": "5 star",
+        "count": 1144443
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1066/512/512",
+    "title": "DoorDash",
+    "companyName": "DoorDash, Inc.",
+    "id": 1066,
+    "description": "DoorDash by DoorDash, Inc. — intuitive secure. This app helps you watch videos and offers features like offline mode.",
+    "size": 49,
+    "reviews": 3710497,
+    "ratingAvg": 2.92,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 792957
+      },
+      {
+        "name": "2 star",
+        "count": 1199580
+      },
+      {
+        "name": "3 star",
+        "count": 97039
+      },
+      {
+        "name": "4 star",
+        "count": 757966
+      },
+      {
+        "name": "5 star",
+        "count": 862955
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1067/512/512",
+    "title": "Uber Eats",
+    "companyName": "Uber Eats",
+    "id": 1067,
+    "description": "Uber Eats by Uber Eats — easy powerful. This app helps you listen to music and offers features like privacy controls.",
+    "size": 349,
+    "reviews": 3325259,
+    "ratingAvg": 4.35,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 70910
+      },
+      {
+        "name": "2 star",
+        "count": 184431
+      },
+      {
+        "name": "3 star",
+        "count": 255852
+      },
+      {
+        "name": "4 star",
+        "count": 804366
+      },
+      {
+        "name": "5 star",
+        "count": 2009700
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1068/512/512",
+    "title": "Instacart",
+    "companyName": "Instacart, Inc.",
+    "id": 1068,
+    "description": "Instacart by Instacart, Inc. — secure secure. This app helps you navigate places and offers features like real-time sync.",
+    "size": 349,
+    "reviews": 1152387,
+    "ratingAvg": 3.84,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 87255
+      },
+      {
+        "name": "2 star",
+        "count": 206091
+      },
+      {
+        "name": "3 star",
+        "count": 91654
+      },
+      {
+        "name": "4 star",
+        "count": 184549
+      },
+      {
+        "name": "5 star",
+        "count": 582838
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1069/512/512",
+    "title": "Deliveroo",
+    "companyName": "Deliveroo plc",
+    "id": 1069,
+    "description": "Deliveroo by Deliveroo plc — secure powerful. This app helps you shop online and offers features like customizable settings.",
+    "size": 114,
+    "reviews": 1113636,
+    "ratingAvg": 3.48,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 159572
+      },
+      {
+        "name": "2 star",
+        "count": 216100
+      },
+      {
+        "name": "3 star",
+        "count": 47069
+      },
+      {
+        "name": "4 star",
+        "count": 311011
+      },
+      {
+        "name": "5 star",
+        "count": 379884
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1070/512/512",
+    "title": "Waze",
+    "companyName": "Google LLC",
+    "id": 1070,
+    "description": "Waze by Google LLC — secure intuitive. This app helps you discover content and offers features like offline maps.",
+    "size": 251,
+    "reviews": 636656,
+    "ratingAvg": 3.73,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6347
+      },
+      {
+        "name": "2 star",
+        "count": 142087
+      },
+      {
+        "name": "3 star",
+        "count": 82298
+      },
+      {
+        "name": "4 star",
+        "count": 193285
+      },
+      {
+        "name": "5 star",
+        "count": 212639
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1071/512/512",
+    "title": "Strava",
+    "companyName": "Strava, Inc.",
+    "id": 1071,
+    "description": "Strava by Strava, Inc. — secure intuitive. This app helps you listen to music and offers features like customizable settings.",
+    "size": 200,
+    "reviews": 2204169,
+    "ratingAvg": 3.19,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 225596
+      },
+      {
+        "name": "2 star",
+        "count": 443869
+      },
+      {
+        "name": "3 star",
+        "count": 723796
+      },
+      {
+        "name": "4 star",
+        "count": 300179
+      },
+      {
+        "name": "5 star",
+        "count": 510729
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1072/512/512",
+    "title": "MyFitnessPal",
+    "companyName": "Under Armour",
+    "id": 1072,
+    "description": "MyFitnessPal by Under Armour — easy intuitive. This app helps you manage tasks and offers features like in-app purchases.",
+    "size": 337,
+    "reviews": 3899558,
+    "ratingAvg": 3.59,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1007566
+      },
+      {
+        "name": "2 star",
+        "count": 150981
+      },
+      {
+        "name": "3 star",
+        "count": 220193
+      },
+      {
+        "name": "4 star",
+        "count": 558525
+      },
+      {
+        "name": "5 star",
+        "count": 1962293
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1073/512/512",
+    "title": "Fitbit",
+    "companyName": "Fitbit",
+    "id": 1073,
+    "description": "Fitbit by Fitbit — fun intuitive. This app helps you navigate places and offers features like privacy controls.",
+    "size": 244,
+    "reviews": 3117270,
+    "ratingAvg": 3.54,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298986
+      },
+      {
+        "name": "2 star",
+        "count": 366071
+      },
+      {
+        "name": "3 star",
+        "count": 785964
+      },
+      {
+        "name": "4 star",
+        "count": 698247
+      },
+      {
+        "name": "5 star",
+        "count": 968002
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1074/512/512",
+    "title": "Headspace",
+    "companyName": "Headspace Inc.",
+    "id": 1074,
+    "description": "Headspace by Headspace Inc. — fast fun. This app helps you watch videos and offers features like smart recommendations.",
+    "size": 28,
+    "reviews": 3113230,
+    "ratingAvg": 4.34,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 89439
+      },
+      {
+        "name": "2 star",
+        "count": 214771
+      },
+      {
+        "name": "3 star",
+        "count": 98336
+      },
+      {
+        "name": "4 star",
+        "count": 851244
+      },
+      {
+        "name": "5 star",
+        "count": 1859440
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1075/512/512",
+    "title": "Calm",
+    "companyName": "Calm.com, Inc.",
+    "id": 1075,
+    "description": "Calm by Calm.com, Inc. — easy intuitive. This app helps you listen to music and offers features like smart recommendations.",
+    "size": 74,
+    "reviews": 3819445,
+    "ratingAvg": 4.57,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 29489
+      },
+      {
+        "name": "2 star",
+        "count": 73114
+      },
+      {
+        "name": "3 star",
+        "count": 312905
+      },
+      {
+        "name": "4 star",
+        "count": 675086
+      },
+      {
+        "name": "5 star",
+        "count": 2728851
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1076/512/512",
+    "title": "Sleep Cycle",
+    "companyName": "Northcube AB",
+    "id": 1076,
+    "description": "Sleep Cycle by Northcube AB — fast secure. This app helps you listen to music and offers features like cross-device support.",
+    "size": 180,
+    "reviews": 1242774,
+    "ratingAvg": 3.61,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 209878
+      },
+      {
+        "name": "2 star",
+        "count": 122385
+      },
+      {
+        "name": "3 star",
+        "count": 43851
+      },
+      {
+        "name": "4 star",
+        "count": 435401
+      },
+      {
+        "name": "5 star",
+        "count": 431259
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1077/512/512",
+    "title": "7 Minute Workout",
+    "companyName": "Seven Minutes Inc.",
+    "id": 1077,
+    "description": "7 Minute Workout by Seven Minutes Inc. — fun intuitive. This app helps you listen to music and offers features like offline mode.",
+    "size": 20,
+    "reviews": 1466683,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 57814
+      },
+      {
+        "name": "2 star",
+        "count": 25411
+      },
+      {
+        "name": "3 star",
+        "count": 102432
+      },
+      {
+        "name": "4 star",
+        "count": 224454
+      },
+      {
+        "name": "5 star",
+        "count": 1056572
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1078/512/512",
+    "title": "Nike Training Club",
+    "companyName": "Nike, Inc.",
+    "id": 1078,
+    "description": "Nike Training Club by Nike, Inc. — secure intuitive. This app helps you manage tasks and offers features like customizable settings.",
+    "size": 349,
+    "reviews": 4379249,
+    "ratingAvg": 4.4,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 131721
+      },
+      {
+        "name": "2 star",
+        "count": 378268
+      },
+      {
+        "name": "3 star",
+        "count": 11611
+      },
+      {
+        "name": "4 star",
+        "count": 963774
+      },
+      {
+        "name": "5 star",
+        "count": 2893875
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1079/512/512",
+    "title": "Peloton",
+    "companyName": "Peloton Interactive",
+    "id": 1079,
+    "description": "Peloton by Peloton Interactive — fast powerful. This app helps you discover content and offers features like multi-language support.",
+    "size": 76,
+    "reviews": 2312001,
+    "ratingAvg": 3.87,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 223394
+      },
+      {
+        "name": "2 star",
+        "count": 200883
+      },
+      {
+        "name": "3 star",
+        "count": 284163
+      },
+      {
+        "name": "4 star",
+        "count": 550897
+      },
+      {
+        "name": "5 star",
+        "count": 1052664
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1080/512/512",
+    "title": "Goodreads",
+    "companyName": "Amazon",
+    "id": 1080,
+    "description": "Goodreads by Amazon — secure easy. This app helps you learn new skills and offers features like customizable settings.",
+    "size": 122,
+    "reviews": 3612688,
+    "ratingAvg": 4.04,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 306691
+      },
+      {
+        "name": "2 star",
+        "count": 132450
+      },
+      {
+        "name": "3 star",
+        "count": 211329
+      },
+      {
+        "name": "4 star",
+        "count": 1409148
+      },
+      {
+        "name": "5 star",
+        "count": 1553070
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1081/512/512",
+    "title": "Microsoft Office",
+    "companyName": "Microsoft Corporation",
+    "id": 1081,
+    "description": "Microsoft Office by Microsoft Corporation — powerful fast. This app helps you navigate places and offers features like cross-device support.",
+    "size": 58,
+    "reviews": 721088,
+    "ratingAvg": 4.35,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5049
+      },
+      {
+        "name": "2 star",
+        "count": 5240
+      },
+      {
+        "name": "3 star",
+        "count": 69264
+      },
+      {
+        "name": "4 star",
+        "count": 297574
+      },
+      {
+        "name": "5 star",
+        "count": 343961
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1082/512/512",
+    "title": "Google Docs",
+    "companyName": "Google LLC",
+    "id": 1082,
+    "description": "Google Docs by Google LLC — secure intuitive. This app helps you shop online and offers features like customizable settings.",
+    "size": 228,
+    "reviews": 436560,
+    "ratingAvg": 3.66,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 96959
+      },
+      {
+        "name": "2 star",
+        "count": 25746
+      },
+      {
+        "name": "3 star",
+        "count": 12162
+      },
+      {
+        "name": "4 star",
+        "count": 96906
+      },
+      {
+        "name": "5 star",
+        "count": 204787
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1083/512/512",
+    "title": "Google Sheets",
+    "companyName": "Google LLC",
+    "id": 1083,
+    "description": "Google Sheets by Google LLC — fast easy. This app helps you watch videos and offers features like privacy controls.",
+    "size": 154,
+    "reviews": 4820899,
+    "ratingAvg": 4.33,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 86824
+      },
+      {
+        "name": "2 star",
+        "count": 189831
+      },
+      {
+        "name": "3 star",
+        "count": 278764
+      },
+      {
+        "name": "4 star",
+        "count": 1732767
+      },
+      {
+        "name": "5 star",
+        "count": 2532713
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1084/512/512",
+    "title": "Excel",
+    "companyName": "Microsoft Corporation",
+    "id": 1084,
+    "description": "Excel by Microsoft Corporation — easy fun. This app helps you navigate places and offers features like offline maps.",
+    "size": 185,
+    "reviews": 2949597,
+    "ratingAvg": 4.17,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1450
+      },
+      {
+        "name": "2 star",
+        "count": 482712
+      },
+      {
+        "name": "3 star",
+        "count": 197768
+      },
+      {
+        "name": "4 star",
+        "count": 593254
+      },
+      {
+        "name": "5 star",
+        "count": 1674413
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1085/512/512",
+    "title": "PowerPoint",
+    "companyName": "Microsoft Corporation",
+    "id": 1085,
+    "description": "PowerPoint by Microsoft Corporation — powerful fast. This app helps you watch videos and offers features like offline maps.",
+    "size": 186,
+    "reviews": 1325444,
+    "ratingAvg": 3.68,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 67026
+      },
+      {
+        "name": "2 star",
+        "count": 185461
+      },
+      {
+        "name": "3 star",
+        "count": 217539
+      },
+      {
+        "name": "4 star",
+        "count": 491415
+      },
+      {
+        "name": "5 star",
+        "count": 364003
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1086/512/512",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "id": 1086,
+    "description": "Trello by Atlassian — fast easy. This app helps you navigate places and offers features like offline mode.",
+    "size": 350,
+    "reviews": 3561893,
+    "ratingAvg": 4.34,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 201946
+      },
+      {
+        "name": "2 star",
+        "count": 177222
+      },
+      {
+        "name": "3 star",
+        "count": 96909
+      },
+      {
+        "name": "4 star",
+        "count": 803168
+      },
+      {
+        "name": "5 star",
+        "count": 2282648
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1087/512/512",
+    "title": "Asana",
+    "companyName": "Asana, Inc.",
+    "id": 1087,
+    "description": "Asana by Asana, Inc. — easy fun. This app helps you order food and offers features like smart recommendations.",
+    "size": 15,
+    "reviews": 1719825,
+    "ratingAvg": 3.92,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 154562
+      },
+      {
+        "name": "2 star",
+        "count": 102244
+      },
+      {
+        "name": "3 star",
+        "count": 63605
+      },
+      {
+        "name": "4 star",
+        "count": 801287
+      },
+      {
+        "name": "5 star",
+        "count": 598127
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1088/512/512",
+    "title": "Jira",
+    "companyName": "Atlassian",
+    "id": 1088,
+    "description": "Jira by Atlassian — powerful powerful. This app helps you navigate places and offers features like privacy controls.",
+    "size": 268,
+    "reviews": 4691912,
+    "ratingAvg": 4.12,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 582000
+      },
+      {
+        "name": "2 star",
+        "count": 532970
+      },
+      {
+        "name": "3 star",
+        "count": 24296
+      },
+      {
+        "name": "4 star",
+        "count": 165952
+      },
+      {
+        "name": "5 star",
+        "count": 3386694
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1089/512/512",
+    "title": "Bitbucket",
+    "companyName": "Atlassian",
+    "id": 1089,
+    "description": "Bitbucket by Atlassian — secure powerful. This app helps you shop online and offers features like smart recommendations.",
+    "size": 70,
+    "reviews": 3402657,
+    "ratingAvg": 4.34,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5766
+      },
+      {
+        "name": "2 star",
+        "count": 107436
+      },
+      {
+        "name": "3 star",
+        "count": 442131
+      },
+      {
+        "name": "4 star",
+        "count": 1018002
+      },
+      {
+        "name": "5 star",
+        "count": 1829322
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1090/512/512",
+    "title": "GitHub",
+    "companyName": "GitHub, Inc.",
+    "id": 1090,
+    "description": "GitHub by GitHub, Inc. — easy fast. This app helps you manage tasks and offers features like privacy controls.",
+    "size": 182,
+    "reviews": 1415399,
+    "ratingAvg": 4.24,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 13371
+      },
+      {
+        "name": "2 star",
+        "count": 168790
+      },
+      {
+        "name": "3 star",
+        "count": 127275
+      },
+      {
+        "name": "4 star",
+        "count": 266950
+      },
+      {
+        "name": "5 star",
+        "count": 839013
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1091/512/512",
+    "title": "GitLab",
+    "companyName": "GitLab Inc.",
+    "id": 1091,
+    "description": "GitLab by GitLab Inc. — powerful intuitive. This app helps you track fitness and offers features like cross-device support.",
+    "size": 113,
+    "reviews": 1460415,
+    "ratingAvg": 3.93,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 123765
+      },
+      {
+        "name": "2 star",
+        "count": 191627
+      },
+      {
+        "name": "3 star",
+        "count": 143006
+      },
+      {
+        "name": "4 star",
+        "count": 202562
+      },
+      {
+        "name": "5 star",
+        "count": 799455
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1092/512/512",
+    "title": "VS Code",
+    "companyName": "Microsoft Corporation",
+    "id": 1092,
+    "description": "VS Code by Microsoft Corporation — fun fun. This app helps you connect with friends and offers features like offline mode.",
+    "size": 333,
+    "reviews": 2656965,
+    "ratingAvg": 4.25,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 79825
+      },
+      {
+        "name": "2 star",
+        "count": 34501
+      },
+      {
+        "name": "3 star",
+        "count": 284758
+      },
+      {
+        "name": "4 star",
+        "count": 1007844
+      },
+      {
+        "name": "5 star",
+        "count": 1250037
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1093/512/512",
+    "title": "Termius",
+    "companyName": "Termius Corporation",
+    "id": 1093,
+    "description": "Termius by Termius Corporation — fun intuitive. This app helps you listen to music and offers features like cross-device support.",
+    "size": 200,
+    "reviews": 2413176,
+    "ratingAvg": 3.97,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 14330
+      },
+      {
+        "name": "2 star",
+        "count": 358431
+      },
+      {
+        "name": "3 star",
+        "count": 346963
+      },
+      {
+        "name": "4 star",
+        "count": 663955
+      },
+      {
+        "name": "5 star",
+        "count": 1029497
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1094/512/512",
+    "title": "Postman",
+    "companyName": "Postman, Inc.",
+    "id": 1094,
+    "description": "Postman by Postman, Inc. — fun intuitive. This app helps you order food and offers features like real-time sync.",
+    "size": 321,
+    "reviews": 3994865,
+    "ratingAvg": 3.9,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 159709
+      },
+      {
+        "name": "2 star",
+        "count": 726039
+      },
+      {
+        "name": "3 star",
+        "count": 137425
+      },
+      {
+        "name": "4 star",
+        "count": 1320567
+      },
+      {
+        "name": "5 star",
+        "count": 1651125
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1095/512/512",
+    "title": "Figma",
+    "companyName": "Figma, Inc.",
+    "id": 1095,
+    "description": "Figma by Figma, Inc. — fast intuitive. This app helps you navigate places and offers features like privacy controls.",
+    "size": 198,
+    "reviews": 3132709,
+    "ratingAvg": 3.81,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 498093
+      },
+      {
+        "name": "2 star",
+        "count": 97630
+      },
+      {
+        "name": "3 star",
+        "count": 296688
+      },
+      {
+        "name": "4 star",
+        "count": 835337
+      },
+      {
+        "name": "5 star",
+        "count": 1404961
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1096/512/512",
+    "title": "Sketch",
+    "companyName": "Sketch B.V.",
+    "id": 1096,
+    "description": "Sketch by Sketch B.V. — secure intuitive. This app helps you navigate places and offers features like cross-device support.",
+    "size": 141,
+    "reviews": 1266422,
+    "ratingAvg": 4.4,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 44909
+      },
+      {
+        "name": "2 star",
+        "count": 96798
+      },
+      {
+        "name": "3 star",
+        "count": 16887
+      },
+      {
+        "name": "4 star",
+        "count": 251807
+      },
+      {
+        "name": "5 star",
+        "count": 856021
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1097/512/512",
+    "title": "InVision",
+    "companyName": "InVisionApp Inc.",
+    "id": 1097,
+    "description": "InVision by InVisionApp Inc. — easy fast. This app helps you watch videos and offers features like customizable settings.",
+    "size": 77,
+    "reviews": 4420707,
+    "ratingAvg": 4.49,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 39415
+      },
+      {
+        "name": "2 star",
+        "count": 445939
+      },
+      {
+        "name": "3 star",
+        "count": 285337
+      },
+      {
+        "name": "4 star",
+        "count": 202691
+      },
+      {
+        "name": "5 star",
+        "count": 3447325
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1098/512/512",
+    "title": "Zeplin",
+    "companyName": "Zeplin, Inc.",
+    "id": 1098,
+    "description": "Zeplin by Zeplin, Inc. — easy powerful. This app helps you track fitness and offers features like real-time sync.",
+    "size": 271,
+    "reviews": 4532925,
+    "ratingAvg": 3.34,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 851129
+      },
+      {
+        "name": "2 star",
+        "count": 1015871
+      },
+      {
+        "name": "3 star",
+        "count": 18169
+      },
+      {
+        "name": "4 star",
+        "count": 1046162
+      },
+      {
+        "name": "5 star",
+        "count": 1601594
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1099/512/512",
+    "title": "Bento",
+    "companyName": "Bento Labs",
+    "id": 1099,
+    "description": "Bento by Bento Labs — easy secure. This app helps you learn new skills and offers features like smart recommendations.",
+    "size": 236,
+    "reviews": 371518,
+    "ratingAvg": 4.33,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15145
+      },
+      {
+        "name": "2 star",
+        "count": 32293
+      },
+      {
+        "name": "3 star",
+        "count": 7763
+      },
+      {
+        "name": "4 star",
+        "count": 77684
+      },
+      {
+        "name": "5 star",
+        "count": 238633
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1100/512/512",
+    "title": "Babbel",
+    "companyName": "Babbel GmbH",
+    "id": 1100,
+    "description": "Babbel by Babbel GmbH — intuitive fast. This app helps you order food and offers features like customizable settings.",
+    "size": 200,
+    "reviews": 4790024,
+    "ratingAvg": 3.18,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1684181
+      },
+      {
+        "name": "2 star",
+        "count": 250542
+      },
+      {
+        "name": "3 star",
+        "count": 133895
+      },
+      {
+        "name": "4 star",
+        "count": 978499
+      },
+      {
+        "name": "5 star",
+        "count": 1742907
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1101/512/512",
+    "title": "Memrise",
+    "companyName": "Memrise Ltd",
+    "id": 1101,
+    "description": "Memrise by Memrise Ltd — fun fast. This app helps you navigate places and offers features like multi-language support.",
+    "size": 157,
+    "reviews": 708595,
+    "ratingAvg": 3.85,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 91611
+      },
+      {
+        "name": "2 star",
+        "count": 20263
+      },
+      {
+        "name": "3 star",
+        "count": 149937
+      },
+      {
+        "name": "4 star",
+        "count": 87033
+      },
+      {
+        "name": "5 star",
+        "count": 359751
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1102/512/512",
+    "title": "Rosetta Stone",
+    "companyName": "Rosetta Stone Ltd.",
+    "id": 1102,
+    "description": "Rosetta Stone by Rosetta Stone Ltd. — easy fast. This app helps you watch videos and offers features like offline maps.",
+    "size": 203,
+    "reviews": 1982849,
+    "ratingAvg": 4.55,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 88964
+      },
+      {
+        "name": "2 star",
+        "count": 15518
+      },
+      {
+        "name": "3 star",
+        "count": 46356
+      },
+      {
+        "name": "4 star",
+        "count": 389327
+      },
+      {
+        "name": "5 star",
+        "count": 1442684
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1103/512/512",
+    "title": "Google Translate",
+    "companyName": "Google LLC",
+    "id": 1103,
+    "description": "Google Translate by Google LLC — fun fast. This app helps you watch videos and offers features like smart recommendations.",
+    "size": 83,
+    "reviews": 3940180,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 263269
+      },
+      {
+        "name": "2 star",
+        "count": 2328
+      },
+      {
+        "name": "3 star",
+        "count": 36503
+      },
+      {
+        "name": "4 star",
+        "count": 823191
+      },
+      {
+        "name": "5 star",
+        "count": 2814889
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1104/512/512",
+    "title": "Microsoft Translator",
+    "companyName": "Microsoft Corporation",
+    "id": 1104,
+    "description": "Microsoft Translator by Microsoft Corporation — powerful intuitive. This app helps you track fitness and offers features like smart recommendations.",
+    "size": 166,
+    "reviews": 1027138,
+    "ratingAvg": 4.54,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2992
+      },
+      {
+        "name": "2 star",
+        "count": 33295
+      },
+      {
+        "name": "3 star",
+        "count": 96588
+      },
+      {
+        "name": "4 star",
+        "count": 169885
+      },
+      {
+        "name": "5 star",
+        "count": 724378
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1105/512/512",
+    "title": "WolframAlpha",
+    "companyName": "Wolfram Group",
+    "id": 1105,
+    "description": "WolframAlpha by Wolfram Group — intuitive intuitive. This app helps you order food and offers features like multi-language support.",
+    "size": 85,
+    "reviews": 2448366,
+    "ratingAvg": 3.87,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 187872
+      },
+      {
+        "name": "2 star",
+        "count": 319611
+      },
+      {
+        "name": "3 star",
+        "count": 92190
+      },
+      {
+        "name": "4 star",
+        "count": 864485
+      },
+      {
+        "name": "5 star",
+        "count": 984208
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1106/512/512",
+    "title": "IMDb",
+    "companyName": "IMDb",
+    "id": 1106,
+    "description": "IMDb by IMDb — intuitive powerful. This app helps you shop online and offers features like real-time sync.",
+    "size": 295,
+    "reviews": 175576,
+    "ratingAvg": 4.16,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 11493
+      },
+      {
+        "name": "2 star",
+        "count": 14745
+      },
+      {
+        "name": "3 star",
+        "count": 23441
+      },
+      {
+        "name": "4 star",
+        "count": 11114
+      },
+      {
+        "name": "5 star",
+        "count": 114783
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1107/512/512",
+    "title": "Rotten Tomatoes",
+    "companyName": "Fandango",
+    "id": 1107,
+    "description": "Rotten Tomatoes by Fandango — fast powerful. This app helps you learn new skills and offers features like offline mode.",
+    "size": 34,
+    "reviews": 2960298,
+    "ratingAvg": 4.11,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 149575
+      },
+      {
+        "name": "2 star",
+        "count": 318090
+      },
+      {
+        "name": "3 star",
+        "count": 36458
+      },
+      {
+        "name": "4 star",
+        "count": 998565
+      },
+      {
+        "name": "5 star",
+        "count": 1457610
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1108/512/512",
+    "title": "Pocket",
+    "companyName": "Read It Later, Inc.",
+    "id": 1108,
+    "description": "Pocket by Read It Later, Inc. — powerful secure. This app helps you watch videos and offers features like customizable settings.",
+    "size": 162,
+    "reviews": 1696067,
+    "ratingAvg": 4.54,
+    "downloads": 100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 12571
+      },
+      {
+        "name": "2 star",
+        "count": 62438
+      },
+      {
+        "name": "3 star",
+        "count": 12014
+      },
+      {
+        "name": "4 star",
+        "count": 519181
+      },
+      {
+        "name": "5 star",
+        "count": 1089863
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1109/512/512",
+    "title": "Feedly",
+    "companyName": "Feedly",
+    "id": 1109,
+    "description": "Feedly by Feedly — secure fast. This app helps you navigate places and offers features like customizable settings.",
+    "size": 200,
+    "reviews": 3670413,
+    "ratingAvg": 3.61,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 568290
+      },
+      {
+        "name": "2 star",
+        "count": 350857
+      },
+      {
+        "name": "3 star",
+        "count": 580605
+      },
+      {
+        "name": "4 star",
+        "count": 629695
+      },
+      {
+        "name": "5 star",
+        "count": 1540966
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1110/512/512",
+    "title": "Yelp",
+    "companyName": "Yelp, Inc.",
+    "id": 1110,
+    "description": "Yelp by Yelp, Inc. — secure fun. This app helps you connect with friends and offers features like cross-device support.",
+    "size": 232,
+    "reviews": 1518778,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 98928
+      },
+      {
+        "name": "2 star",
+        "count": 48610
+      },
+      {
+        "name": "3 star",
+        "count": 10471
+      },
+      {
+        "name": "4 star",
+        "count": 507293
+      },
+      {
+        "name": "5 star",
+        "count": 853476
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1111/512/512",
+    "title": "Tripadvisor",
+    "companyName": "Tripadvisor LLC",
+    "id": 1111,
+    "description": "Tripadvisor by Tripadvisor LLC — fast easy. This app helps you track fitness and offers features like offline maps.",
+    "size": 326,
+    "reviews": 3653545,
+    "ratingAvg": 3.5,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 88632
+      },
+      {
+        "name": "2 star",
+        "count": 1080629
+      },
+      {
+        "name": "3 star",
+        "count": 815893
+      },
+      {
+        "name": "4 star",
+        "count": 269410
+      },
+      {
+        "name": "5 star",
+        "count": 1398981
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1112/512/512",
+    "title": "Booking.com",
+    "companyName": "Booking.com",
+    "id": 1112,
+    "description": "Booking.com by Booking.com — secure fun. This app helps you discover content and offers features like real-time sync.",
+    "size": 29,
+    "reviews": 1063894,
+    "ratingAvg": 4.28,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6564
+      },
+      {
+        "name": "2 star",
+        "count": 142170
+      },
+      {
+        "name": "3 star",
+        "count": 43029
+      },
+      {
+        "name": "4 star",
+        "count": 228543
+      },
+      {
+        "name": "5 star",
+        "count": 643588
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1113/512/512",
+    "title": "Skyscanner",
+    "companyName": "Skyscanner Ltd",
+    "id": 1113,
+    "description": "Skyscanner by Skyscanner Ltd — fast secure. This app helps you watch videos and offers features like offline maps.",
+    "size": 283,
+    "reviews": 3083199,
+    "ratingAvg": 4.23,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 173250
+      },
+      {
+        "name": "2 star",
+        "count": 357921
+      },
+      {
+        "name": "3 star",
+        "count": 98021
+      },
+      {
+        "name": "4 star",
+        "count": 408312
+      },
+      {
+        "name": "5 star",
+        "count": 2045695
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1114/512/512",
+    "title": "Kayak",
+    "companyName": "Kayak Software Corporation",
+    "id": 1114,
+    "description": "Kayak by Kayak Software Corporation — powerful secure. This app helps you shop online and offers features like customizable settings.",
+    "size": 121,
+    "reviews": 2400592,
+    "ratingAvg": 2.99,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 217798
+      },
+      {
+        "name": "2 star",
+        "count": 1212515
+      },
+      {
+        "name": "3 star",
+        "count": 41085
+      },
+      {
+        "name": "4 star",
+        "count": 241120
+      },
+      {
+        "name": "5 star",
+        "count": 688074
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1115/512/512",
+    "title": "Uber Driver",
+    "companyName": "Uber Technologies",
+    "id": 1115,
+    "description": "Uber Driver by Uber Technologies — fast easy. This app helps you manage tasks and offers features like smart recommendations.",
+    "size": 293,
+    "reviews": 4553063,
+    "ratingAvg": 4.2,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 171685
+      },
+      {
+        "name": "2 star",
+        "count": 178499
+      },
+      {
+        "name": "3 star",
+        "count": 85786
+      },
+      {
+        "name": "4 star",
+        "count": 2238986
+      },
+      {
+        "name": "5 star",
+        "count": 1878107
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1116/512/512",
+    "title": "DoorDash Driver",
+    "companyName": "DoorDash, Inc.",
+    "id": 1116,
+    "description": "DoorDash Driver by DoorDash, Inc. — intuitive fast. This app helps you manage tasks and offers features like cross-device support.",
+    "size": 264,
+    "reviews": 225486,
+    "ratingAvg": 4.21,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9831
+      },
+      {
+        "name": "2 star",
+        "count": 18650
+      },
+      {
+        "name": "3 star",
+        "count": 13834
+      },
+      {
+        "name": "4 star",
+        "count": 54764
+      },
+      {
+        "name": "5 star",
+        "count": 128407
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1117/512/512",
+    "title": "Instacart Shopper",
+    "companyName": "Instacart, Inc.",
+    "id": 1117,
+    "description": "Instacart Shopper by Instacart, Inc. — fun intuitive. This app helps you connect with friends and offers features like customizable settings.",
+    "size": 340,
+    "reviews": 627141,
+    "ratingAvg": 4.16,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 22659
+      },
+      {
+        "name": "2 star",
+        "count": 43203
+      },
+      {
+        "name": "3 star",
+        "count": 16010
+      },
+      {
+        "name": "4 star",
+        "count": 274830
+      },
+      {
+        "name": "5 star",
+        "count": 270439
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1118/512/512",
+    "title": "Deliveroo Rider",
+    "companyName": "Deliveroo plc",
+    "id": 1118,
+    "description": "Deliveroo Rider by Deliveroo plc — secure easy. This app helps you order food and offers features like privacy controls.",
+    "size": 277,
+    "reviews": 1288586,
+    "ratingAvg": 4.18,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 41961
+      },
+      {
+        "name": "2 star",
+        "count": 20449
+      },
+      {
+        "name": "3 star",
+        "count": 315862
+      },
+      {
+        "name": "4 star",
+        "count": 199929
+      },
+      {
+        "name": "5 star",
+        "count": 710385
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1119/512/512",
+    "title": "Postmates",
+    "companyName": "Uber Technologies",
+    "id": 1119,
+    "description": "Postmates by Uber Technologies — intuitive fast. This app helps you connect with friends and offers features like customizable settings.",
+    "size": 76,
+    "reviews": 2545276,
+    "ratingAvg": 3.96,
+    "downloads": 50000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 259519
+      },
+      {
+        "name": "2 star",
+        "count": 26710
+      },
+      {
+        "name": "3 star",
+        "count": 278954
+      },
+      {
+        "name": "4 star",
+        "count": 964556
+      },
+      {
+        "name": "5 star",
+        "count": 1015537
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1120/512/512",
+    "title": "App 121",
+    "companyName": "Company 121",
+    "id": 1120,
+    "description": "App 121 by Company 121 — a versatile app that helps users learn faster and includes features such as offline access.",
+    "size": 19,
+    "reviews": 169153,
+    "ratingAvg": 3.58,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 33051
+      },
+      {
+        "name": "2 star",
+        "count": 6893
+      },
+      {
+        "name": "3 star",
+        "count": 5308
+      },
+      {
+        "name": "4 star",
+        "count": 76596
+      },
+      {
+        "name": "5 star",
+        "count": 47305
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1121/512/512",
+    "title": "App 122",
+    "companyName": "Company 122",
+    "id": 1121,
+    "description": "App 122 by Company 122 — a versatile app that helps users shop smarter and includes features such as smart notifications.",
+    "size": 85,
+    "reviews": 127601,
+    "ratingAvg": 3.88,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4058
+      },
+      {
+        "name": "2 star",
+        "count": 23792
+      },
+      {
+        "name": "3 star",
+        "count": 7527
+      },
+      {
+        "name": "4 star",
+        "count": 39875
+      },
+      {
+        "name": "5 star",
+        "count": 52349
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1122/512/512",
+    "title": "App 123",
+    "companyName": "Company 123",
+    "id": 1122,
+    "description": "App 123 by Company 123 — a versatile app that helps users stay organized and includes features such as smart notifications.",
+    "size": 163,
+    "reviews": 38661,
+    "ratingAvg": 3.88,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1103
+      },
+      {
+        "name": "2 star",
+        "count": 3731
+      },
+      {
+        "name": "3 star",
+        "count": 3901
+      },
+      {
+        "name": "4 star",
+        "count": 19948
+      },
+      {
+        "name": "5 star",
+        "count": 9978
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1123/512/512",
+    "title": "App 124",
+    "companyName": "Company 124",
+    "id": 1123,
+    "description": "App 124 by Company 124 — a versatile app that helps users shop smarter and includes features such as smart notifications.",
+    "size": 69,
+    "reviews": 123282,
+    "ratingAvg": 4.72,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1324
+      },
+      {
+        "name": "2 star",
+        "count": 6049
+      },
+      {
+        "name": "3 star",
+        "count": 1538
+      },
+      {
+        "name": "4 star",
+        "count": 8191
+      },
+      {
+        "name": "5 star",
+        "count": 106180
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1124/512/512",
+    "title": "App 125",
+    "companyName": "Company 125",
+    "id": 1124,
+    "description": "App 125 by Company 125 — a versatile app that helps users communicate seamlessly and includes features such as sync across devices.",
+    "size": 155,
+    "reviews": 190039,
+    "ratingAvg": 4.0,
+    "downloads": 500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6926
+      },
+      {
+        "name": "2 star",
+        "count": 26600
+      },
+      {
+        "name": "3 star",
+        "count": 12738
+      },
+      {
+        "name": "4 star",
+        "count": 56889
+      },
+      {
+        "name": "5 star",
+        "count": 86886
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1125/512/512",
+    "title": "App 126",
+    "companyName": "Company 126",
+    "id": 1125,
+    "description": "App 126 by Company 126 — a versatile app that helps users stay organized and includes features such as smart notifications.",
+    "size": 63,
+    "reviews": 153920,
+    "ratingAvg": 4.26,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4670
+      },
+      {
+        "name": "2 star",
+        "count": 556
+      },
+      {
+        "name": "3 star",
+        "count": 7327
+      },
+      {
+        "name": "4 star",
+        "count": 79243
+      },
+      {
+        "name": "5 star",
+        "count": 62124
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1126/512/512",
+    "title": "App 127",
+    "companyName": "Company 127",
+    "id": 1126,
+    "description": "App 127 by Company 127 — a versatile app that helps users communicate seamlessly and includes features such as offline access.",
+    "size": 42,
+    "reviews": 70329,
+    "ratingAvg": 3.65,
+    "downloads": 50000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 9510
+      },
+      {
+        "name": "2 star",
+        "count": 10558
+      },
+      {
+        "name": "3 star",
+        "count": 3333
+      },
+      {
+        "name": "4 star",
+        "count": 18325
+      },
+      {
+        "name": "5 star",
+        "count": 28603
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1127/512/512",
+    "title": "App 128",
+    "companyName": "Company 128",
+    "id": 1127,
+    "description": "App 128 by Company 128 — a versatile app that helps users learn faster and includes features such as sync across devices.",
+    "size": 123,
+    "reviews": 145141,
+    "ratingAvg": 3.53,
+    "downloads": 250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3816
+      },
+      {
+        "name": "2 star",
+        "count": 52544
+      },
+      {
+        "name": "3 star",
+        "count": 13266
+      },
+      {
+        "name": "4 star",
+        "count": 14240
+      },
+      {
+        "name": "5 star",
+        "count": 61275
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1128/512/512",
+    "title": "App 129",
+    "companyName": "Company 129",
+    "id": 1128,
+    "description": "App 129 by Company 129 — a versatile app that helps users shop smarter and includes features such as smart notifications.",
+    "size": 58,
+    "reviews": 158932,
+    "ratingAvg": 4.26,
+    "downloads": 1000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 13178
+      },
+      {
+        "name": "2 star",
+        "count": 12840
+      },
+      {
+        "name": "3 star",
+        "count": 859
+      },
+      {
+        "name": "4 star",
+        "count": 24399
+      },
+      {
+        "name": "5 star",
+        "count": 107656
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app1129/512/512",
+    "title": "App 130",
+    "companyName": "Company 130",
+    "id": 1129,
+    "description": "App 130 by Company 130 — a versatile app that helps users learn faster and includes features such as smart notifications.",
+    "size": 164,
+    "reviews": 84500,
+    "ratingAvg": 3.91,
+    "downloads": 2000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 838
+      },
+      {
+        "name": "2 star",
+        "count": 22060
+      },
+      {
+        "name": "3 star",
+        "count": 6353
+      },
+      {
+        "name": "4 star",
+        "count": 9688
+      },
+      {
+        "name": "5 star",
+        "count": 45561
       }
     ]
   }
