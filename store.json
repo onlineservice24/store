@@ -1,4292 +1,578 @@
 [
   {
-    "image": "https://picsum.photos/seed/app1000/512/512",
-    "title": "Spotify",
-    "companyName": "Spotify AB",
-    "id": 1000,
-    "description": "Spotify by Spotify AB — easy intuitive. This app helps you track fitness and offers features like offline mode.",
-    "size": 339,
-    "reviews": 938912,
-    "ratingAvg": 4.42,
-    "downloads": 5000000,
+    "image": "https://logo.clearbit.com/chat.openai.com?size=512",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 5001,
+    "description": "ChatGPT by OpenAI is one of the most advanced AI-powered conversational platforms in the world. Designed to understand and generate human-like text, it enables natural conversations on virtually any topic—from programming and creative writing to technical problem-solving and learning assistance. The app integrates seamlessly with OpenAI’s GPT-4 model, providing accurate, context-aware, and creative responses in real time. Users can draft essays, generate emails, write and debug code, summarize documents, or even brainstorm ideas with ease. ChatGPT is not just a chatbot; it’s an intelligent companion that adapts to your tone, learns from your interactions, and refines its answers for clarity and depth. The interface emphasizes simplicity and productivity, offering a minimalistic chat environment with support for history, pinned conversations, and syncing across devices. Regular updates bring improved reasoning, enhanced factual accuracy, and extended context length. It’s used by professionals, students, developers, and creators worldwide to amplify productivity, creativity, and understanding. Whether you're drafting marketing copy, learning a new concept, or just having a deep philosophical discussion, ChatGPT provides an unmatched, human-like AI experience — safely and responsibly.",
+    "size": 120,
+    "reviews": 4200000,
+    "ratingAvg": 4.8,
+    "downloads": 52000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 2201
-      },
-      {
-        "name": "2 star",
-        "count": 27944
-      },
-      {
-        "name": "3 star",
-        "count": 21946
-      },
-      {
-        "name": "4 star",
-        "count": 412731
-      },
-      {
-        "name": "5 star",
-        "count": 474090
-      }
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 420000 },
+      { "name": "5 star", "count": 4100000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1001/512/512",
-    "title": "Instagram",
-    "companyName": "Instagram",
-    "id": 1001,
-    "description": "Instagram by Instagram — powerful fun. This app helps you shop online and offers features like privacy controls.",
-    "size": 299,
-    "reviews": 1672971,
-    "ratingAvg": 4.24,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 128627
-      },
-      {
-        "name": "2 star",
-        "count": 123472
-      },
-      {
-        "name": "3 star",
-        "count": 55574
-      },
-      {
-        "name": "4 star",
-        "count": 279822
-      },
-      {
-        "name": "5 star",
-        "count": 1085476
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1002/512/512",
+    "image": "https://logo.clearbit.com/tiktok.com?size=512",
     "title": "TikTok",
     "companyName": "ByteDance",
-    "id": 1002,
-    "description": "TikTok by ByteDance — intuitive fast. This app helps you navigate places and offers features like customizable settings.",
-    "size": 91,
-    "reviews": 1811182,
-    "ratingAvg": 3.69,
-    "downloads": 500000000,
+    "id": 5002,
+    "description": "TikTok by ByteDance has transformed the digital entertainment landscape into a vibrant hub of short-form creativity. With over a billion active users globally, TikTok empowers anyone to become a creator—sharing authentic, engaging, and often viral videos that range from dance challenges to comedy, tutorials, and educational clips. The app’s intelligent algorithm curates personalized feeds based on your preferences and viewing habits, making content discovery seamless and addictive. TikTok’s editing tools are industry-leading, allowing creators to layer sounds, filters, transitions, captions, and effects with professional quality. Users can engage with the global community through duets, stitches, live streaming, and trending hashtags that drive cultural moments across the internet. Beyond entertainment, TikTok is increasingly used for micro-learning, brand promotion, and social awareness campaigns. Frequent updates bring new creative tools, better moderation policies, and performance optimizations. Whether you're a casual viewer, aspiring influencer, or business marketer, TikTok offers an immersive creative platform that blends innovation, entertainment, and expression into every scroll.",
+    "size": 110,
+    "reviews": 35000000,
+    "ratingAvg": 4.4,
+    "downloads": 37000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 493094
-      },
-      {
-        "name": "2 star",
-        "count": 64207
-      },
-      {
-        "name": "3 star",
-        "count": 15229
-      },
-      {
-        "name": "4 star",
-        "count": 172818
-      },
-      {
-        "name": "5 star",
-        "count": 1065834
-      }
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 6500000 },
+      { "name": "5 star", "count": 27500000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1003/512/512",
-    "title": "WhatsApp",
-    "companyName": "WhatsApp LLC",
-    "id": 1003,
-    "description": "WhatsApp by WhatsApp LLC — fast easy. This app helps you discover content and offers features like in-app purchases.",
-    "size": 294,
-    "reviews": 2464357,
-    "ratingAvg": 3.36,
-    "downloads": 10000000,
+    "image": "https://logo.clearbit.com/instagram.com?size=512",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5003,
+    "description": "Instagram is the world’s leading platform for photo, video, and story sharing — empowering over a billion users to connect through creativity. From everyday moments to global movements, Instagram provides a canvas for self-expression. Users can share photos, Reels, and Stories, go live, and explore content through personalized feeds powered by AI recommendations. Advanced editing tools, filters, and music integration make every post stand out. Businesses and creators thrive through Instagram Shopping, Insights, and Reels monetization — connecting audiences and brands worldwide. With integrated messaging, collaboration tools, and safety controls, Instagram continues to redefine how the world visualizes connection and community.",
+    "size": 125,
+    "reviews": 45000000,
+    "ratingAvg": 4.5,
+    "downloads": 36000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 412632
-      },
-      {
-        "name": "2 star",
-        "count": 224858
-      },
-      {
-        "name": "3 star",
-        "count": 461612
-      },
-      {
-        "name": "4 star",
-        "count": 804766
-      },
-      {
-        "name": "5 star",
-        "count": 560489
-      }
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 33400000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1004/512/512",
+    "image": "https://logo.clearbit.com/whatsapp.com?size=512",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5004,
+    "description": "WhatsApp Messenger is a fast, secure, and reliable communication app used by over 2 billion people in more than 180 countries. It provides free messaging and calling via the internet — connecting family, friends, and businesses instantly. Messages, calls, photos, videos, and documents are protected with end-to-end encryption, ensuring privacy. Users can form group chats, share status updates, and even make video calls across devices. WhatsApp Business allows entrepreneurs to showcase catalogs and engage with customers easily. Its lightweight design and seamless performance across mobile and desktop make WhatsApp the global standard for private and effortless communication.",
+    "size": 90,
+    "reviews": 50000000,
+    "ratingAvg": 4.6,
+    "downloads": 28000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 44350000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/facebook.com?size=512",
     "title": "Facebook",
-    "companyName": "Meta Platforms",
-    "id": 1004,
-    "description": "Facebook by Meta Platforms — easy fun. This app helps you navigate places and offers features like privacy controls.",
-    "size": 154,
-    "reviews": 3808481,
-    "ratingAvg": 4.24,
-    "downloads": 5000000,
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5005,
+    "description": "Facebook connects billions of people across the globe, allowing users to share their lives, build communities, and discover what matters most. From posts, photos, and videos to Reels and live streams, Facebook fosters real-time communication and creativity. Its Groups and Marketplace features make it easy to engage in interests and buy or sell items locally. Facebook Watch and Gaming bring entertainment to the forefront, while Events and Pages support businesses and creators. Robust privacy tools, customizable feeds, and AI-driven recommendations make Facebook both personal and expansive — a hub of digital social life for every generation.",
+    "size": 140,
+    "reviews": 38000000,
+    "ratingAvg": 4.2,
+    "downloads": 30000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 368303
-      },
-      {
-        "name": "2 star",
-        "count": 165549
-      },
-      {
-        "name": "3 star",
-        "count": 168633
-      },
-      {
-        "name": "4 star",
-        "count": 604243
-      },
-      {
-        "name": "5 star",
-        "count": 2501753
-      }
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 25500000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1005/512/512",
-    "title": "YouTube",
-    "companyName": "Google LLC",
-    "id": 1005,
-    "description": "YouTube by Google LLC — easy intuitive. This app helps you shop online and offers features like smart recommendations.",
-    "size": 339,
-    "reviews": 4677033,
-    "ratingAvg": 4.51,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 95443
-      },
-      {
-        "name": "2 star",
-        "count": 150873
-      },
-      {
-        "name": "3 star",
-        "count": 562864
-      },
-      {
-        "name": "4 star",
-        "count": 326291
-      },
-      {
-        "name": "5 star",
-        "count": 3541562
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1006/512/512",
-    "title": "Snapchat",
-    "companyName": "Snap Inc",
-    "id": 1006,
-    "description": "Snapchat by Snap Inc — intuitive fun. This app helps you shop online and offers features like smart recommendations.",
-    "size": 347,
-    "reviews": 4192855,
-    "ratingAvg": 3.95,
-    "downloads": 100000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 176816
-      },
-      {
-        "name": "2 star",
-        "count": 863691
-      },
-      {
-        "name": "3 star",
-        "count": 215611
-      },
-      {
-        "name": "4 star",
-        "count": 667309
-      },
-      {
-        "name": "5 star",
-        "count": 2269428
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1007/512/512",
+    "image": "https://logo.clearbit.com/telegram.org?size=512",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
-    "id": 1007,
-    "description": "Telegram by Telegram FZ-LLC — fun intuitive. This app helps you learn new skills and offers features like multi-language support.",
-    "size": 82,
-    "reviews": 4279216,
-    "ratingAvg": 4.05,
-    "downloads": 100000000,
+    "id": 5006,
+    "description": "Telegram is a high-speed, cloud-based messaging platform that prioritizes privacy, freedom, and flexibility. Built for individuals, groups, and communities, it allows users to exchange text messages, voice notes, photos, videos, and files of any type without size restrictions. Telegram’s core principle revolves around security — all communications are encrypted, and users can create secret chats that self-destruct. Beyond simple chat, Telegram is a full ecosystem: channels for broadcasting to large audiences, bots for automation and customer support, polls, reactions, and threaded discussions for organized communication. Businesses use Telegram for outreach, while developers extend its capabilities using the Telegram Bot API and Telethon framework. Its lightweight design ensures speed even on low connections, and data syncs seamlessly across all your devices — mobile, tablet, and desktop. With constant updates introducing features like Stories, video messages, and media editing tools, Telegram stands out as one of the most complete communication apps in the world.",
+    "size": 85,
+    "reviews": 32000000,
+    "ratingAvg": 4.5,
+    "downloads": 19000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 224011
-      },
-      {
-        "name": "2 star",
-        "count": 464214
-      },
-      {
-        "name": "3 star",
-        "count": 650048
-      },
-      {
-        "name": "4 star",
-        "count": 459315
-      },
-      {
-        "name": "5 star",
-        "count": 2481628
-      }
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 28350000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1008/512/512",
-    "title": "Twitter",
-    "companyName": "Twitter, Inc.",
-    "id": 1008,
-    "description": "Twitter by Twitter, Inc. — secure fun. This app helps you manage tasks and offers features like offline maps.",
-    "size": 140,
-    "reviews": 4645795,
-    "ratingAvg": 3.77,
-    "downloads": 500000,
+    "image": "https://logo.clearbit.com/snapchat.com?size=512",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 5007,
+    "description": "Snapchat redefined digital communication with its ephemeral messaging model, enabling users to send Snaps that disappear after viewing. It’s more than a messaging platform — it’s a visual storytelling hub powered by creativity, privacy, and fun. The app includes photo and video capture with AR Lenses, filters, Bitmojis, and effects that bring imagination to life. Users engage through private chats, public stories, Snap Maps to track friends in real time, and Spotlight — a space for viral short-form content. Snapchat also offers premium content from publishers and creators, making it a mix between social media and entertainment. Focused on user safety, Snapchat uses privacy-by-design principles, meaning you always control who sees what. Its vibrant ecosystem of features, such as streaks, AR games, and discoverable experiences, fosters community while preserving spontaneity — making every interaction feel real and fleeting.",
+    "size": 95,
+    "reviews": 29000000,
+    "ratingAvg": 4.3,
+    "downloads": 20000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 769755
-      },
-      {
-        "name": "2 star",
-        "count": 4508
-      },
-      {
-        "name": "3 star",
-        "count": 497977
-      },
-      {
-        "name": "4 star",
-        "count": 1646500
-      },
-      {
-        "name": "5 star",
-        "count": 1727055
-      }
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 24100000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1009/512/512",
-    "title": "Gmail",
-    "companyName": "Google LLC",
-    "id": 1009,
-    "description": "Gmail by Google LLC — easy secure. This app helps you manage tasks and offers features like multi-language support.",
-    "size": 13,
-    "reviews": 2214467,
-    "ratingAvg": 3.74,
-    "downloads": 5000000,
+    "image": "https://logo.clearbit.com/spotify.com?size=512",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 5008,
+    "description": "Spotify revolutionized music consumption by providing on-demand streaming to millions of songs, albums, and podcasts from artists worldwide. Users can explore new music tailored to their tastes through powerful AI-driven recommendations like Discover Weekly and Release Radar. The app enables playlist creation, sharing, and collaborative listening. Offline downloads let users enjoy tracks anywhere without a connection. Spotify’s advanced audio settings, such as crossfade, equalizer adjustments, and high-quality streaming, appeal to both casual listeners and audiophiles. Podcasts have also become a core feature, hosting creators ranging from independent voices to exclusive shows from celebrities. Spotify for Artists allows musicians to upload and analyze their streams in real time, giving insight into their audience demographics and song performance. Whether on mobile, desktop, or smart speakers, Spotify ensures a seamless experience — one focused on personal taste, exploration, and convenience.",
+    "size": 100,
+    "reviews": 27000000,
+    "ratingAvg": 4.5,
+    "downloads": 24000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 470691
-      },
-      {
-        "name": "2 star",
-        "count": 189159
-      },
-      {
-        "name": "3 star",
-        "count": 93389
-      },
-      {
-        "name": "4 star",
-        "count": 152653
-      },
-      {
-        "name": "5 star",
-        "count": 1308575
-      }
+      { "name": "1 star", "count": 180000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 23600000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1010/512/512",
-    "title": "Google Maps",
-    "companyName": "Google LLC",
-    "id": 1010,
-    "description": "Google Maps by Google LLC — intuitive fast. This app helps you discover content and offers features like offline maps.",
-    "size": 283,
-    "reviews": 9797,
-    "ratingAvg": 4.38,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 675
-      },
-      {
-        "name": "2 star",
-        "count": 495
-      },
-      {
-        "name": "3 star",
-        "count": 88
-      },
-      {
-        "name": "4 star",
-        "count": 1723
-      },
-      {
-        "name": "5 star",
-        "count": 6816
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1011/512/512",
+    "image": "https://logo.clearbit.com/netflix.com?size=512",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
-    "id": 1011,
-    "description": "Netflix by Netflix, Inc. — intuitive powerful. This app helps you listen to music and offers features like privacy controls.",
-    "size": 47,
-    "reviews": 4473663,
-    "ratingAvg": 4.34,
-    "downloads": 5000000,
+    "id": 5009,
+    "description": "Netflix is a leading global entertainment platform that offers movies, series, documentaries, and originals on demand. From Hollywood blockbusters to indie gems, Netflix curates content across every genre and region. With its proprietary recommendation engine, users receive personalized suggestions based on their watch history, making each experience unique. Subscribers can stream in resolutions up to 4K HDR, download for offline playback, and set up multiple user profiles under a single account. Parental controls ensure a family-safe experience, while smart adaptive streaming adjusts quality to your connection speed. Netflix also produces acclaimed originals such as Stranger Things, The Crown, and Money Heist, becoming a pioneer in digital filmmaking and storytelling. Behind the scenes, Netflix invests heavily in accessibility, localization, and performance — optimizing streaming even in low-bandwidth environments. Whether you’re binge-watching or exploring global cinema, Netflix brings the world’s entertainment to your fingertips.",
+    "size": 150,
+    "reviews": 22000000,
+    "ratingAvg": 4.6,
+    "downloads": 35000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 400217
-      },
-      {
-        "name": "2 star",
-        "count": 37883
-      },
-      {
-        "name": "3 star",
-        "count": 177787
-      },
-      {
-        "name": "4 star",
-        "count": 904382
-      },
-      {
-        "name": "5 star",
-        "count": 2953394
-      }
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 16700000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1012/512/512",
+    "image": "https://logo.clearbit.com/disneyplus.com?size=512",
     "title": "Disney+",
     "companyName": "The Walt Disney Company",
-    "id": 1012,
-    "description": "Disney+ by The Walt Disney Company — fast fast. This app helps you connect with friends and offers features like smart recommendations.",
-    "size": 216,
-    "reviews": 3137478,
-    "ratingAvg": 4.34,
-    "downloads": 5000000,
+    "id": 5010,
+    "description": "Disney+ is the home of the world’s most beloved franchises — from Marvel and Star Wars to Pixar and National Geographic. It offers an ever-growing library of blockbuster movies, original series, and exclusive releases, available in stunning 4K Ultra HD. Subscribers can download unlimited titles, set up multiple profiles (including child-safe ones), and stream on any device, from smartphones to smart TVs. Its intuitive interface makes discovering content effortless — whether you’re revisiting classics like The Lion King or diving into new hits like The Mandalorian. Disney+ continues to expand globally, bringing localized experiences and language support. The app also emphasizes accessibility with subtitles, dubbing, and descriptive audio. Regular feature updates and strong integration with the broader Disney ecosystem make it a cornerstone of family entertainment in the digital age.",
+    "size": 140,
+    "reviews": 17000000,
+    "ratingAvg": 4.4,
+    "downloads": 25000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 183789
-      },
-      {
-        "name": "2 star",
-        "count": 232412
-      },
-      {
-        "name": "3 star",
-        "count": 41122
-      },
-      {
-        "name": "4 star",
-        "count": 549728
-      },
-      {
-        "name": "5 star",
-        "count": 2130427
-      }
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 15800000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1013/512/512",
+    "image": "https://logo.clearbit.com/amazon.com?size=512",
     "title": "Amazon Shopping",
     "companyName": "Amazon",
-    "id": 1013,
-    "description": "Amazon Shopping by Amazon — easy fun. This app helps you navigate places and offers features like smart recommendations.",
-    "size": 46,
-    "reviews": 268510,
-    "ratingAvg": 3.7,
-    "downloads": 500000000,
+    "id": 5011,
+    "description": "Amazon Shopping offers a complete e-commerce experience on your mobile device, allowing you to browse millions of items across categories like electronics, fashion, groceries, books, and home essentials. With secure one-click purchasing, detailed reviews, real-time shipment tracking, and personalized recommendations, it’s designed for maximum convenience. Users can scan barcodes to find products instantly, use Alexa for voice search, and explore daily deals and Lightning Offers. Amazon’s strong logistics backbone ensures fast, reliable delivery worldwide. Prime members enjoy free shipping, exclusive discounts, and access to Prime Video and Prime Music. The app continuously improves usability with smoother navigation, regional pricing, and multi-language support. Whether you’re a casual shopper or a small business seller, Amazon Shopping redefines digital retail efficiency.",
+    "size": 160,
+    "reviews": 21000000,
+    "ratingAvg": 4.3,
+    "downloads": 40000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 53681
-      },
-      {
-        "name": "2 star",
-        "count": 2009
-      },
-      {
-        "name": "3 star",
-        "count": 7431
-      },
-      {
-        "name": "4 star",
-        "count": 112346
-      },
-      {
-        "name": "5 star",
-        "count": 93043
-      }
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 15700000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1014/512/512",
-    "title": "Amazon Kindle",
-    "companyName": "Amazon",
-    "id": 1014,
-    "description": "Amazon Kindle by Amazon — easy easy. This app helps you listen to music and offers features like multi-language support.",
-    "size": 60,
-    "reviews": 818114,
-    "ratingAvg": 3.77,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 101722
-      },
-      {
-        "name": "2 star",
-        "count": 41359
-      },
-      {
-        "name": "3 star",
-        "count": 50066
-      },
-      {
-        "name": "4 star",
-        "count": 376688
-      },
-      {
-        "name": "5 star",
-        "count": 248279
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1015/512/512",
+    "image": "https://logo.clearbit.com/uber.com?size=512",
     "title": "Uber",
     "companyName": "Uber Technologies",
-    "id": 1015,
-    "description": "Uber by Uber Technologies — fast easy. This app helps you manage tasks and offers features like in-app purchases.",
-    "size": 241,
-    "reviews": 1180934,
-    "ratingAvg": 3.99,
-    "downloads": 100000,
+    "id": 5012,
+    "description": "Uber connects riders with drivers in over 10,000 cities globally. Request a ride in seconds, view fare estimates upfront, and track your driver in real time. Beyond rides, Uber offers delivery services (Uber Eats), rentals, and public transport integration in select cities. Safety is at its core — every trip is tracked by GPS, driver identities are verified, and emergency support is built into the app. Riders can share trip details, rate drivers, and enjoy flexible payment methods including cards, cash, and digital wallets. For drivers, Uber provides income opportunities with real-time navigation, earning insights, and safety controls. The app continues to evolve with innovations like EV support, carpooling, and accessibility features. Whether commuting, traveling, or exploring new places, Uber simplifies mobility with trust and technology.",
+    "size": 95,
+    "reviews": 19000000,
+    "ratingAvg": 4.2,
+    "downloads": 30000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 62041
-      },
-      {
-        "name": "2 star",
-        "count": 36964
-      },
-      {
-        "name": "3 star",
-        "count": 32542
-      },
-      {
-        "name": "4 star",
-        "count": 768765
-      },
-      {
-        "name": "5 star",
-        "count": 280622
-      }
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 18200000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1016/512/512",
-    "title": "Lyft",
-    "companyName": "Lyft, Inc.",
-    "id": 1016,
-    "description": "Lyft by Lyft, Inc. — secure fun. This app helps you order food and offers features like offline maps.",
-    "size": 260,
-    "reviews": 4042927,
-    "ratingAvg": 4.34,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 127395
-      },
-      {
-        "name": "2 star",
-        "count": 271535
-      },
-      {
-        "name": "3 star",
-        "count": 32011
-      },
-      {
-        "name": "4 star",
-        "count": 1274304
-      },
-      {
-        "name": "5 star",
-        "count": 2337682
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1017/512/512",
-    "title": "Airbnb",
-    "companyName": "Airbnb, Inc.",
-    "id": 1017,
-    "description": "Airbnb by Airbnb, Inc. — intuitive easy. This app helps you connect with friends and offers features like multi-language support.",
-    "size": 91,
-    "reviews": 1597978,
-    "ratingAvg": 3.4,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 53594
-      },
-      {
-        "name": "2 star",
-        "count": 527508
-      },
-      {
-        "name": "3 star",
-        "count": 131792
-      },
-      {
-        "name": "4 star",
-        "count": 492694
-      },
-      {
-        "name": "5 star",
-        "count": 392390
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1018/512/512",
-    "title": "Zoom",
-    "companyName": "Zoom Video Communications",
-    "id": 1018,
-    "description": "Zoom by Zoom Video Communications — intuitive fast. This app helps you navigate places and offers features like multi-language support.",
-    "size": 53,
-    "reviews": 1563812,
-    "ratingAvg": 4.38,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 9937
-      },
-      {
-        "name": "2 star",
-        "count": 9853
-      },
-      {
-        "name": "3 star",
-        "count": 277083
-      },
-      {
-        "name": "4 star",
-        "count": 352812
-      },
-      {
-        "name": "5 star",
-        "count": 914127
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1019/512/512",
-    "title": "Slack",
-    "companyName": "Slack Technologies",
-    "id": 1019,
-    "description": "Slack by Slack Technologies — fast fun. This app helps you track fitness and offers features like customizable settings.",
-    "size": 173,
-    "reviews": 2192461,
-    "ratingAvg": 4.13,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 56343
-      },
-      {
-        "name": "2 star",
-        "count": 310580
-      },
-      {
-        "name": "3 star",
-        "count": 67250
-      },
-      {
-        "name": "4 star",
-        "count": 612272
-      },
-      {
-        "name": "5 star",
-        "count": 1146016
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1020/512/512",
-    "title": "Microsoft Teams",
-    "companyName": "Microsoft Corporation",
-    "id": 1020,
-    "description": "Microsoft Teams by Microsoft Corporation — powerful secure. This app helps you track fitness and offers features like multi-language support.",
-    "size": 49,
-    "reviews": 4515004,
-    "ratingAvg": 4.07,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 68931
-      },
-      {
-        "name": "2 star",
-        "count": 88608
-      },
-      {
-        "name": "3 star",
-        "count": 778360
-      },
-      {
-        "name": "4 star",
-        "count": 2110531
-      },
-      {
-        "name": "5 star",
-        "count": 1468574
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1021/512/512",
-    "title": "Dropbox",
-    "companyName": "Dropbox, Inc.",
-    "id": 1021,
-    "description": "Dropbox by Dropbox, Inc. — secure intuitive. This app helps you listen to music and offers features like cross-device support.",
-    "size": 16,
-    "reviews": 4657341,
-    "ratingAvg": 3.67,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 190266
-      },
-      {
-        "name": "2 star",
-        "count": 582275
-      },
-      {
-        "name": "3 star",
-        "count": 1495082
-      },
-      {
-        "name": "4 star",
-        "count": 697187
-      },
-      {
-        "name": "5 star",
-        "count": 1692531
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1022/512/512",
-    "title": "Google Drive",
-    "companyName": "Google LLC",
-    "id": 1022,
-    "description": "Google Drive by Google LLC — easy powerful. This app helps you learn new skills and offers features like multi-language support.",
-    "size": 116,
-    "reviews": 2219457,
-    "ratingAvg": 3.98,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 172452
-      },
-      {
-        "name": "2 star",
-        "count": 70835
-      },
-      {
-        "name": "3 star",
-        "count": 584871
-      },
-      {
-        "name": "4 star",
-        "count": 198412
-      },
-      {
-        "name": "5 star",
-        "count": 1192887
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1023/512/512",
-    "title": "OneDrive",
-    "companyName": "Microsoft Corporation",
-    "id": 1023,
-    "description": "OneDrive by Microsoft Corporation — secure fast. This app helps you shop online and offers features like smart recommendations.",
-    "size": 230,
-    "reviews": 4710227,
-    "ratingAvg": 4.1,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3826
-      },
-      {
-        "name": "2 star",
-        "count": 30803
-      },
-      {
-        "name": "3 star",
-        "count": 845230
-      },
-      {
-        "name": "4 star",
-        "count": 2436272
-      },
-      {
-        "name": "5 star",
-        "count": 1394096
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1024/512/512",
-    "title": "Notion",
-    "companyName": "Notion Labs",
-    "id": 1024,
-    "description": "Notion by Notion Labs — powerful secure. This app helps you navigate places and offers features like smart recommendations.",
-    "size": 139,
-    "reviews": 867295,
-    "ratingAvg": 3.85,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 44270
-      },
-      {
-        "name": "2 star",
-        "count": 83245
-      },
-      {
-        "name": "3 star",
-        "count": 210685
-      },
-      {
-        "name": "4 star",
-        "count": 146156
-      },
-      {
-        "name": "5 star",
-        "count": 382939
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1025/512/512",
-    "title": "Evernote",
-    "companyName": "Evernote Corporation",
-    "id": 1025,
-    "description": "Evernote by Evernote Corporation — easy fast. This app helps you listen to music and offers features like in-app purchases.",
-    "size": 148,
-    "reviews": 1340448,
-    "ratingAvg": 3.84,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 145618
-      },
-      {
-        "name": "2 star",
-        "count": 10760
-      },
-      {
-        "name": "3 star",
-        "count": 193474
-      },
-      {
-        "name": "4 star",
-        "count": 550240
-      },
-      {
-        "name": "5 star",
-        "count": 440356
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1026/512/512",
-    "title": "Pinterest",
-    "companyName": "Pinterest, Inc.",
-    "id": 1026,
-    "description": "Pinterest by Pinterest, Inc. — fun intuitive. This app helps you order food and offers features like customizable settings.",
-    "size": 180,
-    "reviews": 2342091,
-    "ratingAvg": 3.22,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 365446
-      },
-      {
-        "name": "2 star",
-        "count": 623418
-      },
-      {
-        "name": "3 star",
-        "count": 59872
-      },
-      {
-        "name": "4 star",
-        "count": 711891
-      },
-      {
-        "name": "5 star",
-        "count": 581464
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1027/512/512",
-    "title": "Reddit",
-    "companyName": "Reddit, Inc.",
-    "id": 1027,
-    "description": "Reddit by Reddit, Inc. — secure fun. This app helps you discover content and offers features like cross-device support.",
-    "size": 209,
-    "reviews": 4841771,
-    "ratingAvg": 4.55,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 88442
-      },
-      {
-        "name": "2 star",
-        "count": 19047
-      },
-      {
-        "name": "3 star",
-        "count": 240302
-      },
-      {
-        "name": "4 star",
-        "count": 1304238
-      },
-      {
-        "name": "5 star",
-        "count": 3189742
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1028/512/512",
-    "title": "Twitch",
-    "companyName": "Twitch Interactive",
-    "id": 1028,
-    "description": "Twitch by Twitch Interactive — easy easy. This app helps you navigate places and offers features like in-app purchases.",
-    "size": 331,
-    "reviews": 2638315,
-    "ratingAvg": 3.91,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 252328
-      },
-      {
-        "name": "2 star",
-        "count": 30846
-      },
-      {
-        "name": "3 star",
-        "count": 533719
-      },
-      {
-        "name": "4 star",
-        "count": 704148
-      },
-      {
-        "name": "5 star",
-        "count": 1117274
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1029/512/512",
-    "title": "Steam",
-    "companyName": "Valve Corporation",
-    "id": 1029,
-    "description": "Steam by Valve Corporation — fun fun. This app helps you listen to music and offers features like multi-language support.",
-    "size": 101,
-    "reviews": 4779000,
-    "ratingAvg": 4.4,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 175273
-      },
-      {
-        "name": "2 star",
-        "count": 388665
-      },
-      {
-        "name": "3 star",
-        "count": 199
-      },
-      {
-        "name": "4 star",
-        "count": 977436
-      },
-      {
-        "name": "5 star",
-        "count": 3237427
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1030/512/512",
-    "title": "Discord",
-    "companyName": "Discord Inc.",
-    "id": 1030,
-    "description": "Discord by Discord Inc. — fast fast. This app helps you listen to music and offers features like offline maps.",
-    "size": 254,
-    "reviews": 1428474,
-    "ratingAvg": 3.98,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 140358
-      },
-      {
-        "name": "2 star",
-        "count": 43562
-      },
-      {
-        "name": "3 star",
-        "count": 142286
-      },
-      {
-        "name": "4 star",
-        "count": 486682
-      },
-      {
-        "name": "5 star",
-        "count": 615586
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1031/512/512",
-    "title": "Canva",
-    "companyName": "Canva Pty Ltd",
-    "id": 1031,
-    "description": "Canva by Canva Pty Ltd — fast fun. This app helps you listen to music and offers features like real-time sync.",
-    "size": 324,
-    "reviews": 615927,
-    "ratingAvg": 3.87,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 27717
-      },
-      {
-        "name": "2 star",
-        "count": 99094
-      },
-      {
-        "name": "3 star",
-        "count": 39097
-      },
-      {
-        "name": "4 star",
-        "count": 207970
-      },
-      {
-        "name": "5 star",
-        "count": 242049
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1032/512/512",
-    "title": "Adobe Photoshop Express",
-    "companyName": "Adobe Inc.",
-    "id": 1032,
-    "description": "Adobe Photoshop Express by Adobe Inc. — fun intuitive. This app helps you order food and offers features like in-app purchases.",
-    "size": 277,
-    "reviews": 3901926,
-    "ratingAvg": 4.39,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 16209
-      },
-      {
-        "name": "2 star",
-        "count": 90170
-      },
-      {
-        "name": "3 star",
-        "count": 593372
-      },
-      {
-        "name": "4 star",
-        "count": 872922
-      },
-      {
-        "name": "5 star",
-        "count": 2329253
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1033/512/512",
-    "title": "VSCO",
-    "companyName": "VSCO",
-    "id": 1033,
-    "description": "VSCO by VSCO — fun powerful. This app helps you listen to music and offers features like privacy controls.",
-    "size": 292,
-    "reviews": 3745594,
-    "ratingAvg": 3.77,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 642131
-      },
-      {
-        "name": "2 star",
-        "count": 384207
-      },
-      {
-        "name": "3 star",
-        "count": 181694
-      },
-      {
-        "name": "4 star",
-        "count": 529403
-      },
-      {
-        "name": "5 star",
-        "count": 2008159
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1034/512/512",
-    "title": "Shazam",
-    "companyName": "Shazam Entertainment Ltd.",
-    "id": 1034,
-    "description": "Shazam by Shazam Entertainment Ltd. — fun secure. This app helps you order food and offers features like offline maps.",
-    "size": 237,
-    "reviews": 654977,
-    "ratingAvg": 3.84,
-    "downloads": 100000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 118815
-      },
-      {
-        "name": "2 star",
-        "count": 25396
-      },
-      {
-        "name": "3 star",
-        "count": 38894
-      },
-      {
-        "name": "4 star",
-        "count": 131640
-      },
-      {
-        "name": "5 star",
-        "count": 340232
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1035/512/512",
-    "title": "SoundCloud",
-    "companyName": "SoundCloud Ltd.",
-    "id": 1035,
-    "description": "SoundCloud by SoundCloud Ltd. — fun fast. This app helps you shop online and offers features like privacy controls.",
-    "size": 224,
-    "reviews": 527322,
-    "ratingAvg": 4.36,
-    "downloads": 100000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 7227
-      },
-      {
-        "name": "2 star",
-        "count": 16996
-      },
-      {
-        "name": "3 star",
-        "count": 73355
-      },
-      {
-        "name": "4 star",
-        "count": 108900
-      },
-      {
-        "name": "5 star",
-        "count": 320844
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1036/512/512",
-    "title": "Pocket Casts",
-    "companyName": "N100 Labs",
-    "id": 1036,
-    "description": "Pocket Casts by N100 Labs — powerful easy. This app helps you learn new skills and offers features like real-time sync.",
-    "size": 211,
-    "reviews": 3520005,
-    "ratingAvg": 3.88,
-    "downloads": 100000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 250001
-      },
-      {
-        "name": "2 star",
-        "count": 429244
-      },
-      {
-        "name": "3 star",
-        "count": 520530
-      },
-      {
-        "name": "4 star",
-        "count": 626290
-      },
-      {
-        "name": "5 star",
-        "count": 1693940
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1037/512/512",
-    "title": "Apple Music",
-    "companyName": "Apple Inc.",
-    "id": 1037,
-    "description": "Apple Music by Apple Inc. — secure fun. This app helps you shop online and offers features like smart recommendations.",
-    "size": 330,
-    "reviews": 4485553,
-    "ratingAvg": 4.28,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 22718
-      },
-      {
-        "name": "2 star",
-        "count": 416282
-      },
-      {
-        "name": "3 star",
-        "count": 690616
-      },
-      {
-        "name": "4 star",
-        "count": 502694
-      },
-      {
-        "name": "5 star",
-        "count": 2853243
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1038/512/512",
-    "title": "Pandora",
-    "companyName": "Pandora Media",
-    "id": 1038,
-    "description": "Pandora by Pandora Media — fast easy. This app helps you listen to music and offers features like offline mode.",
-    "size": 244,
-    "reviews": 2746781,
-    "ratingAvg": 3.74,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 95994
-      },
-      {
-        "name": "2 star",
-        "count": 493632
-      },
-      {
-        "name": "3 star",
-        "count": 76026
-      },
-      {
-        "name": "4 star",
-        "count": 1443951
-      },
-      {
-        "name": "5 star",
-        "count": 637178
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1039/512/512",
-    "title": "LINE",
-    "companyName": "LINE Corporation",
-    "id": 1039,
-    "description": "LINE by LINE Corporation — easy secure. This app helps you discover content and offers features like offline mode.",
-    "size": 330,
-    "reviews": 1283275,
-    "ratingAvg": 4.47,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 35946
-      },
-      {
-        "name": "2 star",
-        "count": 84630
-      },
-      {
-        "name": "3 star",
-        "count": 16023
-      },
-      {
-        "name": "4 star",
-        "count": 245701
-      },
-      {
-        "name": "5 star",
-        "count": 900975
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1040/512/512",
-    "title": "KakaoTalk",
-    "companyName": "Kakao Corp",
-    "id": 1040,
-    "description": "KakaoTalk by Kakao Corp — intuitive fast. This app helps you shop online and offers features like multi-language support.",
-    "size": 171,
-    "reviews": 4835133,
-    "ratingAvg": 3.42,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 447584
-      },
-      {
-        "name": "2 star",
-        "count": 1255970
-      },
-      {
-        "name": "3 star",
-        "count": 199923
-      },
-      {
-        "name": "4 star",
-        "count": 1699903
-      },
-      {
-        "name": "5 star",
-        "count": 1231753
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1041/512/512",
-    "title": "WeChat",
-    "companyName": "Tencent",
-    "id": 1041,
-    "description": "WeChat by Tencent — powerful easy. This app helps you navigate places and offers features like real-time sync.",
-    "size": 231,
-    "reviews": 3113573,
-    "ratingAvg": 4.35,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 24026
-      },
-      {
-        "name": "2 star",
-        "count": 350672
-      },
-      {
-        "name": "3 star",
-        "count": 4282
-      },
-      {
-        "name": "4 star",
-        "count": 873306
-      },
-      {
-        "name": "5 star",
-        "count": 1861287
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1042/512/512",
-    "title": "Signal",
-    "companyName": "Signal Foundation",
-    "id": 1042,
-    "description": "Signal by Signal Foundation — fast secure. This app helps you learn new skills and offers features like smart recommendations.",
-    "size": 279,
-    "reviews": 2270615,
-    "ratingAvg": 3.81,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 149827
-      },
-      {
-        "name": "2 star",
-        "count": 394726
-      },
-      {
-        "name": "3 star",
-        "count": 233310
-      },
-      {
-        "name": "4 star",
-        "count": 441079
-      },
-      {
-        "name": "5 star",
-        "count": 1051673
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1043/512/512",
-    "title": "Viber",
-    "companyName": "Viber Media S.à r.l.",
-    "id": 1043,
-    "description": "Viber by Viber Media S.à r.l. — intuitive fast. This app helps you order food and offers features like smart recommendations.",
-    "size": 249,
-    "reviews": 4785245,
-    "ratingAvg": 4.14,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 561567
-      },
-      {
-        "name": "2 star",
-        "count": 283869
-      },
-      {
-        "name": "3 star",
-        "count": 17351
-      },
-      {
-        "name": "4 star",
-        "count": 994038
-      },
-      {
-        "name": "5 star",
-        "count": 2928420
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1044/512/512",
-    "title": "Duolingo",
-    "companyName": "Duolingo, Inc.",
-    "id": 1044,
-    "description": "Duolingo by Duolingo, Inc. — secure easy. This app helps you navigate places and offers features like smart recommendations.",
-    "size": 55,
-    "reviews": 2029641,
-    "ratingAvg": 3.95,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 190108
-      },
-      {
-        "name": "2 star",
-        "count": 100122
-      },
-      {
-        "name": "3 star",
-        "count": 211947
-      },
-      {
-        "name": "4 star",
-        "count": 641459
-      },
-      {
-        "name": "5 star",
-        "count": 886005
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1045/512/512",
-    "title": "Khan Academy",
-    "companyName": "Khan Academy",
-    "id": 1045,
-    "description": "Khan Academy by Khan Academy — secure fast. This app helps you order food and offers features like real-time sync.",
-    "size": 168,
-    "reviews": 4883441,
-    "ratingAvg": 4.15,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 259609
-      },
-      {
-        "name": "2 star",
-        "count": 454547
-      },
-      {
-        "name": "3 star",
-        "count": 237476
-      },
-      {
-        "name": "4 star",
-        "count": 1286887
-      },
-      {
-        "name": "5 star",
-        "count": 2644922
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1046/512/512",
-    "title": "Coursera",
-    "companyName": "Coursera, Inc.",
-    "id": 1046,
-    "description": "Coursera by Coursera, Inc. — fast powerful. This app helps you order food and offers features like real-time sync.",
-    "size": 110,
-    "reviews": 1820165,
-    "ratingAvg": 3.92,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 200108
-      },
-      {
-        "name": "2 star",
-        "count": 48271
-      },
-      {
-        "name": "3 star",
-        "count": 132825
-      },
-      {
-        "name": "4 star",
-        "count": 749586
-      },
-      {
-        "name": "5 star",
-        "count": 689375
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1047/512/512",
-    "title": "Udemy",
-    "companyName": "Udemy, Inc.",
-    "id": 1047,
-    "description": "Udemy by Udemy, Inc. — fun fun. This app helps you learn new skills and offers features like cross-device support.",
-    "size": 152,
-    "reviews": 386813,
-    "ratingAvg": 3.39,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 110121
-      },
-      {
-        "name": "2 star",
-        "count": 24244
-      },
-      {
-        "name": "3 star",
-        "count": 35956
-      },
-      {
-        "name": "4 star",
-        "count": 37993
-      },
-      {
-        "name": "5 star",
-        "count": 178499
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1048/512/512",
-    "title": "LinkedIn",
-    "companyName": "LinkedIn Corporation",
-    "id": 1048,
-    "description": "LinkedIn by LinkedIn Corporation — easy intuitive. This app helps you watch videos and offers features like customizable settings.",
-    "size": 106,
-    "reviews": 435979,
-    "ratingAvg": 4.17,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 12825
-      },
-      {
-        "name": "2 star",
-        "count": 87196
-      },
-      {
-        "name": "3 star",
-        "count": 5339
-      },
-      {
-        "name": "4 star",
-        "count": 40230
-      },
-      {
-        "name": "5 star",
-        "count": 290389
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1049/512/512",
-    "title": "Indeed",
-    "companyName": "Indeed, Inc.",
-    "id": 1049,
-    "description": "Indeed by Indeed, Inc. — intuitive fun. This app helps you watch videos and offers features like offline mode.",
-    "size": 139,
-    "reviews": 998643,
-    "ratingAvg": 4.07,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 73050
-      },
-      {
-        "name": "2 star",
-        "count": 48141
-      },
-      {
-        "name": "3 star",
-        "count": 81105
-      },
-      {
-        "name": "4 star",
-        "count": 333047
-      },
-      {
-        "name": "5 star",
-        "count": 463300
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1050/512/512",
-    "title": "PayPal",
-    "companyName": "PayPal Holdings",
-    "id": 1050,
-    "description": "PayPal by PayPal Holdings — fun fun. This app helps you track fitness and offers features like offline maps.",
-    "size": 324,
-    "reviews": 837431,
-    "ratingAvg": 3.48,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 220316
-      },
-      {
-        "name": "2 star",
-        "count": 17404
-      },
-      {
-        "name": "3 star",
-        "count": 17710
-      },
-      {
-        "name": "4 star",
-        "count": 301814
-      },
-      {
-        "name": "5 star",
-        "count": 280187
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1051/512/512",
-    "title": "Venmo",
-    "companyName": "Venmo",
-    "id": 1051,
-    "description": "Venmo by Venmo — fun fast. This app helps you order food and offers features like smart recommendations.",
-    "size": 161,
-    "reviews": 278802,
-    "ratingAvg": 4.45,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4032
-      },
-      {
-        "name": "2 star",
-        "count": 18798
-      },
-      {
-        "name": "3 star",
-        "count": 18592
-      },
-      {
-        "name": "4 star",
-        "count": 42308
-      },
-      {
-        "name": "5 star",
-        "count": 195072
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1052/512/512",
-    "title": "Cash App",
-    "companyName": "Block, Inc.",
-    "id": 1052,
-    "description": "Cash App by Block, Inc. — fun fast. This app helps you learn new skills and offers features like privacy controls.",
-    "size": 343,
-    "reviews": 1254813,
-    "ratingAvg": 3.83,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 214007
-      },
-      {
-        "name": "2 star",
-        "count": 156879
-      },
-      {
-        "name": "3 star",
-        "count": 6633
-      },
-      {
-        "name": "4 star",
-        "count": 130448
-      },
-      {
-        "name": "5 star",
-        "count": 746846
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1053/512/512",
-    "title": "Google Pay",
-    "companyName": "Google LLC",
-    "id": 1053,
-    "description": "Google Pay by Google LLC — easy powerful. This app helps you track fitness and offers features like offline mode.",
-    "size": 218,
-    "reviews": 2288766,
-    "ratingAvg": 4.18,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 227679
-      },
-      {
-        "name": "2 star",
-        "count": 223324
-      },
-      {
-        "name": "3 star",
-        "count": 27509
-      },
-      {
-        "name": "4 star",
-        "count": 237177
-      },
-      {
-        "name": "5 star",
-        "count": 1573077
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1054/512/512",
-    "title": "Apple Wallet",
-    "companyName": "Apple Inc.",
-    "id": 1054,
-    "description": "Apple Wallet by Apple Inc. — fast fun. This app helps you shop online and offers features like in-app purchases.",
-    "size": 149,
-    "reviews": 4838910,
-    "ratingAvg": 4.02,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 20138
-      },
-      {
-        "name": "2 star",
-        "count": 692305
-      },
-      {
-        "name": "3 star",
-        "count": 311813
-      },
-      {
-        "name": "4 star",
-        "count": 1946259
-      },
-      {
-        "name": "5 star",
-        "count": 1868395
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1055/512/512",
-    "title": "Stripe",
-    "companyName": "Stripe, Inc.",
-    "id": 1055,
-    "description": "Stripe by Stripe, Inc. — fast fun. This app helps you discover content and offers features like cross-device support.",
-    "size": 182,
-    "reviews": 2698231,
-    "ratingAvg": 4.3,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 136383
-      },
-      {
-        "name": "2 star",
-        "count": 239800
-      },
-      {
-        "name": "3 star",
-        "count": 49211
-      },
-      {
-        "name": "4 star",
-        "count": 531708
-      },
-      {
-        "name": "5 star",
-        "count": 1741129
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1056/512/512",
-    "title": "Wise",
-    "companyName": "Wise Ltd",
-    "id": 1056,
-    "description": "Wise by Wise Ltd — fast easy. This app helps you watch videos and offers features like multi-language support.",
-    "size": 141,
-    "reviews": 2716817,
-    "ratingAvg": 4.14,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 29314
-      },
-      {
-        "name": "2 star",
-        "count": 352321
-      },
-      {
-        "name": "3 star",
-        "count": 476279
-      },
-      {
-        "name": "4 star",
-        "count": 198712
-      },
-      {
-        "name": "5 star",
-        "count": 1660191
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1057/512/512",
-    "title": "Revolut",
-    "companyName": "Revolut Ltd",
-    "id": 1057,
-    "description": "Revolut by Revolut Ltd — easy fast. This app helps you learn new skills and offers features like customizable settings.",
-    "size": 79,
-    "reviews": 2421163,
-    "ratingAvg": 4.21,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 138554
-      },
-      {
-        "name": "2 star",
-        "count": 287981
-      },
-      {
-        "name": "3 star",
-        "count": 31115
-      },
-      {
-        "name": "4 star",
-        "count": 429879
-      },
-      {
-        "name": "5 star",
-        "count": 1533634
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1058/512/512",
-    "title": "Shopify",
-    "companyName": "Shopify Inc.",
-    "id": 1058,
-    "description": "Shopify by Shopify Inc. — powerful easy. This app helps you discover content and offers features like privacy controls.",
-    "size": 343,
-    "reviews": 1296603,
-    "ratingAvg": 4.1,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 81442
-      },
-      {
-        "name": "2 star",
-        "count": 148847
-      },
-      {
-        "name": "3 star",
-        "count": 83938
-      },
-      {
-        "name": "4 star",
-        "count": 228751
-      },
-      {
-        "name": "5 star",
-        "count": 753625
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1059/512/512",
-    "title": "Walmart",
-    "companyName": "Walmart Inc.",
-    "id": 1059,
-    "description": "Walmart by Walmart Inc. — easy fun. This app helps you order food and offers features like offline maps.",
-    "size": 224,
-    "reviews": 2856080,
-    "ratingAvg": 3.66,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 563416
-      },
-      {
-        "name": "2 star",
-        "count": 146707
-      },
-      {
-        "name": "3 star",
-        "count": 355589
-      },
-      {
-        "name": "4 star",
-        "count": 409613
-      },
-      {
-        "name": "5 star",
-        "count": 1380755
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1060/512/512",
-    "title": "eBay",
-    "companyName": "eBay Inc.",
-    "id": 1060,
-    "description": "eBay by eBay Inc. — fun fast. This app helps you shop online and offers features like offline maps.",
-    "size": 188,
-    "reviews": 2793708,
-    "ratingAvg": 4.26,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 185926
-      },
-      {
-        "name": "2 star",
-        "count": 181581
-      },
-      {
-        "name": "3 star",
-        "count": 140723
-      },
-      {
-        "name": "4 star",
-        "count": 497797
-      },
-      {
-        "name": "5 star",
-        "count": 1787681
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1061/512/512",
-    "title": "Target",
-    "companyName": "Target Corporation",
-    "id": 1061,
-    "description": "Target by Target Corporation — fast fun. This app helps you discover content and offers features like multi-language support.",
-    "size": 207,
-    "reviews": 3243663,
-    "ratingAvg": 2.8,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1222812
-      },
-      {
-        "name": "2 star",
-        "count": 431228
-      },
-      {
-        "name": "3 star",
-        "count": 289552
-      },
-      {
-        "name": "4 star",
-        "count": 381624
-      },
-      {
-        "name": "5 star",
-        "count": 918447
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1062/512/512",
-    "title": "AliExpress",
-    "companyName": "Alibaba Group",
-    "id": 1062,
-    "description": "AliExpress by Alibaba Group — powerful intuitive. This app helps you navigate places and offers features like cross-device support.",
-    "size": 245,
-    "reviews": 133744,
-    "ratingAvg": 4.14,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 14356
-      },
-      {
-        "name": "2 star",
-        "count": 5909
-      },
-      {
-        "name": "3 star",
-        "count": 11912
-      },
-      {
-        "name": "4 star",
-        "count": 15704
-      },
-      {
-        "name": "5 star",
-        "count": 85863
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1063/512/512",
-    "title": "Wish",
-    "companyName": "ContextLogic Inc.",
-    "id": 1063,
-    "description": "Wish by ContextLogic Inc. — fun easy. This app helps you watch videos and offers features like offline mode.",
-    "size": 332,
-    "reviews": 4098200,
-    "ratingAvg": 3.93,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 732449
-      },
-      {
-        "name": "2 star",
-        "count": 13007
-      },
-      {
-        "name": "3 star",
-        "count": 25215
-      },
-      {
-        "name": "4 star",
-        "count": 1357179
-      },
-      {
-        "name": "5 star",
-        "count": 1970350
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1064/512/512",
-    "title": "Zomato",
-    "companyName": "Zomato Ltd.",
-    "id": 1064,
-    "description": "Zomato by Zomato Ltd. — easy fast. This app helps you track fitness and offers features like in-app purchases.",
-    "size": 35,
-    "reviews": 2726051,
-    "ratingAvg": 4.05,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 422283
-      },
-      {
-        "name": "2 star",
-        "count": 92204
-      },
-      {
-        "name": "3 star",
-        "count": 124733
-      },
-      {
-        "name": "4 star",
-        "count": 360998
-      },
-      {
-        "name": "5 star",
-        "count": 1725833
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1065/512/512",
-    "title": "Grubhub",
-    "companyName": "Grubhub Inc.",
-    "id": 1065,
-    "description": "Grubhub by Grubhub Inc. — secure powerful. This app helps you order food and offers features like real-time sync.",
-    "size": 329,
-    "reviews": 2025226,
-    "ratingAvg": 4.25,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 106531
-      },
-      {
-        "name": "2 star",
-        "count": 135396
-      },
-      {
-        "name": "3 star",
-        "count": 40882
-      },
-      {
-        "name": "4 star",
-        "count": 597974
-      },
-      {
-        "name": "5 star",
-        "count": 1144443
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1066/512/512",
-    "title": "DoorDash",
-    "companyName": "DoorDash, Inc.",
-    "id": 1066,
-    "description": "DoorDash by DoorDash, Inc. — intuitive secure. This app helps you watch videos and offers features like offline mode.",
-    "size": 49,
-    "reviews": 3710497,
-    "ratingAvg": 2.92,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 792957
-      },
-      {
-        "name": "2 star",
-        "count": 1199580
-      },
-      {
-        "name": "3 star",
-        "count": 97039
-      },
-      {
-        "name": "4 star",
-        "count": 757966
-      },
-      {
-        "name": "5 star",
-        "count": 862955
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1067/512/512",
-    "title": "Uber Eats",
-    "companyName": "Uber Eats",
-    "id": 1067,
-    "description": "Uber Eats by Uber Eats — easy powerful. This app helps you listen to music and offers features like privacy controls.",
-    "size": 349,
-    "reviews": 3325259,
-    "ratingAvg": 4.35,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 70910
-      },
-      {
-        "name": "2 star",
-        "count": 184431
-      },
-      {
-        "name": "3 star",
-        "count": 255852
-      },
-      {
-        "name": "4 star",
-        "count": 804366
-      },
-      {
-        "name": "5 star",
-        "count": 2009700
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1068/512/512",
-    "title": "Instacart",
-    "companyName": "Instacart, Inc.",
-    "id": 1068,
-    "description": "Instacart by Instacart, Inc. — secure secure. This app helps you navigate places and offers features like real-time sync.",
-    "size": 349,
-    "reviews": 1152387,
-    "ratingAvg": 3.84,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 87255
-      },
-      {
-        "name": "2 star",
-        "count": 206091
-      },
-      {
-        "name": "3 star",
-        "count": 91654
-      },
-      {
-        "name": "4 star",
-        "count": 184549
-      },
-      {
-        "name": "5 star",
-        "count": 582838
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1069/512/512",
-    "title": "Deliveroo",
-    "companyName": "Deliveroo plc",
-    "id": 1069,
-    "description": "Deliveroo by Deliveroo plc — secure powerful. This app helps you shop online and offers features like customizable settings.",
-    "size": 114,
-    "reviews": 1113636,
-    "ratingAvg": 3.48,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 159572
-      },
-      {
-        "name": "2 star",
-        "count": 216100
-      },
-      {
-        "name": "3 star",
-        "count": 47069
-      },
-      {
-        "name": "4 star",
-        "count": 311011
-      },
-      {
-        "name": "5 star",
-        "count": 379884
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1070/512/512",
+    "image": "https://logo.clearbit.com/waze.com?size=512",
     "title": "Waze",
     "companyName": "Google LLC",
-    "id": 1070,
-    "description": "Waze by Google LLC — secure intuitive. This app helps you discover content and offers features like offline maps.",
-    "size": 251,
-    "reviews": 636656,
-    "ratingAvg": 3.73,
-    "downloads": 100000,
+    "id": 5013,
+    "description": "Waze is a community-driven GPS navigation app that provides real-time traffic and route information. It helps drivers save time, avoid traffic jams, and discover alternate routes using data shared by millions of users globally. The app notifies users of road closures, speed traps, police presence, and construction zones. Voice-guided directions, ETA sharing, and customizable vehicle icons make driving more personal and interactive. Waze integrates with music apps like Spotify and supports Android Auto and CarPlay for seamless connectivity. Its map data updates daily, powered by user reports and local map editors. For frequent drivers, Waze is more than navigation — it’s a connected driving experience combining efficiency, safety, and fun.",
+    "size": 90,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 15000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 6347
-      },
-      {
-        "name": "2 star",
-        "count": 142087
-      },
-      {
-        "name": "3 star",
-        "count": 82298
-      },
-      {
-        "name": "4 star",
-        "count": 193285
-      },
-      {
-        "name": "5 star",
-        "count": 212639
-      }
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 6200000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1071/512/512",
+    "image": "https://logo.clearbit.com/strava.com?size=512",
     "title": "Strava",
     "companyName": "Strava, Inc.",
-    "id": 1071,
-    "description": "Strava by Strava, Inc. — secure intuitive. This app helps you listen to music and offers features like customizable settings.",
-    "size": 200,
-    "reviews": 2204169,
-    "ratingAvg": 3.19,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 225596
-      },
-      {
-        "name": "2 star",
-        "count": 443869
-      },
-      {
-        "name": "3 star",
-        "count": 723796
-      },
-      {
-        "name": "4 star",
-        "count": 300179
-      },
-      {
-        "name": "5 star",
-        "count": 510729
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1072/512/512",
-    "title": "MyFitnessPal",
-    "companyName": "Under Armour",
-    "id": 1072,
-    "description": "MyFitnessPal by Under Armour — easy intuitive. This app helps you manage tasks and offers features like in-app purchases.",
-    "size": 337,
-    "reviews": 3899558,
-    "ratingAvg": 3.59,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1007566
-      },
-      {
-        "name": "2 star",
-        "count": 150981
-      },
-      {
-        "name": "3 star",
-        "count": 220193
-      },
-      {
-        "name": "4 star",
-        "count": 558525
-      },
-      {
-        "name": "5 star",
-        "count": 1962293
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1073/512/512",
-    "title": "Fitbit",
-    "companyName": "Fitbit",
-    "id": 1073,
-    "description": "Fitbit by Fitbit — fun intuitive. This app helps you navigate places and offers features like privacy controls.",
-    "size": 244,
-    "reviews": 3117270,
-    "ratingAvg": 3.54,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 298986
-      },
-      {
-        "name": "2 star",
-        "count": 366071
-      },
-      {
-        "name": "3 star",
-        "count": 785964
-      },
-      {
-        "name": "4 star",
-        "count": 698247
-      },
-      {
-        "name": "5 star",
-        "count": 968002
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1074/512/512",
-    "title": "Headspace",
-    "companyName": "Headspace Inc.",
-    "id": 1074,
-    "description": "Headspace by Headspace Inc. — fast fun. This app helps you watch videos and offers features like smart recommendations.",
-    "size": 28,
-    "reviews": 3113230,
-    "ratingAvg": 4.34,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 89439
-      },
-      {
-        "name": "2 star",
-        "count": 214771
-      },
-      {
-        "name": "3 star",
-        "count": 98336
-      },
-      {
-        "name": "4 star",
-        "count": 851244
-      },
-      {
-        "name": "5 star",
-        "count": 1859440
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1075/512/512",
-    "title": "Calm",
-    "companyName": "Calm.com, Inc.",
-    "id": 1075,
-    "description": "Calm by Calm.com, Inc. — easy intuitive. This app helps you listen to music and offers features like smart recommendations.",
-    "size": 74,
-    "reviews": 3819445,
-    "ratingAvg": 4.57,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 29489
-      },
-      {
-        "name": "2 star",
-        "count": 73114
-      },
-      {
-        "name": "3 star",
-        "count": 312905
-      },
-      {
-        "name": "4 star",
-        "count": 675086
-      },
-      {
-        "name": "5 star",
-        "count": 2728851
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1076/512/512",
-    "title": "Sleep Cycle",
-    "companyName": "Northcube AB",
-    "id": 1076,
-    "description": "Sleep Cycle by Northcube AB — fast secure. This app helps you listen to music and offers features like cross-device support.",
-    "size": 180,
-    "reviews": 1242774,
-    "ratingAvg": 3.61,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 209878
-      },
-      {
-        "name": "2 star",
-        "count": 122385
-      },
-      {
-        "name": "3 star",
-        "count": 43851
-      },
-      {
-        "name": "4 star",
-        "count": 435401
-      },
-      {
-        "name": "5 star",
-        "count": 431259
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1077/512/512",
-    "title": "7 Minute Workout",
-    "companyName": "Seven Minutes Inc.",
-    "id": 1077,
-    "description": "7 Minute Workout by Seven Minutes Inc. — fun intuitive. This app helps you listen to music and offers features like offline mode.",
-    "size": 20,
-    "reviews": 1466683,
+    "id": 5014,
+    "description": "Strava is a performance-tracking and social fitness app for runners, cyclists, swimmers, and outdoor enthusiasts. It uses GPS to record routes, track performance metrics, and analyze progress over time. Athletes can set goals, compare segment times, and compete on leaderboards. Integration with wearables (Garmin, Apple Watch, Fitbit) ensures precise data collection. Strava’s social element allows sharing achievements, joining clubs, and participating in global challenges. Premium users unlock in-depth analytics, route planning, and training insights. The app fosters motivation through community engagement — transforming workouts into shared experiences. Its clean design and continuous updates make Strava essential for both casual exercisers and professional athletes.",
+    "size": 120,
+    "reviews": 10000000,
     "ratingAvg": 4.5,
-    "downloads": 500000,
+    "downloads": 25000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 57814
-      },
-      {
-        "name": "2 star",
-        "count": 25411
-      },
-      {
-        "name": "3 star",
-        "count": 102432
-      },
-      {
-        "name": "4 star",
-        "count": 224454
-      },
-      {
-        "name": "5 star",
-        "count": 1056572
-      }
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 1400000 },
+      { "name": "5 star", "count": 8400000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1078/512/512",
-    "title": "Nike Training Club",
-    "companyName": "Nike, Inc.",
-    "id": 1078,
-    "description": "Nike Training Club by Nike, Inc. — secure intuitive. This app helps you manage tasks and offers features like customizable settings.",
-    "size": 349,
-    "reviews": 4379249,
-    "ratingAvg": 4.4,
-    "downloads": 500000,
+    "image": "https://logo.clearbit.com/canva.com?size=512",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 5015,
+    "description": "Canva empowers anyone to design professional-quality visuals — from social media graphics and presentations to posters, logos, and videos — with no design experience required. Its drag-and-drop editor, vast template library, and built-in stock images simplify creativity. Users can collaborate in real time, comment on designs, and export in multiple formats. Canva Pro introduces advanced features like background removal, brand kits, and content scheduling. Its mobile app extends full creative functionality on the go. Whether you’re a marketer, teacher, or freelancer, Canva makes stunning design accessible to everyone.",
+    "size": 150,
+    "reviews": 12000000,
+    "ratingAvg": 4.6,
+    "downloads": 30000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 131721
-      },
-      {
-        "name": "2 star",
-        "count": 378268
-      },
-      {
-        "name": "3 star",
-        "count": 11611
-      },
-      {
-        "name": "4 star",
-        "count": 963774
-      },
-      {
-        "name": "5 star",
-        "count": 2893875
-      }
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 10200000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1079/512/512",
-    "title": "Peloton",
-    "companyName": "Peloton Interactive",
-    "id": 1079,
-    "description": "Peloton by Peloton Interactive — fast powerful. This app helps you discover content and offers features like multi-language support.",
-    "size": 76,
-    "reviews": 2312001,
-    "ratingAvg": 3.87,
+    "image": "https://logo.clearbit.com/pandora.com?size=512",
+    "title": "Pandora",
+    "companyName": "Pandora Media, LLC",
+    "id": 5016,
+    "description": "Pandora lets you listen to personalized internet radio stations, playlists, and new music discovery. Use features like thumbs up/down, curated stations, and offline listening. It adapts to your musical taste and moods. Pandora is a personalized music streaming service that curates songs based on your tastes and listening habits. It combines powerful recommendation algorithms with handcrafted radio-style stations. Users can create custom playlists, discover new artists, and enjoy ad-free listening with Pandora Plus or Premium. Offline playback, high-quality audio, and cross-device syncing enhance the experience. Pandora’s “Modes” let users fine-tune their stations — from discovering fresh releases to deep cuts from favorite artists. As one of the pioneers in streaming, Pandora remains a top choice for those who want their music to evolve with them.",
+    "size": 90,
+    "reviews": 7000000,
+    "ratingAvg": 4.2,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 6700000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/walmart.com?size=512",
+    "title": "Walmart",
+    "companyName": "Walmart Inc.",
+    "id": 5017,
+    "description": "Walmart app helps you browse products, order groceries, select curbside pickup or delivery, track orders, and manage your account. Get deals, scan barcodes in store, and save items for later. App aims for ease-of-use and fast performance even under busy traffic periods. Walmart’s official app brings the world’s largest retailer directly to your pocket. Shop millions of items — from groceries and electronics to home essentials and fashion — all in one place. With pickup and delivery options, users can schedule convenient shopping times or get same-day doorstep delivery. The app includes easy reordering, barcode scanning, and in-store navigation to find products fast. Walmart Pay simplifies checkout with secure digital payments. Weekly savings, Rollbacks, and personalized deals help customers save more. Walmart’s seamless integration of online and in-store shopping provides a smart, affordable, and effortless retail experience.",
+    "size": 180,
+    "reviews": 9500000,
+    "ratingAvg": 4.3,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 7600000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/linkedin.com?size=512",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 5018,
+    "description": "LinkedIn is the world’s largest professional networking platform, connecting over 900 million professionals globally. It enables users to build career profiles, showcase skills, and grow their professional reputation. Employers use LinkedIn to recruit talent, while job seekers discover opportunities tailored to their experience. Features include career insights, learning modules, newsletters, and community discussions. LinkedIn Learning offers thousands of expert-led courses in business, design, and technology. As a social platform for work, LinkedIn fosters meaningful connections, knowledge sharing, and professional growth.",
+    "size": 130,
+    "reviews": 12000000,
+    "ratingAvg": 4.5,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/airbnb.com?size=512",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 5019,
+    "description": "Airbnb helps you find unique places to stay and experiences anywhere in the world. Book houses, apartments, or rooms hosted by locals. Browse photos, reviews, pricing, and amenities. Hosts manage listings and guests easily via messaging and booking tools. Airbnb reimagines travel by connecting people with unique places to stay and authentic local experiences. From luxury villas and cozy cabins to city apartments and countryside cottages, Airbnb offers millions of listings across 190+ countries. Hosts can share their space safely using tools for pricing, booking management, and guest communication. Travelers benefit from transparent reviews, secure payments, and 24/7 support. Beyond stays, Airbnb Experiences lets users book tours, cooking classes, and adventures guided by locals. The app fosters trust and global community — making every journey personal, meaningful, and memorable.",
+    "size": 100,
+    "reviews": 14000000,
+    "ratingAvg": 4.5,
+    "downloads": 27000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 11800000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/khanacademy.org?size=512",
+    "title": "Khan Academy",
+    "companyName": "Khan Academy",
+    "id": 5020,
+    "description": "Khan Academy provides free educational resources, courses, and practice exercises on a wide range of subjects. Watch instructional videos, track your learning progress, and test your understanding. It’s designed for students of all ages to learn flexibly and independently. Khan Academy is a free, world-class learning platform for students, teachers, and lifelong learners. It offers interactive lessons, practice exercises, and instructional videos across subjects like math, science, history, economics, and computer programming. Each course is self-paced and backed by mastery learning principles that adapt to a student’s progress. Teachers and parents can track performance with built-in analytics and progress reports. With partnerships worldwide, Khan Academy makes education accessible to anyone, anywhere — leveling the playing field for learners regardless of background. It’s not just an app; it’s a global movement for free, high-quality education.",
+    "size": 80,
+    "reviews": 6000000,
+    "ratingAvg": 4.7,
+    "downloads": 13000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 5600000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/coursera.org?size=512",
+    "title": "Coursera",
+    "companyName": "Coursera, Inc.",
+    "id": 5021,
+    "description": "Coursera partners with top universities and organizations to offer online courses, certificates, and degrees. Browse courses by topic, learn at your own pace, submit assignments, and share achievements. The app supports video lectures, quizzes, and peer reviews. Coursera partners with top universities and organizations — including Yale, Google, and Stanford — to deliver world-class education online. Users can enroll in thousands of courses, earn professional certificates, or pursue full degrees entirely online. Courses cover tech, business, design, data science, and personal development, combining video lectures, peer assessments, and interactive projects. Coursera Plus subscribers gain unlimited access to the platform’s premium catalog. Its mission is to democratize learning by empowering anyone to achieve career goals and personal growth through accessible, accredited education.",
+    "size": 110,
+    "reviews": 5000000,
+    "ratingAvg": 4.5,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 5340000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/candycrushsaga.com?size=512",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "id": 5022,
+    "description": "Candy Crush Saga is a match-three puzzle game where players swap candies to match three or more of the same color. With hundreds of levels, daily challenges, and social sharing, it’s an addictive and visually appealing game. Use boosters, combos, and strategies to beat hard levels. Candy Crush Saga is one of the world’s most iconic puzzle games, loved for its bright visuals and addictive gameplay. Players match colorful candies in thousands of challenging levels, unlocking boosters, rewards, and new episodes as they progress. Daily challenges, timed events, and tournaments keep gameplay fresh and exciting. Syncing across devices ensures your progress is always saved. With millions of active players and frequent updates introducing new twists, Candy Crush Saga remains a timeless classic in casual gaming — fun, challenging, and irresistibly sweet.",
+    "size": 125,
+    "reviews": 25000000,
+    "ratingAvg": 4.7,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 20500000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/spotify.com?size=512",
+    "title": "Spotify for Artists",
+    "companyName": "Spotify AB",
+    "id": 5023,
+    "description": "Spotify for Artists empowers musicians to manage their artist profile, view real-time listening data, and track audience growth. Musicians can upload new releases, customize their bios, and analyze which songs and playlists drive engagement around the world. Spotify is the world’s largest audio streaming service, giving users access to millions of songs, podcasts, and audiobooks. Its advanced AI recommendations tailor playlists like Discover Weekly and Daily Mixes to your taste. Users can create collaborative playlists, share music with friends, and explore exclusive artist content. Offline downloads and high-quality streaming ensure seamless listening anywhere. Podcasts, audiobooks, and live audio make Spotify a full-spectrum sound experience. Whether you’re working, studying, or relaxing, Spotify provides the perfect soundtrack for every moment.",
+    "size": 80,
+    "reviews": 2800000,
+    "ratingAvg": 4.6,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 2280000 }
+    ]
+  },
+  {
+    "image": "https://logo.clearbit.com/paypal.com?size=512",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings, Inc.",
+    "id": 5043,
+    "description": "PayPal is one of the most trusted platforms for secure online payments, money transfers, and business transactions. The app supports peer-to-peer payments, currency conversions, and integrations with e-commerce platforms. With robust security, fraud protection, and instant notifications, PayPal simplifies global digital payments. PayPal is a global leader in online payments, trusted by over 400 million users worldwide. It enables secure money transfers, online shopping, and peer-to-peer payments with just an email or phone number. The app supports multiple currencies and integrates with top e-commerce platforms. PayPal’s Buyer Protection ensures peace of mind, while its in-app features let users manage invoices, subscriptions, and cryptocurrencies. For businesses, PayPal offers tools for checkout, invoicing, and global transactions — all backed by industry-leading fraud protection. It’s fast, reliable, and essential for digital finance in the modern age.",
+    "size": 110,
+    "reviews": 40000000,
+    "ratingAvg": 4.6,
     "downloads": 100000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 223394
-      },
-      {
-        "name": "2 star",
-        "count": 200883
-      },
-      {
-        "name": "3 star",
-        "count": 284163
-      },
-      {
-        "name": "4 star",
-        "count": 550897
-      },
-      {
-        "name": "5 star",
-        "count": 1052664
-      }
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 34200000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1080/512/512",
-    "title": "Goodreads",
-    "companyName": "Amazon",
-    "id": 1080,
-    "description": "Goodreads by Amazon — secure easy. This app helps you learn new skills and offers features like customizable settings.",
-    "size": 122,
-    "reviews": 3612688,
-    "ratingAvg": 4.04,
-    "downloads": 10000000,
+    "image": "https://logo.clearbit.com/notion.so?size=512",
+    "title": "Notion",
+    "companyName": "Notion Labs, Inc.",
+    "id": 5024,
+    "description": "Notion is an all-in-one workspace designed for organization, productivity, and collaboration. It combines notes, documents, databases, project management, and wikis in one flexible tool. Users can create custom dashboards, manage tasks with Kanban boards, and collaborate in real time. Notion’s powerful templates make it ideal for startups, students, and remote teams. Offline mode, markdown support, and integration with tools like Slack, GitHub, and Google Drive enhance workflow efficiency. Its minimal interface is highly customizable — from personal to-do lists to complex knowledge bases. Notion’s ecosystem also includes AI-powered assistance that summarizes notes and generates content automatically. It’s more than a note-taking app — it’s a digital operating system for your life and work.",
+    "size": 90,
+    "reviews": 8000000,
+    "ratingAvg": 4.8,
+    "downloads": 15000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 306691
-      },
-      {
-        "name": "2 star",
-        "count": 132450
-      },
-      {
-        "name": "3 star",
-        "count": 211329
-      },
-      {
-        "name": "4 star",
-        "count": 1409148
-      },
-      {
-        "name": "5 star",
-        "count": 1553070
-      }
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 7300000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1081/512/512",
-    "title": "Microsoft Office",
-    "companyName": "Microsoft Corporation",
-    "id": 1081,
-    "description": "Microsoft Office by Microsoft Corporation — powerful fast. This app helps you navigate places and offers features like cross-device support.",
-    "size": 58,
-    "reviews": 721088,
-    "ratingAvg": 4.35,
-    "downloads": 50000000,
+    "image": "https://logo.clearbit.com/slack.com?size=512",
+    "title": "Slack",
+    "companyName": "Slack Technologies, LLC",
+    "id": 5025,
+    "description": "Slack is a modern messaging platform built for teams. It centralizes communication, replacing scattered emails with organized channels for projects, departments, and collaborations. Users can share files, connect third-party apps, and automate workflows using bots and integrations. Threaded conversations keep discussions focused, while voice and video calls allow real-time collaboration. Slack’s search and archive features make retrieving information effortless, and its API supports custom extensions for enterprise needs. With features like Slack Connect, teams can communicate across organizations securely. Slack’s blend of usability, flexibility, and automation makes it a cornerstone of digital teamwork.",
+    "size": 120,
+    "reviews": 9500000,
+    "ratingAvg": 4.4,
+    "downloads": 22000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 5049
-      },
-      {
-        "name": "2 star",
-        "count": 5240
-      },
-      {
-        "name": "3 star",
-        "count": 69264
-      },
-      {
-        "name": "4 star",
-        "count": 297574
-      },
-      {
-        "name": "5 star",
-        "count": 343961
-      }
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 1600000 },
+      { "name": "5 star", "count": 7550000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1082/512/512",
-    "title": "Google Docs",
-    "companyName": "Google LLC",
-    "id": 1082,
-    "description": "Google Docs by Google LLC — secure intuitive. This app helps you shop online and offers features like customizable settings.",
-    "size": 228,
-    "reviews": 436560,
-    "ratingAvg": 3.66,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 96959
-      },
-      {
-        "name": "2 star",
-        "count": 25746
-      },
-      {
-        "name": "3 star",
-        "count": 12162
-      },
-      {
-        "name": "4 star",
-        "count": 96906
-      },
-      {
-        "name": "5 star",
-        "count": 204787
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1083/512/512",
-    "title": "Google Sheets",
-    "companyName": "Google LLC",
-    "id": 1083,
-    "description": "Google Sheets by Google LLC — fast easy. This app helps you watch videos and offers features like privacy controls.",
-    "size": 154,
-    "reviews": 4820899,
-    "ratingAvg": 4.33,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 86824
-      },
-      {
-        "name": "2 star",
-        "count": 189831
-      },
-      {
-        "name": "3 star",
-        "count": 278764
-      },
-      {
-        "name": "4 star",
-        "count": 1732767
-      },
-      {
-        "name": "5 star",
-        "count": 2532713
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1084/512/512",
-    "title": "Excel",
-    "companyName": "Microsoft Corporation",
-    "id": 1084,
-    "description": "Excel by Microsoft Corporation — easy fun. This app helps you navigate places and offers features like offline maps.",
-    "size": 185,
-    "reviews": 2949597,
-    "ratingAvg": 4.17,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1450
-      },
-      {
-        "name": "2 star",
-        "count": 482712
-      },
-      {
-        "name": "3 star",
-        "count": 197768
-      },
-      {
-        "name": "4 star",
-        "count": 593254
-      },
-      {
-        "name": "5 star",
-        "count": 1674413
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1085/512/512",
-    "title": "PowerPoint",
-    "companyName": "Microsoft Corporation",
-    "id": 1085,
-    "description": "PowerPoint by Microsoft Corporation — powerful fast. This app helps you watch videos and offers features like offline maps.",
-    "size": 186,
-    "reviews": 1325444,
-    "ratingAvg": 3.68,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 67026
-      },
-      {
-        "name": "2 star",
-        "count": 185461
-      },
-      {
-        "name": "3 star",
-        "count": 217539
-      },
-      {
-        "name": "4 star",
-        "count": 491415
-      },
-      {
-        "name": "5 star",
-        "count": 364003
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1086/512/512",
-    "title": "Trello",
-    "companyName": "Atlassian",
-    "id": 1086,
-    "description": "Trello by Atlassian — fast easy. This app helps you navigate places and offers features like offline mode.",
-    "size": 350,
-    "reviews": 3561893,
-    "ratingAvg": 4.34,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 201946
-      },
-      {
-        "name": "2 star",
-        "count": 177222
-      },
-      {
-        "name": "3 star",
-        "count": 96909
-      },
-      {
-        "name": "4 star",
-        "count": 803168
-      },
-      {
-        "name": "5 star",
-        "count": 2282648
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1087/512/512",
+    "image": "https://logo.clearbit.com/asana.com?size=512",
     "title": "Asana",
     "companyName": "Asana, Inc.",
-    "id": 1087,
-    "description": "Asana by Asana, Inc. — easy fun. This app helps you order food and offers features like smart recommendations.",
-    "size": 15,
-    "reviews": 1719825,
-    "ratingAvg": 3.92,
-    "downloads": 1000000,
+    "id": 5026,
+    "description": "Asana is a powerful work management platform designed to help teams organize, track, and achieve goals efficiently. It allows users to create projects, assign tasks, set deadlines, and monitor progress in real time. Visual tools like timelines, Kanban boards, and workload charts provide transparency across teams. Asana integrates with hundreds of other services — including Slack, Zoom, and Google Workspace — to streamline workflows. The app enhances productivity by eliminating email clutter and aligning teams under clear objectives.  With automation features, recurring tasks, and reporting dashboards, Asana empowers businesses to scale with structure. Whether managing a small team or coordinating global operations, Asana turns chaos into clarity.",
+    "size": 95,
+    "reviews": 3500000,
+    "ratingAvg": 4.6,
+    "downloads": 7000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 154562
-      },
-      {
-        "name": "2 star",
-        "count": 102244
-      },
-      {
-        "name": "3 star",
-        "count": 63605
-      },
-      {
-        "name": "4 star",
-        "count": 801287
-      },
-      {
-        "name": "5 star",
-        "count": 598127
-      }
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 3000000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1088/512/512",
-    "title": "Jira",
-    "companyName": "Atlassian",
-    "id": 1088,
-    "description": "Jira by Atlassian — powerful powerful. This app helps you navigate places and offers features like privacy controls.",
-    "size": 268,
-    "reviews": 4691912,
-    "ratingAvg": 4.12,
-    "downloads": 100000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 582000
-      },
-      {
-        "name": "2 star",
-        "count": 532970
-      },
-      {
-        "name": "3 star",
-        "count": 24296
-      },
-      {
-        "name": "4 star",
-        "count": 165952
-      },
-      {
-        "name": "5 star",
-        "count": 3386694
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1089/512/512",
-    "title": "Bitbucket",
-    "companyName": "Atlassian",
-    "id": 1089,
-    "description": "Bitbucket by Atlassian — secure powerful. This app helps you shop online and offers features like smart recommendations.",
-    "size": 70,
-    "reviews": 3402657,
-    "ratingAvg": 4.34,
-    "downloads": 100000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 5766
-      },
-      {
-        "name": "2 star",
-        "count": 107436
-      },
-      {
-        "name": "3 star",
-        "count": 442131
-      },
-      {
-        "name": "4 star",
-        "count": 1018002
-      },
-      {
-        "name": "5 star",
-        "count": 1829322
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1090/512/512",
-    "title": "GitHub",
-    "companyName": "GitHub, Inc.",
-    "id": 1090,
-    "description": "GitHub by GitHub, Inc. — easy fast. This app helps you manage tasks and offers features like privacy controls.",
-    "size": 182,
-    "reviews": 1415399,
-    "ratingAvg": 4.24,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 13371
-      },
-      {
-        "name": "2 star",
-        "count": 168790
-      },
-      {
-        "name": "3 star",
-        "count": 127275
-      },
-      {
-        "name": "4 star",
-        "count": 266950
-      },
-      {
-        "name": "5 star",
-        "count": 839013
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1091/512/512",
-    "title": "GitLab",
-    "companyName": "GitLab Inc.",
-    "id": 1091,
-    "description": "GitLab by GitLab Inc. — powerful intuitive. This app helps you track fitness and offers features like cross-device support.",
-    "size": 113,
-    "reviews": 1460415,
-    "ratingAvg": 3.93,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 123765
-      },
-      {
-        "name": "2 star",
-        "count": 191627
-      },
-      {
-        "name": "3 star",
-        "count": 143006
-      },
-      {
-        "name": "4 star",
-        "count": 202562
-      },
-      {
-        "name": "5 star",
-        "count": 799455
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1092/512/512",
-    "title": "VS Code",
-    "companyName": "Microsoft Corporation",
-    "id": 1092,
-    "description": "VS Code by Microsoft Corporation — fun fun. This app helps you connect with friends and offers features like offline mode.",
-    "size": 333,
-    "reviews": 2656965,
-    "ratingAvg": 4.25,
-    "downloads": 10000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 79825
-      },
-      {
-        "name": "2 star",
-        "count": 34501
-      },
-      {
-        "name": "3 star",
-        "count": 284758
-      },
-      {
-        "name": "4 star",
-        "count": 1007844
-      },
-      {
-        "name": "5 star",
-        "count": 1250037
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1093/512/512",
-    "title": "Termius",
-    "companyName": "Termius Corporation",
-    "id": 1093,
-    "description": "Termius by Termius Corporation — fun intuitive. This app helps you listen to music and offers features like cross-device support.",
-    "size": 200,
-    "reviews": 2413176,
-    "ratingAvg": 3.97,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 14330
-      },
-      {
-        "name": "2 star",
-        "count": 358431
-      },
-      {
-        "name": "3 star",
-        "count": 346963
-      },
-      {
-        "name": "4 star",
-        "count": 663955
-      },
-      {
-        "name": "5 star",
-        "count": 1029497
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1094/512/512",
-    "title": "Postman",
-    "companyName": "Postman, Inc.",
-    "id": 1094,
-    "description": "Postman by Postman, Inc. — fun intuitive. This app helps you order food and offers features like real-time sync.",
-    "size": 321,
-    "reviews": 3994865,
-    "ratingAvg": 3.9,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 159709
-      },
-      {
-        "name": "2 star",
-        "count": 726039
-      },
-      {
-        "name": "3 star",
-        "count": 137425
-      },
-      {
-        "name": "4 star",
-        "count": 1320567
-      },
-      {
-        "name": "5 star",
-        "count": 1651125
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1095/512/512",
+    "image": "https://logo.clearbit.com/figma.com?size=512",
     "title": "Figma",
     "companyName": "Figma, Inc.",
-    "id": 1095,
-    "description": "Figma by Figma, Inc. — fast intuitive. This app helps you navigate places and offers features like privacy controls.",
-    "size": 198,
-    "reviews": 3132709,
-    "ratingAvg": 3.81,
-    "downloads": 50000000,
+    "id": 5027,
+    "description": "Figma is a collaborative design tool for teams to create user interfaces and prototypes together in real time. With version history, design systems, and live multiplayer editing, it’s a must-have for modern UI/UX designers and developers. Figma is a collaborative interface design tool that revolutionized how teams create digital products. It allows real-time co-editing, prototyping, and feedback — all within a browser. Designers, developers, and marketers can collaborate simultaneously on UI/UX projects with built-in version control. Plugins, templates, and community resources make Figma powerful and extensible. With Figma Mirror and mobile support, teams can preview designs instantly on any device. Its blend of speed, collaboration, and simplicity has made Figma the gold standard for modern product design.",
+    "size": 150,
+    "reviews": 2200000,
+    "ratingAvg": 4.7,
+    "downloads": 5500000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 498093
-      },
-      {
-        "name": "2 star",
-        "count": 97630
-      },
-      {
-        "name": "3 star",
-        "count": 296688
-      },
-      {
-        "name": "4 star",
-        "count": 835337
-      },
-      {
-        "name": "5 star",
-        "count": 1404961
-      }
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1840000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1096/512/512",
-    "title": "Sketch",
-    "companyName": "Sketch B.V.",
-    "id": 1096,
-    "description": "Sketch by Sketch B.V. — secure intuitive. This app helps you navigate places and offers features like cross-device support.",
-    "size": 141,
-    "reviews": 1266422,
-    "ratingAvg": 4.4,
-    "downloads": 500000,
+    "image": "https://logo.clearbit.com/telegram.org?size=512",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 5028,
+    "description": "Telegram offers fast, secure messaging with cloud storage, channels, bots, and large group support. Its privacy-focused approach includes secret chats, self-destructing messages, and no data sharing with third parties. Telegram is a privacy-focused messaging app offering fast, secure communication for millions worldwide. It supports cloud-based chat syncing, large file sharing (up to 2GB), and channels for unlimited audiences. End-to-end encryption, secret chats, and two-factor authentication safeguard privacy.  Telegram’s open API encourages developers to build bots, tools, and integrations that extend functionality. From casual texting to global community management, Telegram offers unmatched speed, reliability, and control — all wrapped in a clean, modern design.",
+    "size": 105,
+    "reviews": 27000000,
+    "ratingAvg": 4.7,
+    "downloads": 65000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 44909
-      },
-      {
-        "name": "2 star",
-        "count": 96798
-      },
-      {
-        "name": "3 star",
-        "count": 16887
-      },
-      {
-        "name": "4 star",
-        "count": 251807
-      },
-      {
-        "name": "5 star",
-        "count": 856021
-      }
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 21100000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1097/512/512",
-    "title": "InVision",
-    "companyName": "InVisionApp Inc.",
-    "id": 1097,
-    "description": "InVision by InVisionApp Inc. — easy fast. This app helps you watch videos and offers features like customizable settings.",
-    "size": 77,
-    "reviews": 4420707,
-    "ratingAvg": 4.49,
-    "downloads": 1000000,
+    "image": "https://logo.clearbit.com/discord.com?size=512",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 5029,
+    "description": "Discord brings communities together with voice, video, and text chat. Originally for gamers, it now powers study groups, creators, and professional communities. Create servers, manage channels, stream, and use bots for automation and moderation. Discord started as a voice chat app for gamers but has evolved into a universal platform for communities, creators, and teams. Users can join servers, chat via text, voice, or video, and stream media in real time. With roles, bots, and channels, Discord supports flexible organization for groups of any size. Its Nitro subscription unlocks HD streaming, custom emojis, and more personalization. Whether for gaming, study groups, or global fandoms, Discord provides a vibrant space for people to connect, create, and collaborate effortlessly.",
+    "size": 140,
+    "reviews": 38000000,
+    "ratingAvg": 4.6,
+    "downloads": 80000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 39415
-      },
-      {
-        "name": "2 star",
-        "count": 445939
-      },
-      {
-        "name": "3 star",
-        "count": 285337
-      },
-      {
-        "name": "4 star",
-        "count": 202691
-      },
-      {
-        "name": "5 star",
-        "count": 3447325
-      }
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 30900000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1098/512/512",
-    "title": "Zeplin",
-    "companyName": "Zeplin, Inc.",
-    "id": 1098,
-    "description": "Zeplin by Zeplin, Inc. — easy powerful. This app helps you track fitness and offers features like real-time sync.",
-    "size": 271,
-    "reviews": 4532925,
-    "ratingAvg": 3.34,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 851129
-      },
-      {
-        "name": "2 star",
-        "count": 1015871
-      },
-      {
-        "name": "3 star",
-        "count": 18169
-      },
-      {
-        "name": "4 star",
-        "count": 1046162
-      },
-      {
-        "name": "5 star",
-        "count": 1601594
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1099/512/512",
-    "title": "Bento",
-    "companyName": "Bento Labs",
-    "id": 1099,
-    "description": "Bento by Bento Labs — easy secure. This app helps you learn new skills and offers features like smart recommendations.",
-    "size": 236,
-    "reviews": 371518,
-    "ratingAvg": 4.33,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 15145
-      },
-      {
-        "name": "2 star",
-        "count": 32293
-      },
-      {
-        "name": "3 star",
-        "count": 7763
-      },
-      {
-        "name": "4 star",
-        "count": 77684
-      },
-      {
-        "name": "5 star",
-        "count": 238633
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1100/512/512",
-    "title": "Babbel",
-    "companyName": "Babbel GmbH",
-    "id": 1100,
-    "description": "Babbel by Babbel GmbH — intuitive fast. This app helps you order food and offers features like customizable settings.",
-    "size": 200,
-    "reviews": 4790024,
-    "ratingAvg": 3.18,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1684181
-      },
-      {
-        "name": "2 star",
-        "count": 250542
-      },
-      {
-        "name": "3 star",
-        "count": 133895
-      },
-      {
-        "name": "4 star",
-        "count": 978499
-      },
-      {
-        "name": "5 star",
-        "count": 1742907
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1101/512/512",
-    "title": "Memrise",
-    "companyName": "Memrise Ltd",
-    "id": 1101,
-    "description": "Memrise by Memrise Ltd — fun fast. This app helps you navigate places and offers features like multi-language support.",
-    "size": 157,
-    "reviews": 708595,
-    "ratingAvg": 3.85,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 91611
-      },
-      {
-        "name": "2 star",
-        "count": 20263
-      },
-      {
-        "name": "3 star",
-        "count": 149937
-      },
-      {
-        "name": "4 star",
-        "count": 87033
-      },
-      {
-        "name": "5 star",
-        "count": 359751
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1102/512/512",
-    "title": "Rosetta Stone",
-    "companyName": "Rosetta Stone Ltd.",
-    "id": 1102,
-    "description": "Rosetta Stone by Rosetta Stone Ltd. — easy fast. This app helps you watch videos and offers features like offline maps.",
-    "size": 203,
-    "reviews": 1982849,
-    "ratingAvg": 4.55,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 88964
-      },
-      {
-        "name": "2 star",
-        "count": 15518
-      },
-      {
-        "name": "3 star",
-        "count": 46356
-      },
-      {
-        "name": "4 star",
-        "count": 389327
-      },
-      {
-        "name": "5 star",
-        "count": 1442684
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1103/512/512",
-    "title": "Google Translate",
-    "companyName": "Google LLC",
-    "id": 1103,
-    "description": "Google Translate by Google LLC — fun fast. This app helps you watch videos and offers features like smart recommendations.",
-    "size": 83,
-    "reviews": 3940180,
-    "ratingAvg": 4.5,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 263269
-      },
-      {
-        "name": "2 star",
-        "count": 2328
-      },
-      {
-        "name": "3 star",
-        "count": 36503
-      },
-      {
-        "name": "4 star",
-        "count": 823191
-      },
-      {
-        "name": "5 star",
-        "count": 2814889
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1104/512/512",
-    "title": "Microsoft Translator",
-    "companyName": "Microsoft Corporation",
-    "id": 1104,
-    "description": "Microsoft Translator by Microsoft Corporation — powerful intuitive. This app helps you track fitness and offers features like smart recommendations.",
-    "size": 166,
-    "reviews": 1027138,
-    "ratingAvg": 4.54,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 2992
-      },
-      {
-        "name": "2 star",
-        "count": 33295
-      },
-      {
-        "name": "3 star",
-        "count": 96588
-      },
-      {
-        "name": "4 star",
-        "count": 169885
-      },
-      {
-        "name": "5 star",
-        "count": 724378
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1105/512/512",
-    "title": "WolframAlpha",
-    "companyName": "Wolfram Group",
-    "id": 1105,
-    "description": "WolframAlpha by Wolfram Group — intuitive intuitive. This app helps you order food and offers features like multi-language support.",
+    "image": "https://logo.clearbit.com/trello.com?size=512",
+    "title": "Trello",
+    "companyName": "Atlassian Corporation Plc",
+    "id": 5030,
+    "description": "Trello simplifies project management with boards, lists, and cards. Organize your tasks visually, collaborate with teammates, and track progress across projects. It integrates with Slack, Jira, and Google Drive for a complete workflow solution. Trello is a visual project management tool that organizes tasks using boards, lists, and cards. Teams and individuals use Trello to plan workflows, track progress, and collaborate on projects of any scale. Cards can include checklists, attachments, due dates, and comments, keeping everyone aligned. Integrations with Slack, Google Drive, and Jira make Trello adaptable for all industries. Automation with Butler streamlines repetitive work, saving time and boosting productivity. Simple yet powerful, Trello turns task management into an intuitive, enjoyable experience.",
     "size": 85,
-    "reviews": 2448366,
-    "ratingAvg": 3.87,
-    "downloads": 500000,
+    "reviews": 4500000,
+    "ratingAvg": 4.5,
+    "downloads": 9000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 187872
-      },
-      {
-        "name": "2 star",
-        "count": 319611
-      },
-      {
-        "name": "3 star",
-        "count": 92190
-      },
-      {
-        "name": "4 star",
-        "count": 864485
-      },
-      {
-        "name": "5 star",
-        "count": 984208
-      }
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 3900000 }
     ]
   },
   {
-    "image": "https://picsum.photos/seed/app1106/512/512",
-    "title": "IMDb",
-    "companyName": "IMDb",
-    "id": 1106,
-    "description": "IMDb by IMDb — intuitive powerful. This app helps you shop online and offers features like real-time sync.",
-    "size": 295,
-    "reviews": 175576,
-    "ratingAvg": 4.16,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 11493
-      },
-      {
-        "name": "2 star",
-        "count": 14745
-      },
-      {
-        "name": "3 star",
-        "count": 23441
-      },
-      {
-        "name": "4 star",
-        "count": 11114
-      },
-      {
-        "name": "5 star",
-        "count": 114783
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1107/512/512",
-    "title": "Rotten Tomatoes",
-    "companyName": "Fandango",
-    "id": 1107,
-    "description": "Rotten Tomatoes by Fandango — fast powerful. This app helps you learn new skills and offers features like offline mode.",
-    "size": 34,
-    "reviews": 2960298,
-    "ratingAvg": 4.11,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 149575
-      },
-      {
-        "name": "2 star",
-        "count": 318090
-      },
-      {
-        "name": "3 star",
-        "count": 36458
-      },
-      {
-        "name": "4 star",
-        "count": 998565
-      },
-      {
-        "name": "5 star",
-        "count": 1457610
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1108/512/512",
-    "title": "Pocket",
-    "companyName": "Read It Later, Inc.",
-    "id": 1108,
-    "description": "Pocket by Read It Later, Inc. — powerful secure. This app helps you watch videos and offers features like customizable settings.",
-    "size": 162,
-    "reviews": 1696067,
-    "ratingAvg": 4.54,
-    "downloads": 100000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 12571
-      },
-      {
-        "name": "2 star",
-        "count": 62438
-      },
-      {
-        "name": "3 star",
-        "count": 12014
-      },
-      {
-        "name": "4 star",
-        "count": 519181
-      },
-      {
-        "name": "5 star",
-        "count": 1089863
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1109/512/512",
-    "title": "Feedly",
-    "companyName": "Feedly",
-    "id": 1109,
-    "description": "Feedly by Feedly — secure fast. This app helps you navigate places and offers features like customizable settings.",
-    "size": 200,
-    "reviews": 3670413,
-    "ratingAvg": 3.61,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 568290
-      },
-      {
-        "name": "2 star",
-        "count": 350857
-      },
-      {
-        "name": "3 star",
-        "count": 580605
-      },
-      {
-        "name": "4 star",
-        "count": 629695
-      },
-      {
-        "name": "5 star",
-        "count": 1540966
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1110/512/512",
-    "title": "Yelp",
-    "companyName": "Yelp, Inc.",
-    "id": 1110,
-    "description": "Yelp by Yelp, Inc. — secure fun. This app helps you connect with friends and offers features like cross-device support.",
-    "size": 232,
-    "reviews": 1518778,
-    "ratingAvg": 4.3,
-    "downloads": 500000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 98928
-      },
-      {
-        "name": "2 star",
-        "count": 48610
-      },
-      {
-        "name": "3 star",
-        "count": 10471
-      },
-      {
-        "name": "4 star",
-        "count": 507293
-      },
-      {
-        "name": "5 star",
-        "count": 853476
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1111/512/512",
-    "title": "Tripadvisor",
-    "companyName": "Tripadvisor LLC",
-    "id": 1111,
-    "description": "Tripadvisor by Tripadvisor LLC — fast easy. This app helps you track fitness and offers features like offline maps.",
-    "size": 326,
-    "reviews": 3653545,
-    "ratingAvg": 3.5,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 88632
-      },
-      {
-        "name": "2 star",
-        "count": 1080629
-      },
-      {
-        "name": "3 star",
-        "count": 815893
-      },
-      {
-        "name": "4 star",
-        "count": 269410
-      },
-      {
-        "name": "5 star",
-        "count": 1398981
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1112/512/512",
-    "title": "Booking.com",
-    "companyName": "Booking.com",
-    "id": 1112,
-    "description": "Booking.com by Booking.com — secure fun. This app helps you discover content and offers features like real-time sync.",
-    "size": 29,
-    "reviews": 1063894,
-    "ratingAvg": 4.28,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 6564
-      },
-      {
-        "name": "2 star",
-        "count": 142170
-      },
-      {
-        "name": "3 star",
-        "count": 43029
-      },
-      {
-        "name": "4 star",
-        "count": 228543
-      },
-      {
-        "name": "5 star",
-        "count": 643588
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1113/512/512",
-    "title": "Skyscanner",
-    "companyName": "Skyscanner Ltd",
-    "id": 1113,
-    "description": "Skyscanner by Skyscanner Ltd — fast secure. This app helps you watch videos and offers features like offline maps.",
-    "size": 283,
-    "reviews": 3083199,
-    "ratingAvg": 4.23,
-    "downloads": 1000000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 173250
-      },
-      {
-        "name": "2 star",
-        "count": 357921
-      },
-      {
-        "name": "3 star",
-        "count": 98021
-      },
-      {
-        "name": "4 star",
-        "count": 408312
-      },
-      {
-        "name": "5 star",
-        "count": 2045695
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1114/512/512",
-    "title": "Kayak",
-    "companyName": "Kayak Software Corporation",
-    "id": 1114,
-    "description": "Kayak by Kayak Software Corporation — powerful secure. This app helps you shop online and offers features like customizable settings.",
-    "size": 121,
-    "reviews": 2400592,
-    "ratingAvg": 2.99,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 217798
-      },
-      {
-        "name": "2 star",
-        "count": 1212515
-      },
-      {
-        "name": "3 star",
-        "count": 41085
-      },
-      {
-        "name": "4 star",
-        "count": 241120
-      },
-      {
-        "name": "5 star",
-        "count": 688074
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1115/512/512",
-    "title": "Uber Driver",
-    "companyName": "Uber Technologies",
-    "id": 1115,
-    "description": "Uber Driver by Uber Technologies — fast easy. This app helps you manage tasks and offers features like smart recommendations.",
-    "size": 293,
-    "reviews": 4553063,
-    "ratingAvg": 4.2,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 171685
-      },
-      {
-        "name": "2 star",
-        "count": 178499
-      },
-      {
-        "name": "3 star",
-        "count": 85786
-      },
-      {
-        "name": "4 star",
-        "count": 2238986
-      },
-      {
-        "name": "5 star",
-        "count": 1878107
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1116/512/512",
-    "title": "DoorDash Driver",
-    "companyName": "DoorDash, Inc.",
-    "id": 1116,
-    "description": "DoorDash Driver by DoorDash, Inc. — intuitive fast. This app helps you manage tasks and offers features like cross-device support.",
-    "size": 264,
-    "reviews": 225486,
-    "ratingAvg": 4.21,
+    "image": "https://logo.clearbit.com/duolingo.com?size=512",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 5031,
+    "description": "Duolingo is the world’s most popular language-learning app, blending gamification with high-quality education. Its lessons are short, interactive, and fun — designed to help users build real-world language skills step by step. The app supports over 40 languages, including Spanish, French, Japanese, Korean, and Arabic. Lessons adapt dynamically based on your progress, strengthening weaker areas through spaced repetition. Duolingo’s mascot, Duo the owl, keeps users motivated through daily streaks, rewards, and XP levels. Learners can practice reading, writing, listening, and speaking skills using speech recognition and contextual exercises. Beyond individuals, Duolingo for Schools enables educators to track student performance. The app also integrates cultural learning, ensuring students grasp nuances beyond vocabulary. With over half a billion downloads, Duolingo stands at the intersection of education, technology, and entertainment.",
+    "size": 120,
+    "reviews": 35000000,
+    "ratingAvg": 4.8,
     "downloads": 100000000,
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 9831
-      },
-      {
-        "name": "2 star",
-        "count": 18650
-      },
-      {
-        "name": "3 star",
-        "count": 13834
-      },
-      {
-        "name": "4 star",
-        "count": 54764
-      },
-      {
-        "name": "5 star",
-        "count": 128407
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1117/512/512",
-    "title": "Instacart Shopper",
-    "companyName": "Instacart, Inc.",
-    "id": 1117,
-    "description": "Instacart Shopper by Instacart, Inc. — fun intuitive. This app helps you connect with friends and offers features like customizable settings.",
-    "size": 340,
-    "reviews": 627141,
-    "ratingAvg": 4.16,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 22659
-      },
-      {
-        "name": "2 star",
-        "count": 43203
-      },
-      {
-        "name": "3 star",
-        "count": 16010
-      },
-      {
-        "name": "4 star",
-        "count": 274830
-      },
-      {
-        "name": "5 star",
-        "count": 270439
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1118/512/512",
-    "title": "Deliveroo Rider",
-    "companyName": "Deliveroo plc",
-    "id": 1118,
-    "description": "Deliveroo Rider by Deliveroo plc — secure easy. This app helps you order food and offers features like privacy controls.",
-    "size": 277,
-    "reviews": 1288586,
-    "ratingAvg": 4.18,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 41961
-      },
-      {
-        "name": "2 star",
-        "count": 20449
-      },
-      {
-        "name": "3 star",
-        "count": 315862
-      },
-      {
-        "name": "4 star",
-        "count": 199929
-      },
-      {
-        "name": "5 star",
-        "count": 710385
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1119/512/512",
-    "title": "Postmates",
-    "companyName": "Uber Technologies",
-    "id": 1119,
-    "description": "Postmates by Uber Technologies — intuitive fast. This app helps you connect with friends and offers features like customizable settings.",
-    "size": 76,
-    "reviews": 2545276,
-    "ratingAvg": 3.96,
-    "downloads": 50000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 259519
-      },
-      {
-        "name": "2 star",
-        "count": 26710
-      },
-      {
-        "name": "3 star",
-        "count": 278954
-      },
-      {
-        "name": "4 star",
-        "count": 964556
-      },
-      {
-        "name": "5 star",
-        "count": 1015537
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1120/512/512",
-    "title": "App 121",
-    "companyName": "Company 121",
-    "id": 1120,
-    "description": "App 121 by Company 121 — a versatile app that helps users learn faster and includes features such as offline access.",
-    "size": 19,
-    "reviews": 169153,
-    "ratingAvg": 3.58,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 33051
-      },
-      {
-        "name": "2 star",
-        "count": 6893
-      },
-      {
-        "name": "3 star",
-        "count": 5308
-      },
-      {
-        "name": "4 star",
-        "count": 76596
-      },
-      {
-        "name": "5 star",
-        "count": 47305
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1121/512/512",
-    "title": "App 122",
-    "companyName": "Company 122",
-    "id": 1121,
-    "description": "App 122 by Company 122 — a versatile app that helps users shop smarter and includes features such as smart notifications.",
-    "size": 85,
-    "reviews": 127601,
-    "ratingAvg": 3.88,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4058
-      },
-      {
-        "name": "2 star",
-        "count": 23792
-      },
-      {
-        "name": "3 star",
-        "count": 7527
-      },
-      {
-        "name": "4 star",
-        "count": 39875
-      },
-      {
-        "name": "5 star",
-        "count": 52349
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1122/512/512",
-    "title": "App 123",
-    "companyName": "Company 123",
-    "id": 1122,
-    "description": "App 123 by Company 123 — a versatile app that helps users stay organized and includes features such as smart notifications.",
-    "size": 163,
-    "reviews": 38661,
-    "ratingAvg": 3.88,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1103
-      },
-      {
-        "name": "2 star",
-        "count": 3731
-      },
-      {
-        "name": "3 star",
-        "count": 3901
-      },
-      {
-        "name": "4 star",
-        "count": 19948
-      },
-      {
-        "name": "5 star",
-        "count": 9978
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1123/512/512",
-    "title": "App 124",
-    "companyName": "Company 124",
-    "id": 1123,
-    "description": "App 124 by Company 124 — a versatile app that helps users shop smarter and includes features such as smart notifications.",
-    "size": 69,
-    "reviews": 123282,
-    "ratingAvg": 4.72,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 1324
-      },
-      {
-        "name": "2 star",
-        "count": 6049
-      },
-      {
-        "name": "3 star",
-        "count": 1538
-      },
-      {
-        "name": "4 star",
-        "count": 8191
-      },
-      {
-        "name": "5 star",
-        "count": 106180
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1124/512/512",
-    "title": "App 125",
-    "companyName": "Company 125",
-    "id": 1124,
-    "description": "App 125 by Company 125 — a versatile app that helps users communicate seamlessly and includes features such as sync across devices.",
-    "size": 155,
-    "reviews": 190039,
-    "ratingAvg": 4.0,
-    "downloads": 500000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 6926
-      },
-      {
-        "name": "2 star",
-        "count": 26600
-      },
-      {
-        "name": "3 star",
-        "count": 12738
-      },
-      {
-        "name": "4 star",
-        "count": 56889
-      },
-      {
-        "name": "5 star",
-        "count": 86886
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1125/512/512",
-    "title": "App 126",
-    "companyName": "Company 126",
-    "id": 1125,
-    "description": "App 126 by Company 126 — a versatile app that helps users stay organized and includes features such as smart notifications.",
-    "size": 63,
-    "reviews": 153920,
-    "ratingAvg": 4.26,
-    "downloads": 5000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 4670
-      },
-      {
-        "name": "2 star",
-        "count": 556
-      },
-      {
-        "name": "3 star",
-        "count": 7327
-      },
-      {
-        "name": "4 star",
-        "count": 79243
-      },
-      {
-        "name": "5 star",
-        "count": 62124
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1126/512/512",
-    "title": "App 127",
-    "companyName": "Company 127",
-    "id": 1126,
-    "description": "App 127 by Company 127 — a versatile app that helps users communicate seamlessly and includes features such as offline access.",
-    "size": 42,
-    "reviews": 70329,
-    "ratingAvg": 3.65,
-    "downloads": 50000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 9510
-      },
-      {
-        "name": "2 star",
-        "count": 10558
-      },
-      {
-        "name": "3 star",
-        "count": 3333
-      },
-      {
-        "name": "4 star",
-        "count": 18325
-      },
-      {
-        "name": "5 star",
-        "count": 28603
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1127/512/512",
-    "title": "App 128",
-    "companyName": "Company 128",
-    "id": 1127,
-    "description": "App 128 by Company 128 — a versatile app that helps users learn faster and includes features such as sync across devices.",
-    "size": 123,
-    "reviews": 145141,
-    "ratingAvg": 3.53,
-    "downloads": 250000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 3816
-      },
-      {
-        "name": "2 star",
-        "count": 52544
-      },
-      {
-        "name": "3 star",
-        "count": 13266
-      },
-      {
-        "name": "4 star",
-        "count": 14240
-      },
-      {
-        "name": "5 star",
-        "count": 61275
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1128/512/512",
-    "title": "App 129",
-    "companyName": "Company 129",
-    "id": 1128,
-    "description": "App 129 by Company 129 — a versatile app that helps users shop smarter and includes features such as smart notifications.",
-    "size": 58,
-    "reviews": 158932,
-    "ratingAvg": 4.26,
-    "downloads": 1000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 13178
-      },
-      {
-        "name": "2 star",
-        "count": 12840
-      },
-      {
-        "name": "3 star",
-        "count": 859
-      },
-      {
-        "name": "4 star",
-        "count": 24399
-      },
-      {
-        "name": "5 star",
-        "count": 107656
-      }
-    ]
-  },
-  {
-    "image": "https://picsum.photos/seed/app1129/512/512",
-    "title": "App 130",
-    "companyName": "Company 130",
-    "id": 1129,
-    "description": "App 130 by Company 130 — a versatile app that helps users learn faster and includes features such as smart notifications.",
-    "size": 164,
-    "reviews": 84500,
-    "ratingAvg": 3.91,
-    "downloads": 2000000,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 838
-      },
-      {
-        "name": "2 star",
-        "count": 22060
-      },
-      {
-        "name": "3 star",
-        "count": 6353
-      },
-      {
-        "name": "4 star",
-        "count": 9688
-      },
-      {
-        "name": "5 star",
-        "count": 45561
-      }
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 30200000 }
     ]
   }
 ]
